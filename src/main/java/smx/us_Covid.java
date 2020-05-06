@@ -1,8 +1,6 @@
 package smx;
 
 import java.io.IOException;
-import java.util.*;
-
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.conf.*;
 import org.apache.hadoop.io.*;
@@ -21,22 +19,14 @@ public class us_Covid {
 
 		public void map(LongWritable key, Text value, Context context)
 				throws IOException, InterruptedException {
-//			String line = value.toString();
-//			StringTokenizer tokenizer = new StringTokenizer(line);
-//			while (tokenizer.hasMoreTokens()) {
-//				word.set(tokenizer.nextToken());
-//				context.write(word, one);
-//			}
 			String line = value.toString();
 			   String str[]=line.split("\t");
 			         if(str.length>3){
 			             state.set(str[2]);
-			         if((str[1].equals("0")) ){
-			            if(str[5].matches("\\d+")){
-			              int i=Integer.parseInt(str[5]);
-			                dead.set(i);
-			            }
-			         }
+			         int i=Integer.parseInt(str[4]);
+			         dead.set(i);
+			            
+			         
 			       }
 			          context.write(state, dead);
 		}

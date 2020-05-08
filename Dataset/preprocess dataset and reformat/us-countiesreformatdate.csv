@@ -1,0 +1,2877 @@
+date,county,state,cases,deaths
+5/3/2020,Autauga,Alabama,48,3
+5/3/2020,Baldwin,Alabama,187,4
+5/3/2020,Barbour,Alabama,45,1
+5/3/2020,Bibb,Alabama,43,0
+5/3/2020,Blount,Alabama,40,0
+5/3/2020,Bullock,Alabama,14,0
+5/3/2020,Butler,Alabama,105,1
+5/3/2020,Calhoun,Alabama,105,3
+5/3/2020,Chambers,Alabama,300,21
+5/3/2020,Cherokee,Alabama,16,0
+5/3/2020,Chilton,Alabama,57,1
+5/3/2020,Choctaw,Alabama,49,0
+5/3/2020,Clarke,Alabama,42,1
+5/3/2020,Clay,Alabama,22,1
+5/3/2020,Cleburne,Alabama,12,1
+5/3/2020,Coffee,Alabama,130,0
+5/3/2020,Colbert,Alabama,41,2
+5/3/2020,Conecuh,Alabama,9,0
+5/3/2020,Coosa,Alabama,30,1
+5/3/2020,Covington,Alabama,45,1
+5/3/2020,Crenshaw,Alabama,23,0
+5/3/2020,Cullman,Alabama,58,0
+5/3/2020,Dale,Alabama,34,0
+5/3/2020,Dallas,Alabama,59,3
+5/3/2020,DeKalb,Alabama,79,2
+5/3/2020,Elmore,Alabama,103,2
+5/3/2020,Escambia,Alabama,31,2
+5/3/2020,Etowah,Alabama,143,10
+5/3/2020,Fayette,Alabama,6,0
+5/3/2020,Franklin,Alabama,132,0
+5/3/2020,Geneva,Alabama,10,0
+5/3/2020,Greene,Alabama,58,1
+5/3/2020,Hale,Alabama,52,2
+5/3/2020,Henry,Alabama,27,1
+5/3/2020,Houston,Alabama,95,4
+5/3/2020,Jackson,Alabama,50,2
+5/3/2020,Jefferson,Alabama,969,48
+5/3/2020,Lamar,Alabama,11,0
+5/3/2020,Lauderdale,Alabama,61,2
+5/3/2020,Lawrence,Alabama,14,0
+5/3/2020,Lee,Alabama,400,28
+5/3/2020,Limestone,Alabama,45,0
+5/3/2020,Lowndes,Alabama,71,1
+5/3/2020,Macon,Alabama,40,2
+5/3/2020,Madison,Alabama,234,4
+5/3/2020,Marengo,Alabama,58,3
+5/3/2020,Marion,Alabama,83,6
+5/3/2020,Marshall,Alabama,342,7
+5/3/2020,Mobile,Alabama,1198,62
+5/3/2020,Monroe,Alabama,13,1
+5/3/2020,Montgomery,Alabama,409,7
+5/3/2020,Morgan,Alabama,74,0
+5/3/2020,Perry,Alabama,15,0
+5/3/2020,Pickens,Alabama,55,2
+5/3/2020,Pike,Alabama,75,0
+5/3/2020,Randolph,Alabama,77,4
+5/3/2020,Russell,Alabama,61,0
+5/3/2020,Shelby,Alabama,327,13
+5/3/2020,St. Clair,Alabama,76,0
+5/3/2020,Sumter,Alabama,77,3
+5/3/2020,Talladega,Alabama,65,2
+5/3/2020,Tallapoosa,Alabama,295,18
+5/3/2020,Tuscaloosa,Alabama,218,2
+5/3/2020,Walker,Alabama,99,0
+5/3/2020,Washington,Alabama,38,2
+5/3/2020,Wilcox,Alabama,72,3
+5/3/2020,Winston,Alabama,16,0
+5/3/2020,Anchorage,Alaska,187,4
+5/3/2020,Bethel Census Area,Alaska,1,0
+5/3/2020,Fairbanks North Star Borough,Alaska,83,2
+5/3/2020,Juneau City and Borough,Alaska,27,0
+5/3/2020,Kenai Peninsula Borough,Alaska,21,0
+5/3/2020,Ketchikan Gateway Borough,Alaska,16,0
+5/3/2020,Kodiak Island Borough,Alaska,1,0
+5/3/2020,Matanuska-Susitna Borough,Alaska,21,1
+5/3/2020,Nome Census Area,Alaska,1,0
+5/3/2020,Petersburg Borough,Alaska,3,0
+5/3/2020,Prince of Wales-Hyder Census Area,Alaska,2,0
+5/3/2020,Sitka City and Borough,Alaska,1,0
+5/3/2020,Southeast Fairbanks Census Area,Alaska,1,0
+5/3/2020,Yukon-Koyukuk Census Area,Alaska,1,0
+5/3/2020,Apache,Arizona,526,6
+5/3/2020,Cochise,Arizona,39,0
+5/3/2020,Coconino,Arizona,527,44
+5/3/2020,Gila,Arizona,14,0
+5/3/2020,Graham,Arizona,18,0
+5/3/2020,Greenlee,Arizona,2,0
+5/3/2020,La Paz,Arizona,14,2
+5/3/2020,Maricopa,Arizona,4585,168
+5/3/2020,Mohave,Arizona,135,15
+5/3/2020,Navajo,Arizona,777,22
+5/3/2020,Pima,Arizona,1326,89
+5/3/2020,Pinal,Arizona,456,13
+5/3/2020,Santa Cruz,Arizona,34,0
+5/3/2020,Yavapai,Arizona,89,2
+5/3/2020,Yuma,Arizona,98,1
+5/3/2020,Arkansas,Arkansas,3,0
+5/3/2020,Ashley,Arkansas,16,0
+5/3/2020,Baxter,Arkansas,5,0
+5/3/2020,Benton,Arkansas,106,0
+5/3/2020,Boone,Arkansas,4,0
+5/3/2020,Bradley,Arkansas,11,1
+5/3/2020,Carroll,Arkansas,6,0
+5/3/2020,Chicot,Arkansas,9,0
+5/3/2020,Clark,Arkansas,31,0
+5/3/2020,Clay,Arkansas,3,0
+5/3/2020,Cleburne,Arkansas,73,4
+5/3/2020,Cleveland,Arkansas,11,0
+5/3/2020,Columbia,Arkansas,13,2
+5/3/2020,Conway,Arkansas,13,1
+5/3/2020,Craighead,Arkansas,81,0
+5/3/2020,Crawford,Arkansas,5,0
+5/3/2020,Crittenden,Arkansas,197,5
+5/3/2020,Cross,Arkansas,24,0
+5/3/2020,Dallas,Arkansas,1,0
+5/3/2020,Desha,Arkansas,16,0
+5/3/2020,Drew,Arkansas,16,1
+5/3/2020,Faulkner,Arkansas,77,2
+5/3/2020,Franklin,Arkansas,2,0
+5/3/2020,Fulton,Arkansas,1,0
+5/3/2020,Garland,Arkansas,118,0
+5/3/2020,Grant,Arkansas,14,0
+5/3/2020,Greene,Arkansas,19,0
+5/3/2020,Hempstead,Arkansas,6,1
+5/3/2020,Hot Spring,Arkansas,20,0
+5/3/2020,Howard,Arkansas,13,0
+5/3/2020,Independence,Arkansas,10,0
+5/3/2020,Izard,Arkansas,9,0
+5/3/2020,Jackson,Arkansas,1,0
+5/3/2020,Jefferson,Arkansas,184,17
+5/3/2020,Johnson,Arkansas,31,0
+5/3/2020,Lafayette,Arkansas,8,1
+5/3/2020,Lawrence,Arkansas,66,4
+5/3/2020,Lee,Arkansas,3,1
+5/3/2020,Lincoln,Arkansas,822,4
+5/3/2020,Logan,Arkansas,3,1
+5/3/2020,Lonoke,Arkansas,43,0
+5/3/2020,Madison,Arkansas,1,0
+5/3/2020,Marion,Arkansas,1,0
+5/3/2020,Miller,Arkansas,35,1
+5/3/2020,Mississippi,Arkansas,20,0
+5/3/2020,Monroe,Arkansas,4,0
+5/3/2020,Montgomery,Arkansas,1,0
+5/3/2020,Nevada,Arkansas,1,0
+5/3/2020,Newton,Arkansas,3,0
+5/3/2020,Ouachita,Arkansas,7,0
+5/3/2020,Perry,Arkansas,7,0
+5/3/2020,Phillips,Arkansas,6,1
+5/3/2020,Pike,Arkansas,3,0
+5/3/2020,Poinsett,Arkansas,23,2
+5/3/2020,Polk,Arkansas,8,0
+5/3/2020,Pope,Arkansas,44,0
+5/3/2020,Prairie,Arkansas,2,0
+5/3/2020,Pulaski,Arkansas,550,19
+5/3/2020,Randolph,Arkansas,18,0
+5/3/2020,Saline,Arkansas,68,1
+5/3/2020,Scott,Arkansas,1,0
+5/3/2020,Searcy,Arkansas,6,0
+5/3/2020,Sebastian,Arkansas,13,0
+5/3/2020,Sevier,Arkansas,12,1
+5/3/2020,Sharp,Arkansas,9,0
+5/3/2020,St. Francis,Arkansas,93,0
+5/3/2020,Stone,Arkansas,8,0
+5/3/2020,Union,Arkansas,60,0
+5/3/2020,Unknown,Arkansas,174,0
+5/3/2020,Van Buren,Arkansas,28,2
+5/3/2020,Washington,Arkansas,90,3
+5/3/2020,White,Arkansas,35,1
+5/3/2020,Woodruff,Arkansas,1,0
+5/3/2020,Yell,Arkansas,5,0
+5/3/2020,Alameda,California,1770,63
+5/3/2020,Alpine,California,2,0
+5/3/2020,Amador,California,7,0
+5/3/2020,Butte,California,17,0
+5/3/2020,Calaveras,California,13,0
+5/3/2020,Colusa,California,3,0
+5/3/2020,Contra Costa,California,945,28
+5/3/2020,Del Norte,California,3,0
+5/3/2020,El Dorado,California,47,0
+5/3/2020,Fresno,California,633,8
+5/3/2020,Glenn,California,5,0
+5/3/2020,Humboldt,California,54,0
+5/3/2020,Imperial,California,358,8
+5/3/2020,Inyo,California,20,1
+5/3/2020,Kern,California,1007,8
+5/3/2020,Kings,California,172,1
+5/3/2020,Lake,California,7,0
+5/3/2020,Los Angeles,California,25662,1229
+5/3/2020,Madera,California,51,2
+5/3/2020,Marin,California,243,13
+5/3/2020,Mariposa,California,13,0
+5/3/2020,Mendocino,California,12,0
+5/3/2020,Merced,California,142,3
+5/3/2020,Mono,California,26,1
+5/3/2020,Monterey,California,225,6
+5/3/2020,Napa,California,71,2
+5/3/2020,Nevada,California,41,1
+5/3/2020,Orange,California,2774,52
+5/3/2020,Placer,California,159,8
+5/3/2020,Plumas,California,4,0
+5/3/2020,Riverside,California,4180,167
+5/3/2020,Sacramento,California,1116,43
+5/3/2020,San Benito,California,51,2
+5/3/2020,San Bernardino,California,2182,99
+5/3/2020,San Diego,California,3990,150
+5/3/2020,San Francisco,California,1632,29
+5/3/2020,San Joaquin,California,570,25
+5/3/2020,San Luis Obispo,California,201,1
+5/3/2020,San Mateo,California,1272,52
+5/3/2020,Santa Barbara,California,514,8
+5/3/2020,Santa Clara,California,2231,116
+5/3/2020,Santa Cruz,California,137,2
+5/3/2020,Shasta,California,31,4
+5/3/2020,Siskiyou,California,5,0
+5/3/2020,Solano,California,271,5
+5/3/2020,Sonoma,California,257,3
+5/3/2020,Stanislaus,California,411,14
+5/3/2020,Sutter,California,31,2
+5/3/2020,Tehama,California,1,1
+5/3/2020,Tulare,California,743,40
+5/3/2020,Tuolumne,California,4,0
+5/3/2020,Ventura,California,566,19
+5/3/2020,Yolo,California,171,18
+5/3/2020,Yuba,California,19,1
+5/3/2020,Adams,Colorado,1780,68
+5/3/2020,Alamosa,Colorado,12,2
+5/3/2020,Arapahoe,Colorado,2706,156
+5/3/2020,Archuleta,Colorado,8,0
+5/3/2020,Baca,Colorado,12,0
+5/3/2020,Boulder,Colorado,661,44
+5/3/2020,Broomfield,Colorado,165,12
+5/3/2020,Chaffee,Colorado,67,15
+5/3/2020,Clear Creek,Colorado,13,1
+5/3/2020,Costilla,Colorado,3,0
+5/3/2020,Crowley,Colorado,4,1
+5/3/2020,Custer,Colorado,2,0
+5/3/2020,Delta,Colorado,50,1
+5/3/2020,Denver,Colorado,3345,166
+5/3/2020,Douglas,Colorado,526,23
+5/3/2020,Eagle,Colorado,551,7
+5/3/2020,El Paso,Colorado,994,75
+5/3/2020,Elbert,Colorado,31,1
+5/3/2020,Fremont,Colorado,22,0
+5/3/2020,Garfield,Colorado,97,2
+5/3/2020,Gilpin,Colorado,1,0
+5/3/2020,Grand,Colorado,5,0
+5/3/2020,Gunnison,Colorado,165,5
+5/3/2020,Hinsdale,Colorado,3,0
+5/3/2020,Huerfano,Colorado,2,0
+5/3/2020,Jefferson,Colorado,1405,83
+5/3/2020,Kit Carson,Colorado,21,2
+5/3/2020,La Plata,Colorado,63,0
+5/3/2020,Lake,Colorado,20,0
+5/3/2020,Larimer,Colorado,395,19
+5/3/2020,Las Animas,Colorado,3,0
+5/3/2020,Lincoln,Colorado,3,0
+5/3/2020,Logan,Colorado,291,1
+5/3/2020,Mesa,Colorado,47,0
+5/3/2020,Mineral,Colorado,2,0
+5/3/2020,Moffat,Colorado,6,0
+5/3/2020,Montezuma,Colorado,17,2
+5/3/2020,Montrose,Colorado,105,11
+5/3/2020,Morgan,Colorado,399,20
+5/3/2020,Otero,Colorado,10,1
+5/3/2020,Ouray,Colorado,5,1
+5/3/2020,Park,Colorado,14,0
+5/3/2020,Phillips,Colorado,5,0
+5/3/2020,Pitkin,Colorado,51,2
+5/3/2020,Prowers,Colorado,1,0
+5/3/2020,Pueblo,Colorado,158,10
+5/3/2020,Rio Blanco,Colorado,1,0
+5/3/2020,Rio Grande,Colorado,7,0
+5/3/2020,Routt,Colorado,56,5
+5/3/2020,Saguache,Colorado,3,0
+5/3/2020,San Miguel,Colorado,19,0
+5/3/2020,Summit,Colorado,144,2
+5/3/2020,Teller,Colorado,28,2
+5/3/2020,Unknown,Colorado,134,0
+5/3/2020,Washington,Colorado,8,0
+5/3/2020,Weld,Colorado,1872,100
+5/3/2020,Yuma,Colorado,9,0
+5/3/2020,Fairfield,Connecticut,11801,865
+5/3/2020,Hartford,Connecticut,6112,741
+5/3/2020,Litchfield,Connecticut,1036,89
+5/3/2020,Middlesex,Connecticut,707,91
+5/3/2020,New Haven,Connecticut,8024,565
+5/3/2020,New London,Connecticut,623,43
+5/3/2020,Tolland,Connecticut,461,39
+5/3/2020,Unknown,Connecticut,312,1
+5/3/2020,Windham,Connecticut,211,2
+5/3/2020,Kent,Delaware,821,30
+5/3/2020,New Castle,Delaware,1903,79
+5/3/2020,Sussex,Delaware,2461,68
+5/3/2020,Unknown,Delaware,23,0
+5/3/2020,District of Columbia,District of Columbia,5016,251
+5/3/2020,Alachua,Florida,286,5
+5/3/2020,Baker,Florida,22,3
+5/3/2020,Bay,Florida,76,3
+5/3/2020,Bradford,Florida,48,2
+5/3/2020,Brevard,Florida,308,8
+5/3/2020,Broward,Florida,5312,207
+5/3/2020,Calhoun,Florida,15,0
+5/3/2020,Charlotte,Florida,249,25
+5/3/2020,Citrus,Florida,99,11
+5/3/2020,Clay,Florida,279,18
+5/3/2020,Collier,Florida,640,21
+5/3/2020,Columbia,Florida,92,2
+5/3/2020,DeSoto,Florida,32,4
+5/3/2020,Dixie,Florida,9,0
+5/3/2020,Duval,Florida,1045,24
+5/3/2020,Escambia,Florida,593,13
+5/3/2020,Flagler,Florida,140,3
+5/3/2020,Franklin,Florida,2,0
+5/3/2020,Gadsden,Florida,106,0
+5/3/2020,Gilchrist,Florida,6,0
+5/3/2020,Glades,Florida,6,1
+5/3/2020,Gulf,Florida,1,0
+5/3/2020,Hamilton,Florida,7,0
+5/3/2020,Hardee,Florida,32,0
+5/3/2020,Hendry,Florida,101,4
+5/3/2020,Hernando,Florida,94,5
+5/3/2020,Highlands,Florida,85,7
+5/3/2020,Hillsborough,Florida,1281,27
+5/3/2020,Holmes,Florida,10,0
+5/3/2020,Indian River,Florida,97,8
+5/3/2020,Jackson,Florida,15,0
+5/3/2020,Jefferson,Florida,28,2
+5/3/2020,Lafayette,Florida,2,0
+5/3/2020,Lake,Florida,234,13
+5/3/2020,Lee,Florida,1117,45
+5/3/2020,Leon,Florida,233,4
+5/3/2020,Levy,Florida,19,0
+5/3/2020,Liberty,Florida,60,0
+5/3/2020,Madison,Florida,60,2
+5/3/2020,Manatee,Florida,619,59
+5/3/2020,Marion,Florida,184,5
+5/3/2020,Martin,Florida,202,6
+5/3/2020,Miami-Dade,Florida,12774,369
+5/3/2020,Monroe,Florida,80,3
+5/3/2020,Nassau,Florida,59,1
+5/3/2020,Okaloosa,Florida,159,5
+5/3/2020,Okeechobee,Florida,14,0
+5/3/2020,Orange,Florida,1433,34
+5/3/2020,Osceola,Florida,509,8
+5/3/2020,Palm Beach,Florida,3128,196
+5/3/2020,Pasco,Florida,278,8
+5/3/2020,Pinellas,Florida,766,41
+5/3/2020,Polk,Florida,523,26
+5/3/2020,Putnam,Florida,120,2
+5/3/2020,Santa Rosa,Florida,157,8
+5/3/2020,Sarasota,Florida,377,47
+5/3/2020,Seminole,Florida,394,8
+5/3/2020,St. Johns,Florida,211,4
+5/3/2020,St. Lucie,Florida,257,24
+5/3/2020,Sumter,Florida,226,14
+5/3/2020,Suwannee,Florida,141,16
+5/3/2020,Taylor,Florida,3,0
+5/3/2020,Union,Florida,5,0
+5/3/2020,Unknown,Florida,12,0
+5/3/2020,Volusia,Florida,513,26
+5/3/2020,Wakulla,Florida,24,1
+5/3/2020,Walton,Florida,49,0
+5/3/2020,Washington,Florida,12,0
+5/3/2020,Appling,Georgia,72,5
+5/3/2020,Atkinson,Georgia,11,1
+5/3/2020,Bacon,Georgia,27,1
+5/3/2020,Baker,Georgia,23,2
+5/3/2020,Baldwin,Georgia,233,8
+5/3/2020,Banks,Georgia,31,0
+5/3/2020,Barrow,Georgia,159,4
+5/3/2020,Bartow,Georgia,325,31
+5/3/2020,Ben Hill,Georgia,29,0
+5/3/2020,Berrien,Georgia,17,0
+5/3/2020,Bibb,Georgia,324,11
+5/3/2020,Bleckley,Georgia,20,0
+5/3/2020,Brantley,Georgia,22,2
+5/3/2020,Brooks,Georgia,60,6
+5/3/2020,Bryan,Georgia,54,3
+5/3/2020,Bulloch,Georgia,42,2
+5/3/2020,Burke,Georgia,86,3
+5/3/2020,Butts,Georgia,150,16
+5/3/2020,Calhoun,Georgia,107,4
+5/3/2020,Camden,Georgia,35,1
+5/3/2020,Candler,Georgia,7,0
+5/3/2020,Carroll,Georgia,386,14
+5/3/2020,Catoosa,Georgia,46,0
+5/3/2020,Charlton,Georgia,12,0
+5/3/2020,Chatham,Georgia,237,9
+5/3/2020,Chattahoochee,Georgia,13,0
+5/3/2020,Chattooga,Georgia,15,2
+5/3/2020,Cherokee,Georgia,491,13
+5/3/2020,Clarke,Georgia,156,13
+5/3/2020,Clay,Georgia,25,3
+5/3/2020,Clayton,Georgia,793,33
+5/3/2020,Clinch,Georgia,9,0
+5/3/2020,Cobb,Georgia,1768,97
+5/3/2020,Coffee,Georgia,146,7
+5/3/2020,Colquitt,Georgia,188,10
+5/3/2020,Columbia,Georgia,164,4
+5/3/2020,Cook,Georgia,28,1
+5/3/2020,Coweta,Georgia,230,4
+5/3/2020,Crawford,Georgia,18,0
+5/3/2020,Crisp,Georgia,168,3
+5/3/2020,Dade,Georgia,15,1
+5/3/2020,Dawson,Georgia,66,1
+5/3/2020,DeKalb,Georgia,2184,53
+5/3/2020,Decatur,Georgia,91,1
+5/3/2020,Dodge,Georgia,29,1
+5/3/2020,Dooly,Georgia,132,9
+5/3/2020,Dougherty,Georgia,1536,124
+5/3/2020,Douglas,Georgia,341,11
+5/3/2020,Early,Georgia,219,20
+5/3/2020,Echols,Georgia,5,0
+5/3/2020,Effingham,Georgia,36,1
+5/3/2020,Elbert,Georgia,31,0
+5/3/2020,Emanuel,Georgia,21,0
+5/3/2020,Evans,Georgia,5,0
+5/3/2020,Fannin,Georgia,31,1
+5/3/2020,Fayette,Georgia,183,10
+5/3/2020,Floyd,Georgia,145,11
+5/3/2020,Forsyth,Georgia,332,10
+5/3/2020,Franklin,Georgia,21,1
+5/3/2020,Fulton,Georgia,2981,124
+5/3/2020,Gilmer,Georgia,73,0
+5/3/2020,Glynn,Georgia,59,1
+5/3/2020,Gordon,Georgia,113,12
+5/3/2020,Grady,Georgia,63,3
+5/3/2020,Greene,Georgia,54,3
+5/3/2020,Gwinnett,Georgia,1980,58
+5/3/2020,Habersham,Georgia,343,8
+5/3/2020,Hall,Georgia,1700,23
+5/3/2020,Hancock,Georgia,61,2
+5/3/2020,Haralson,Georgia,29,1
+5/3/2020,Harris,Georgia,61,2
+5/3/2020,Hart,Georgia,11,0
+5/3/2020,Heard,Georgia,14,1
+5/3/2020,Henry,Georgia,520,13
+5/3/2020,Houston,Georgia,242,14
+5/3/2020,Irwin,Georgia,16,1
+5/3/2020,Jackson,Georgia,108,2
+5/3/2020,Jasper,Georgia,24,0
+5/3/2020,Jeff Davis,Georgia,22,1
+5/3/2020,Jefferson,Georgia,15,1
+5/3/2020,Jenkins,Georgia,17,1
+5/3/2020,Johnson,Georgia,59,2
+5/3/2020,Jones,Georgia,29,0
+5/3/2020,Lamar,Georgia,40,1
+5/3/2020,Lanier,Georgia,9,1
+5/3/2020,Laurens,Georgia,64,1
+5/3/2020,Lee,Georgia,328,20
+5/3/2020,Liberty,Georgia,38,0
+5/3/2020,Lincoln,Georgia,12,0
+5/3/2020,Long,Georgia,5,0
+5/3/2020,Lowndes,Georgia,157,4
+5/3/2020,Lumpkin,Georgia,63,2
+5/3/2020,Macon,Georgia,81,3
+5/3/2020,Madison,Georgia,25,1
+5/3/2020,Marion,Georgia,40,1
+5/3/2020,McDuffie,Georgia,45,4
+5/3/2020,McIntosh,Georgia,6,0
+5/3/2020,Meriwether,Georgia,54,0
+5/3/2020,Miller,Georgia,33,0
+5/3/2020,Mitchell,Georgia,319,31
+5/3/2020,Monroe,Georgia,24,3
+5/3/2020,Montgomery,Georgia,2,0
+5/3/2020,Morgan,Georgia,28,0
+5/3/2020,Murray,Georgia,33,1
+5/3/2020,Muscogee,Georgia,329,7
+5/3/2020,Newton,Georgia,208,7
+5/3/2020,Oconee,Georgia,65,0
+5/3/2020,Oglethorpe,Georgia,50,3
+5/3/2020,Paulding,Georgia,195,8
+5/3/2020,Peach,Georgia,55,2
+5/3/2020,Pickens,Georgia,29,2
+5/3/2020,Pierce,Georgia,51,3
+5/3/2020,Pike,Georgia,40,2
+5/3/2020,Polk,Georgia,59,0
+5/3/2020,Pulaski,Georgia,32,1
+5/3/2020,Putnam,Georgia,41,5
+5/3/2020,Quitman,Georgia,8,1
+5/3/2020,Rabun,Georgia,13,0
+5/3/2020,Randolph,Georgia,163,19
+5/3/2020,Richmond,Georgia,417,16
+5/3/2020,Rockdale,Georgia,195,6
+5/3/2020,Schley,Georgia,16,1
+5/3/2020,Screven,Georgia,15,1
+5/3/2020,Seminole,Georgia,31,2
+5/3/2020,Spalding,Georgia,219,10
+5/3/2020,Stephens,Georgia,87,1
+5/3/2020,Stewart,Georgia,25,0
+5/3/2020,Sumter,Georgia,388,28
+5/3/2020,Talbot,Georgia,25,1
+5/3/2020,Taliaferro,Georgia,1,0
+5/3/2020,Tattnall,Georgia,9,0
+5/3/2020,Taylor,Georgia,18,2
+5/3/2020,Telfair,Georgia,28,0
+5/3/2020,Terrell,Georgia,186,19
+5/3/2020,Thomas,Georgia,191,19
+5/3/2020,Tift,Georgia,127,5
+5/3/2020,Toombs,Georgia,34,3
+5/3/2020,Towns,Georgia,20,1
+5/3/2020,Treutlen,Georgia,3,0
+5/3/2020,Troup,Georgia,154,4
+5/3/2020,Turner,Georgia,68,9
+5/3/2020,Twiggs,Georgia,8,0
+5/3/2020,Union,Georgia,31,1
+5/3/2020,Unknown,Georgia,694,0
+5/3/2020,Upson,Georgia,230,20
+5/3/2020,Walker,Georgia,51,0
+5/3/2020,Walton,Georgia,133,4
+5/3/2020,Ware,Georgia,130,11
+5/3/2020,Warren,Georgia,13,0
+5/3/2020,Washington,Georgia,44,1
+5/3/2020,Wayne,Georgia,13,0
+5/3/2020,Webster,Georgia,10,2
+5/3/2020,Wheeler,Georgia,5,0
+5/3/2020,White,Georgia,78,0
+5/3/2020,Whitfield,Georgia,120,5
+5/3/2020,Wilcox,Georgia,90,9
+5/3/2020,Wilkes,Georgia,25,0
+5/3/2020,Wilkinson,Georgia,35,2
+5/3/2020,Worth,Georgia,163,11
+5/3/2020,Unknown,Guam,1115,6
+5/3/2020,Hawaii,Hawaii,74,0
+5/3/2020,Honolulu,Hawaii,400,11
+5/3/2020,Kauai,Hawaii,21,0
+5/3/2020,Maui,Hawaii,116,6
+5/3/2020,Ada,Idaho,664,17
+5/3/2020,Adams,Idaho,3,0
+5/3/2020,Bannock,Idaho,7,0
+5/3/2020,Bingham,Idaho,4,0
+5/3/2020,Blaine,Idaho,487,5
+5/3/2020,Bonner,Idaho,4,0
+5/3/2020,Bonneville,Idaho,17,0
+5/3/2020,Camas,Idaho,1,0
+5/3/2020,Canyon,Idaho,243,7
+5/3/2020,Caribou,Idaho,1,0
+5/3/2020,Cassia,Idaho,13,1
+5/3/2020,Custer,Idaho,2,0
+5/3/2020,Elmore,Idaho,29,2
+5/3/2020,Fremont,Idaho,2,0
+5/3/2020,Gem,Idaho,11,0
+5/3/2020,Gooding,Idaho,9,0
+5/3/2020,Idaho,Idaho,3,0
+5/3/2020,Jefferson,Idaho,4,0
+5/3/2020,Jerome,Idaho,45,2
+5/3/2020,Kootenai,Idaho,61,0
+5/3/2020,Latah,Idaho,5,0
+5/3/2020,Lemhi,Idaho,1,0
+5/3/2020,Lincoln,Idaho,26,0
+5/3/2020,Madison,Idaho,7,0
+5/3/2020,Minidoka,Idaho,7,0
+5/3/2020,Nez Perce,Idaho,51,18
+5/3/2020,Owyhee,Idaho,8,0
+5/3/2020,Payette,Idaho,14,1
+5/3/2020,Power,Idaho,2,0
+5/3/2020,Teton,Idaho,8,0
+5/3/2020,Twin Falls,Idaho,164,11
+5/3/2020,Valley,Idaho,2,0
+5/3/2020,Washington,Idaho,1,0
+5/3/2020,Adams,Illinois,40,1
+5/3/2020,Alexander,Illinois,4,0
+5/3/2020,Bond,Illinois,6,1
+5/3/2020,Boone,Illinois,138,11
+5/3/2020,Brown,Illinois,1,0
+5/3/2020,Bureau,Illinois,12,0
+5/3/2020,Calhoun,Illinois,1,0
+5/3/2020,Carroll,Illinois,10,2
+5/3/2020,Cass,Illinois,40,0
+5/3/2020,Champaign,Illinois,177,6
+5/3/2020,Christian,Illinois,28,5
+5/3/2020,Clark,Illinois,5,0
+5/3/2020,Clay,Illinois,2,0
+5/3/2020,Clinton,Illinois,112,5
+5/3/2020,Coles,Illinois,22,1
+5/3/2020,Cook,Illinois,42324,1786
+5/3/2020,Crawford,Illinois,10,0
+5/3/2020,Cumberland,Illinois,3,0
+5/3/2020,De Witt,Illinois,3,0
+5/3/2020,DeKalb,Illinois,125,1
+5/3/2020,Douglas,Illinois,20,0
+5/3/2020,DuPage,Illinois,3611,192
+5/3/2020,Effingham,Illinois,6,1
+5/3/2020,Fayette,Illinois,16,2
+5/3/2020,Ford,Illinois,9,1
+5/3/2020,Franklin,Illinois,10,0
+5/3/2020,Fulton,Illinois,3,0
+5/3/2020,Gallatin,Illinois,2,0
+5/3/2020,Greene,Illinois,3,0
+5/3/2020,Grundy,Illinois,43,0
+5/3/2020,Hamilton,Illinois,2,0
+5/3/2020,Hancock,Illinois,8,0
+5/3/2020,Hardin,Illinois,1,0
+5/3/2020,Henderson,Illinois,5,0
+5/3/2020,Henry,Illinois,50,0
+5/3/2020,Iroquois,Illinois,38,0
+5/3/2020,Jackson,Illinois,139,9
+5/3/2020,Jasper,Illinois,45,5
+5/3/2020,Jefferson,Illinois,86,15
+5/3/2020,Jersey,Illinois,13,1
+5/3/2020,Jo Daviess,Illinois,13,0
+5/3/2020,Johnson,Illinois,4,0
+5/3/2020,Kane,Illinois,1935,57
+5/3/2020,Kankakee,Illinois,358,28
+5/3/2020,Kendall,Illinois,305,9
+5/3/2020,Knox,Illinois,51,0
+5/3/2020,LaSalle,Illinois,67,1
+5/3/2020,Lake,Illinois,4161,145
+5/3/2020,Lawrence,Illinois,4,0
+5/3/2020,Lee,Illinois,25,0
+5/3/2020,Livingston,Illinois,24,1
+5/3/2020,Logan,Illinois,7,0
+5/3/2020,Macon,Illinois,122,12
+5/3/2020,Macoupin,Illinois,32,0
+5/3/2020,Madison,Illinois,365,24
+5/3/2020,Marion,Illinois,34,0
+5/3/2020,Marshall,Illinois,4,0
+5/3/2020,Mason,Illinois,13,0
+5/3/2020,Massac,Illinois,4,0
+5/3/2020,McDonough,Illinois,35,1
+5/3/2020,McHenry,Illinois,738,37
+5/3/2020,McLean,Illinois,99,3
+5/3/2020,Menard,Illinois,15,0
+5/3/2020,Mercer,Illinois,8,0
+5/3/2020,Monroe,Illinois,75,11
+5/3/2020,Montgomery,Illinois,28,0
+5/3/2020,Morgan,Illinois,24,1
+5/3/2020,Moultrie,Illinois,5,0
+5/3/2020,Ogle,Illinois,129,2
+5/3/2020,Peoria,Illinois,106,3
+5/3/2020,Perry,Illinois,34,0
+5/3/2020,Piatt,Illinois,7,0
+5/3/2020,Pike,Illinois,1,0
+5/3/2020,Pulaski,Illinois,20,0
+5/3/2020,Randolph,Illinois,179,1
+5/3/2020,Richland,Illinois,3,0
+5/3/2020,Rock Island,Illinois,436,9
+5/3/2020,Saline,Illinois,4,0
+5/3/2020,Sangamon,Illinois,208,13
+5/3/2020,Schuyler,Illinois,1,0
+5/3/2020,Shelby,Illinois,10,1
+5/3/2020,St. Clair,Illinois,537,33
+5/3/2020,Stark,Illinois,1,0
+5/3/2020,Stephenson,Illinois,63,0
+5/3/2020,Tazewell,Illinois,47,3
+5/3/2020,Union,Illinois,28,0
+5/3/2020,Unknown,Illinois,257,0
+5/3/2020,Vermilion,Illinois,18,1
+5/3/2020,Wabash,Illinois,1,0
+5/3/2020,Warren,Illinois,78,0
+5/3/2020,Washington,Illinois,13,0
+5/3/2020,Wayne,Illinois,2,0
+5/3/2020,White,Illinois,2,0
+5/3/2020,Whiteside,Illinois,92,6
+5/3/2020,Will,Illinois,2868,165
+5/3/2020,Williamson,Illinois,34,0
+5/3/2020,Winnebago,Illinois,579,19
+5/3/2020,Woodford,Illinois,13,1
+5/3/2020,Adams,Indiana,8,1
+5/3/2020,Allen,Indiana,619,54
+5/3/2020,Bartholomew,Indiana,268,14
+5/3/2020,Benton,Indiana,11,0
+5/3/2020,Blackford,Indiana,9,1
+5/3/2020,Boone,Indiana,198,23
+5/3/2020,Brown,Indiana,18,1
+5/3/2020,Carroll,Indiana,41,1
+5/3/2020,Cass,Indiana,1293,2
+5/3/2020,Clark,Indiana,331,16
+5/3/2020,Clay,Indiana,22,1
+5/3/2020,Clinton,Indiana,56,1
+5/3/2020,Crawford,Indiana,18,0
+5/3/2020,Daviess,Indiana,51,14
+5/3/2020,DeKalb,Indiana,22,1
+5/3/2020,Dearborn,Indiana,135,9
+5/3/2020,Decatur,Indiana,202,28
+5/3/2020,Delaware,Indiana,200,15
+5/3/2020,Dubois,Indiana,25,0
+5/3/2020,Elkhart,Indiana,311,12
+5/3/2020,Fayette,Indiana,29,4
+5/3/2020,Floyd,Indiana,203,17
+5/3/2020,Fountain,Indiana,13,2
+5/3/2020,Franklin,Indiana,97,7
+5/3/2020,Fulton,Indiana,33,1
+5/3/2020,Gibson,Indiana,7,0
+5/3/2020,Grant,Indiana,144,12
+5/3/2020,Greene,Indiana,96,6
+5/3/2020,Hamilton,Indiana,824,69
+5/3/2020,Hancock,Indiana,230,11
+5/3/2020,Harrison,Indiana,138,8
+5/3/2020,Hendricks,Indiana,764,41
+5/3/2020,Henry,Indiana,44,1
+5/3/2020,Howard,Indiana,191,9
+5/3/2020,Huntington,Indiana,11,2
+5/3/2020,Jackson,Indiana,165,1
+5/3/2020,Jasper,Indiana,36,1
+5/3/2020,Jay,Indiana,16,0
+5/3/2020,Jefferson,Indiana,30,0
+5/3/2020,Jennings,Indiana,82,3
+5/3/2020,Johnson,Indiana,706,72
+5/3/2020,Knox,Indiana,20,0
+5/3/2020,Kosciusko,Indiana,36,1
+5/3/2020,LaGrange,Indiana,28,2
+5/3/2020,LaPorte,Indiana,251,8
+5/3/2020,Lake,Indiana,2036,95
+5/3/2020,Lawrence,Indiana,105,13
+5/3/2020,Madison,Indiana,439,52
+5/3/2020,Marion,Indiana,6176,360
+5/3/2020,Marshall,Indiana,31,1
+5/3/2020,Martin,Indiana,7,0
+5/3/2020,Miami,Indiana,115,1
+5/3/2020,Monroe,Indiana,130,8
+5/3/2020,Montgomery,Indiana,100,0
+5/3/2020,Morgan,Indiana,163,6
+5/3/2020,Newton,Indiana,61,8
+5/3/2020,Noble,Indiana,83,14
+5/3/2020,Ohio,Indiana,5,0
+5/3/2020,Orange,Indiana,104,10
+5/3/2020,Owen,Indiana,24,1
+5/3/2020,Parke,Indiana,12,0
+5/3/2020,Perry,Indiana,11,0
+5/3/2020,Pike,Indiana,2,0
+5/3/2020,Porter,Indiana,252,7
+5/3/2020,Posey,Indiana,12,0
+5/3/2020,Pulaski,Indiana,29,0
+5/3/2020,Putnam,Indiana,76,4
+5/3/2020,Randolph,Indiana,16,2
+5/3/2020,Ripley,Indiana,94,6
+5/3/2020,Rush,Indiana,34,1
+5/3/2020,Scott,Indiana,52,2
+5/3/2020,Shelby,Indiana,222,12
+5/3/2020,Spencer,Indiana,5,1
+5/3/2020,St. Joseph,Indiana,658,20
+5/3/2020,Starke,Indiana,17,2
+5/3/2020,Steuben,Indiana,26,1
+5/3/2020,Sullivan,Indiana,16,0
+5/3/2020,Switzerland,Indiana,15,0
+5/3/2020,Tippecanoe,Indiana,156,2
+5/3/2020,Tipton,Indiana,20,1
+5/3/2020,Union,Indiana,7,0
+5/3/2020,Vanderburgh,Indiana,151,1
+5/3/2020,Vermillion,Indiana,7,0
+5/3/2020,Vigo,Indiana,67,6
+5/3/2020,Wabash,Indiana,60,2
+5/3/2020,Warren,Indiana,11,1
+5/3/2020,Warrick,Indiana,101,16
+5/3/2020,Washington,Indiana,45,0
+5/3/2020,Wayne,Indiana,38,3
+5/3/2020,Wells,Indiana,7,0
+5/3/2020,White,Indiana,82,0
+5/3/2020,Whitley,Indiana,21,1
+5/3/2020,Adair,Iowa,1,0
+5/3/2020,Allamakee,Iowa,98,3
+5/3/2020,Appanoose,Iowa,3,2
+5/3/2020,Audubon,Iowa,5,0
+5/3/2020,Benton,Iowa,33,1
+5/3/2020,Black Hawk,Iowa,1306,15
+5/3/2020,Boone,Iowa,23,0
+5/3/2020,Bremer,Iowa,53,5
+5/3/2020,Buchanan,Iowa,20,0
+5/3/2020,Buena Vista,Iowa,8,0
+5/3/2020,Butler,Iowa,9,0
+5/3/2020,Calhoun,Iowa,1,0
+5/3/2020,Carroll,Iowa,5,0
+5/3/2020,Cass,Iowa,1,0
+5/3/2020,Cedar,Iowa,31,0
+5/3/2020,Cerro Gordo,Iowa,14,0
+5/3/2020,Cherokee,Iowa,4,0
+5/3/2020,Chickasaw,Iowa,5,0
+5/3/2020,Clarke,Iowa,3,0
+5/3/2020,Clay,Iowa,5,0
+5/3/2020,Clayton,Iowa,15,1
+5/3/2020,Clinton,Iowa,50,1
+5/3/2020,Crawford,Iowa,51,1
+5/3/2020,Dallas,Iowa,537,0
+5/3/2020,Davis,Iowa,1,0
+5/3/2020,Delaware,Iowa,5,1
+5/3/2020,Des Moines,Iowa,18,1
+5/3/2020,Dickinson,Iowa,6,0
+5/3/2020,Dubuque,Iowa,136,5
+5/3/2020,Fayette,Iowa,22,0
+5/3/2020,Floyd,Iowa,1,0
+5/3/2020,Franklin,Iowa,3,0
+5/3/2020,Greene,Iowa,11,0
+5/3/2020,Grundy,Iowa,15,0
+5/3/2020,Guthrie,Iowa,22,0
+5/3/2020,Hamilton,Iowa,7,0
+5/3/2020,Hancock,Iowa,3,0
+5/3/2020,Hardin,Iowa,9,0
+5/3/2020,Harrison,Iowa,16,0
+5/3/2020,Henry,Iowa,33,1
+5/3/2020,Howard,Iowa,10,0
+5/3/2020,Humboldt,Iowa,4,0
+5/3/2020,Iowa,Iowa,21,0
+5/3/2020,Jackson,Iowa,6,0
+5/3/2020,Jasper,Iowa,193,1
+5/3/2020,Jefferson,Iowa,6,0
+5/3/2020,Johnson,Iowa,498,6
+5/3/2020,Jones,Iowa,24,0
+5/3/2020,Keokuk,Iowa,3,0
+5/3/2020,Kossuth,Iowa,2,0
+5/3/2020,Lee,Iowa,13,0
+5/3/2020,Linn,Iowa,731,47
+5/3/2020,Louisa,Iowa,277,2
+5/3/2020,Lyon,Iowa,14,0
+5/3/2020,Madison,Iowa,9,1
+5/3/2020,Mahaska,Iowa,16,1
+5/3/2020,Marion,Iowa,12,0
+5/3/2020,Marshall,Iowa,603,2
+5/3/2020,Mills,Iowa,3,0
+5/3/2020,Mitchell,Iowa,3,0
+5/3/2020,Monona,Iowa,10,0
+5/3/2020,Monroe,Iowa,1,0
+5/3/2020,Montgomery,Iowa,1,0
+5/3/2020,Muscatine,Iowa,372,16
+5/3/2020,O'Brien,Iowa,11,0
+5/3/2020,Osceola,Iowa,13,0
+5/3/2020,Page,Iowa,8,0
+5/3/2020,Plymouth,Iowa,23,0
+5/3/2020,Pocahontas,Iowa,3,0
+5/3/2020,Polk,Iowa,1476,40
+5/3/2020,Pottawattamie,Iowa,44,2
+5/3/2020,Poweshiek,Iowa,68,4
+5/3/2020,Sac,Iowa,1,0
+5/3/2020,Scott,Iowa,241,7
+5/3/2020,Shelby,Iowa,12,0
+5/3/2020,Sioux,Iowa,17,0
+5/3/2020,Story,Iowa,33,1
+5/3/2020,Tama,Iowa,286,8
+5/3/2020,Taylor,Iowa,1,0
+5/3/2020,Union,Iowa,1,0
+5/3/2020,Unknown,Iowa,124,0
+5/3/2020,Van Buren,Iowa,8,0
+5/3/2020,Wapello,Iowa,61,0
+5/3/2020,Warren,Iowa,26,0
+5/3/2020,Washington,Iowa,148,7
+5/3/2020,Wayne,Iowa,1,0
+5/3/2020,Webster,Iowa,6,0
+5/3/2020,Winnebago,Iowa,2,0
+5/3/2020,Winneshiek,Iowa,18,0
+5/3/2020,Woodbury,Iowa,1112,2
+5/3/2020,Worth,Iowa,1,0
+5/3/2020,Wright,Iowa,3,0
+5/3/2020,Atchison,Kansas,11,0
+5/3/2020,Barber,Kansas,1,0
+5/3/2020,Barton,Kansas,9,0
+5/3/2020,Bourbon,Kansas,6,1
+5/3/2020,Butler,Kansas,16,0
+5/3/2020,Chase,Kansas,1,0
+5/3/2020,Chautauqua,Kansas,4,0
+5/3/2020,Cherokee,Kansas,8,0
+5/3/2020,Cheyenne,Kansas,2,0
+5/3/2020,Clark,Kansas,1,0
+5/3/2020,Clay,Kansas,4,1
+5/3/2020,Cloud,Kansas,4,0
+5/3/2020,Coffey,Kansas,49,8
+5/3/2020,Cowley,Kansas,3,1
+5/3/2020,Crawford,Kansas,6,1
+5/3/2020,Dickinson,Kansas,2,0
+5/3/2020,Doniphan,Kansas,4,0
+5/3/2020,Douglas,Kansas,51,0
+5/3/2020,Edwards,Kansas,4,0
+5/3/2020,Elk,Kansas,1,0
+5/3/2020,Ellis,Kansas,8,0
+5/3/2020,Finney,Kansas,550,3
+5/3/2020,Ford,Kansas,815,0
+5/3/2020,Franklin,Kansas,17,0
+5/3/2020,Geary,Kansas,13,0
+5/3/2020,Gove,Kansas,1,0
+5/3/2020,Grant,Kansas,7,0
+5/3/2020,Gray,Kansas,5,0
+5/3/2020,Greenwood,Kansas,3,0
+5/3/2020,Hamilton,Kansas,4,0
+5/3/2020,Harper,Kansas,1,0
+5/3/2020,Harvey,Kansas,8,0
+5/3/2020,Haskell,Kansas,7,0
+5/3/2020,Jackson,Kansas,2,0
+5/3/2020,Jefferson,Kansas,10,0
+5/3/2020,Jewell,Kansas,4,0
+5/3/2020,Johnson,Kansas,498,42
+5/3/2020,Kearny,Kansas,19,0
+5/3/2020,Kiowa,Kansas,2,0
+5/3/2020,Labette,Kansas,22,0
+5/3/2020,Leavenworth,Kansas,498,5
+5/3/2020,Linn,Kansas,6,0
+5/3/2020,Lyon,Kansas,248,1
+5/3/2020,Marion,Kansas,5,1
+5/3/2020,McPherson,Kansas,23,0
+5/3/2020,Meade,Kansas,10,0
+5/3/2020,Miami,Kansas,5,0
+5/3/2020,Mitchell,Kansas,3,0
+5/3/2020,Montgomery,Kansas,18,2
+5/3/2020,Morris,Kansas,3,0
+5/3/2020,Morton,Kansas,3,0
+5/3/2020,Nemaha,Kansas,1,0
+5/3/2020,Neosho,Kansas,3,0
+5/3/2020,Norton,Kansas,2,0
+5/3/2020,Osage,Kansas,5,0
+5/3/2020,Osborne,Kansas,2,0
+5/3/2020,Ottawa,Kansas,4,0
+5/3/2020,Phillips,Kansas,1,0
+5/3/2020,Pottawatomie,Kansas,15,0
+5/3/2020,Pratt,Kansas,1,0
+5/3/2020,Reno,Kansas,40,0
+5/3/2020,Republic,Kansas,4,0
+5/3/2020,Rice,Kansas,3,0
+5/3/2020,Riley,Kansas,54,0
+5/3/2020,Rooks,Kansas,6,0
+5/3/2020,Saline,Kansas,21,2
+5/3/2020,Scott,Kansas,1,0
+5/3/2020,Sedgwick,Kansas,426,13
+5/3/2020,Seward,Kansas,547,0
+5/3/2020,Shawnee,Kansas,127,5
+5/3/2020,Sheridan,Kansas,2,0
+5/3/2020,Sherman,Kansas,5,0
+5/3/2020,Smith,Kansas,2,0
+5/3/2020,Stafford,Kansas,1,0
+5/3/2020,Stanton,Kansas,5,0
+5/3/2020,Stevens,Kansas,11,0
+5/3/2020,Sumner,Kansas,4,1
+5/3/2020,Wabaunsee,Kansas,24,0
+5/3/2020,Washington,Kansas,1,0
+5/3/2020,Wilson,Kansas,1,0
+5/3/2020,Woodson,Kansas,6,0
+5/3/2020,Wyandotte,Kansas,826,55
+5/3/2020,Adair,Kentucky,81,13
+5/3/2020,Allen,Kentucky,14,0
+5/3/2020,Anderson,Kentucky,9,1
+5/3/2020,Ballard,Kentucky,10,0
+5/3/2020,Barren,Kentucky,18,0
+5/3/2020,Bath,Kentucky,4,1
+5/3/2020,Boone,Kentucky,170,2
+5/3/2020,Bourbon,Kentucky,8,1
+5/3/2020,Boyd,Kentucky,33,3
+5/3/2020,Boyle,Kentucky,18,0
+5/3/2020,Bracken,Kentucky,9,0
+5/3/2020,Breathitt,Kentucky,3,0
+5/3/2020,Breckinridge,Kentucky,9,0
+5/3/2020,Bullitt,Kentucky,57,2
+5/3/2020,Butler,Kentucky,143,5
+5/3/2020,Caldwell,Kentucky,13,0
+5/3/2020,Calloway,Kentucky,35,1
+5/3/2020,Campbell,Kentucky,95,9
+5/3/2020,Carlisle,Kentucky,2,1
+5/3/2020,Carroll,Kentucky,2,0
+5/3/2020,Carter,Kentucky,6,0
+5/3/2020,Casey,Kentucky,1,0
+5/3/2020,Christian,Kentucky,90,3
+5/3/2020,Clark,Kentucky,21,0
+5/3/2020,Clay,Kentucky,1,0
+5/3/2020,Clinton,Kentucky,3,0
+5/3/2020,Crittenden,Kentucky,4,1
+5/3/2020,Cumberland,Kentucky,5,0
+5/3/2020,Daviess,Kentucky,228,4
+5/3/2020,Edmonson,Kentucky,32,0
+5/3/2020,Fayette,Kentucky,292,9
+5/3/2020,Fleming,Kentucky,2,0
+5/3/2020,Floyd,Kentucky,14,0
+5/3/2020,Franklin,Kentucky,17,0
+5/3/2020,Fulton,Kentucky,2,0
+5/3/2020,Gallatin,Kentucky,1,0
+5/3/2020,Garrard,Kentucky,2,0
+5/3/2020,Grant,Kentucky,25,3
+5/3/2020,Graves,Kentucky,138,14
+5/3/2020,Grayson,Kentucky,79,5
+5/3/2020,Green,Kentucky,1,0
+5/3/2020,Greenup,Kentucky,12,0
+5/3/2020,Hancock,Kentucky,6,0
+5/3/2020,Hardin,Kentucky,48,0
+5/3/2020,Harrison,Kentucky,17,0
+5/3/2020,Hart,Kentucky,8,0
+5/3/2020,Henderson,Kentucky,65,1
+5/3/2020,Henry,Kentucky,8,0
+5/3/2020,Hickman,Kentucky,1,0
+5/3/2020,Hopkins,Kentucky,207,23
+5/3/2020,Jackson,Kentucky,59,8
+5/3/2020,Jefferson,Kentucky,1403,96
+5/3/2020,Jessamine,Kentucky,41,0
+5/3/2020,Johnson,Kentucky,3,0
+5/3/2020,Kenton,Kentucky,308,20
+5/3/2020,Knott,Kentucky,4,0
+5/3/2020,Knox,Kentucky,6,0
+5/3/2020,Larue,Kentucky,5,0
+5/3/2020,Laurel,Kentucky,17,2
+5/3/2020,Lawrence,Kentucky,1,0
+5/3/2020,Leslie,Kentucky,4,0
+5/3/2020,Letcher,Kentucky,3,0
+5/3/2020,Lewis,Kentucky,3,0
+5/3/2020,Lincoln,Kentucky,5,1
+5/3/2020,Livingston,Kentucky,6,0
+5/3/2020,Logan,Kentucky,13,1
+5/3/2020,Lyon,Kentucky,13,3
+5/3/2020,Madison,Kentucky,29,1
+5/3/2020,Marion,Kentucky,17,0
+5/3/2020,Marshall,Kentucky,34,1
+5/3/2020,Martin,Kentucky,3,0
+5/3/2020,Mason,Kentucky,6,0
+5/3/2020,McCracken,Kentucky,59,2
+5/3/2020,McCreary,Kentucky,11,0
+5/3/2020,McLean,Kentucky,15,0
+5/3/2020,Meade,Kentucky,14,1
+5/3/2020,Menifee,Kentucky,3,0
+5/3/2020,Mercer,Kentucky,11,0
+5/3/2020,Metcalfe,Kentucky,1,0
+5/3/2020,Monroe,Kentucky,6,0
+5/3/2020,Montgomery,Kentucky,12,0
+5/3/2020,Morgan,Kentucky,1,0
+5/3/2020,Muhlenberg,Kentucky,241,4
+5/3/2020,Nelson,Kentucky,24,0
+5/3/2020,Nicholas,Kentucky,1,0
+5/3/2020,Ohio,Kentucky,51,0
+5/3/2020,Oldham,Kentucky,33,0
+5/3/2020,Owen,Kentucky,1,0
+5/3/2020,Owsley,Kentucky,2,0
+5/3/2020,Pendleton,Kentucky,6,0
+5/3/2020,Perry,Kentucky,14,0
+5/3/2020,Pike,Kentucky,13,2
+5/3/2020,Powell,Kentucky,1,0
+5/3/2020,Pulaski,Kentucky,43,2
+5/3/2020,Rockcastle,Kentucky,11,0
+5/3/2020,Rowan,Kentucky,2,0
+5/3/2020,Russell,Kentucky,16,3
+5/3/2020,Scott,Kentucky,29,0
+5/3/2020,Shelby,Kentucky,32,3
+5/3/2020,Simpson,Kentucky,29,2
+5/3/2020,Spencer,Kentucky,13,0
+5/3/2020,Taylor,Kentucky,8,0
+5/3/2020,Todd,Kentucky,12,0
+5/3/2020,Trigg,Kentucky,9,0
+5/3/2020,Trimble,Kentucky,3,0
+5/3/2020,Union,Kentucky,8,0
+5/3/2020,Warren,Kentucky,369,1
+5/3/2020,Washington,Kentucky,5,0
+5/3/2020,Wayne,Kentucky,9,0
+5/3/2020,Webster,Kentucky,23,0
+5/3/2020,Whitley,Kentucky,11,0
+5/3/2020,Woodford,Kentucky,18,0
+5/3/2020,Acadia,Louisiana,134,10
+5/3/2020,Allen,Louisiana,90,9
+5/3/2020,Ascension,Louisiana,644,40
+5/3/2020,Assumption,Louisiana,197,6
+5/3/2020,Avoyelles,Louisiana,74,7
+5/3/2020,Beauregard,Louisiana,43,3
+5/3/2020,Bienville,Louisiana,76,13
+5/3/2020,Bossier,Louisiana,295,17
+5/3/2020,Caddo,Louisiana,1610,114
+5/3/2020,Calcasieu,Louisiana,455,31
+5/3/2020,Caldwell,Louisiana,31,0
+5/3/2020,Cameron,Louisiana,3,0
+5/3/2020,Catahoula,Louisiana,45,2
+5/3/2020,Claiborne,Louisiana,58,7
+5/3/2020,Concordia,Louisiana,39,4
+5/3/2020,De Soto,Louisiana,198,12
+5/3/2020,East Baton Rouge,Louisiana,2086,153
+5/3/2020,East Carroll,Louisiana,9,0
+5/3/2020,East Feliciana,Louisiana,129,16
+5/3/2020,Evangeline,Louisiana,59,1
+5/3/2020,Franklin,Louisiana,131,3
+5/3/2020,Grant,Louisiana,15,0
+5/3/2020,Iberia,Louisiana,267,23
+5/3/2020,Iberville,Louisiana,476,32
+5/3/2020,Jackson,Louisiana,42,3
+5/3/2020,Jefferson,Louisiana,6388,371
+5/3/2020,Jefferson Davis,Louisiana,64,6
+5/3/2020,LaSalle,Louisiana,26,0
+5/3/2020,Lafayette,Louisiana,466,20
+5/3/2020,Lafourche,Louisiana,669,52
+5/3/2020,Lincoln,Louisiana,90,9
+5/3/2020,Livingston,Louisiana,238,16
+5/3/2020,Madison,Louisiana,8,0
+5/3/2020,Morehouse,Louisiana,55,4
+5/3/2020,Natchitoches,Louisiana,87,4
+5/3/2020,Orleans,Louisiana,6538,441
+5/3/2020,Ouachita,Louisiana,770,22
+5/3/2020,Plaquemines,Louisiana,180,17
+5/3/2020,Pointe Coupee,Louisiana,103,15
+5/3/2020,Rapides,Louisiana,281,10
+5/3/2020,Red River,Louisiana,32,5
+5/3/2020,Richland,Louisiana,74,0
+5/3/2020,Sabine,Louisiana,17,1
+5/3/2020,St. Bernard,Louisiana,475,20
+5/3/2020,St. Charles,Louisiana,582,40
+5/3/2020,St. Helena,Louisiana,30,1
+5/3/2020,St. James,Louisiana,250,20
+5/3/2020,St. John the Baptist,Louisiana,772,71
+5/3/2020,St. Landry,Louisiana,186,45
+5/3/2020,St. Martin,Louisiana,244,18
+5/3/2020,St. Mary,Louisiana,205,23
+5/3/2020,St. Tammany,Louisiana,1325,114
+5/3/2020,Tangipahoa,Louisiana,584,23
+5/3/2020,Tensas,Louisiana,2,0
+5/3/2020,Terrebonne,Louisiana,459,33
+5/3/2020,Union,Louisiana,135,7
+5/3/2020,Unknown,Louisiana,63,0
+5/3/2020,Vermilion,Louisiana,38,1
+5/3/2020,Vernon,Louisiana,16,2
+5/3/2020,Washington,Louisiana,285,21
+5/3/2020,Webster,Louisiana,92,4
+5/3/2020,West Baton Rouge,Louisiana,110,22
+5/3/2020,West Carroll,Louisiana,4,0
+5/3/2020,West Feliciana,Louisiana,149,3
+5/3/2020,Winn,Louisiana,42,2
+5/3/2020,Androscoggin,Maine,56,2
+5/3/2020,Aroostook,Maine,5,0
+5/3/2020,Cumberland,Maine,549,28
+5/3/2020,Franklin,Maine,29,1
+5/3/2020,Hancock,Maine,10,0
+5/3/2020,Kennebec,Maine,105,6
+5/3/2020,Knox,Maine,16,0
+5/3/2020,Lincoln,Maine,13,0
+5/3/2020,Oxford,Maine,15,0
+5/3/2020,Penobscot,Maine,84,0
+5/3/2020,Piscataquis,Maine,1,0
+5/3/2020,Sagadahoc,Maine,19,0
+5/3/2020,Somerset,Maine,17,0
+5/3/2020,Waldo,Maine,49,13
+5/3/2020,Washington,Maine,2,0
+5/3/2020,York,Maine,215,7
+5/3/2020,Allegany,Maryland,124,12
+5/3/2020,Anne Arundel,Maryland,1959,88
+5/3/2020,Baltimore,Maryland,3301,133
+5/3/2020,Baltimore city,Maryland,2319,120
+5/3/2020,Calvert,Maryland,162,10
+5/3/2020,Caroline,Maryland,95,0
+5/3/2020,Carroll,Maryland,494,59
+5/3/2020,Cecil,Maryland,188,9
+5/3/2020,Charles,Maryland,637,47
+5/3/2020,Dorchester,Maryland,71,2
+5/3/2020,Frederick,Maryland,1004,54
+5/3/2020,Garrett,Maryland,4,0
+5/3/2020,Harford,Maryland,479,10
+5/3/2020,Howard,Maryland,969,19
+5/3/2020,Kent,Maryland,91,6
+5/3/2020,Montgomery,Maryland,5150,268
+5/3/2020,Prince George's,Maryland,7333,265
+5/3/2020,Queen Anne's,Maryland,60,8
+5/3/2020,Somerset,Maryland,33,0
+5/3/2020,St. Mary's,Maryland,165,7
+5/3/2020,Talbot,Maryland,44,1
+5/3/2020,Unknown,Maryland,0,46
+5/3/2020,Washington,Maryland,232,6
+5/3/2020,Wicomico,Maryland,473,10
+5/3/2020,Worcester,Maryland,75,2
+5/3/2020,Barnstable,Massachusetts,946,47
+5/3/2020,Berkshire,Massachusetts,451,36
+5/3/2020,Bristol,Massachusetts,4019,198
+5/3/2020,Dukes,Massachusetts,21,1
+5/3/2020,Essex,Massachusetts,9542,499
+5/3/2020,Franklin,Massachusetts,269,37
+5/3/2020,Hampden,Massachusetts,4066,398
+5/3/2020,Hampshire,Massachusetts,559,36
+5/3/2020,Middlesex,Massachusetts,15370,972
+5/3/2020,Nantucket,Massachusetts,11,0
+5/3/2020,Norfolk,Massachusetts,6280,550
+5/3/2020,Plymouth,Massachusetts,5507,323
+5/3/2020,Suffolk,Massachusetts,13777,588
+5/3/2020,Unknown,Massachusetts,981,7
+5/3/2020,Worcester,Massachusetts,6288,312
+5/3/2020,Alcona,Michigan,4,1
+5/3/2020,Allegan,Michigan,113,2
+5/3/2020,Alpena,Michigan,83,6
+5/3/2020,Antrim,Michigan,10,0
+5/3/2020,Arenac,Michigan,28,1
+5/3/2020,Baraga,Michigan,1,0
+5/3/2020,Barry,Michigan,37,1
+5/3/2020,Bay,Michigan,157,6
+5/3/2020,Benzie,Michigan,4,0
+5/3/2020,Berrien,Michigan,300,18
+5/3/2020,Branch,Michigan,68,2
+5/3/2020,Calhoun,Michigan,237,15
+5/3/2020,Cass,Michigan,32,2
+5/3/2020,Charlevoix,Michigan,13,1
+5/3/2020,Cheboygan,Michigan,19,1
+5/3/2020,Chippewa,Michigan,2,0
+5/3/2020,Clare,Michigan,11,1
+5/3/2020,Clinton,Michigan,118,10
+5/3/2020,Crawford,Michigan,56,4
+5/3/2020,Delta,Michigan,13,2
+5/3/2020,Dickinson,Michigan,4,2
+5/3/2020,Eaton,Michigan,136,6
+5/3/2020,Emmet,Michigan,21,2
+5/3/2020,Genesee,Michigan,1634,196
+5/3/2020,Gladwin,Michigan,14,1
+5/3/2020,Gogebic,Michigan,4,1
+5/3/2020,Grand Traverse,Michigan,19,5
+5/3/2020,Gratiot,Michigan,26,2
+5/3/2020,Hillsdale,Michigan,131,18
+5/3/2020,Houghton,Michigan,2,0
+5/3/2020,Huron,Michigan,22,1
+5/3/2020,Ingham,Michigan,506,13
+5/3/2020,Ionia,Michigan,90,2
+5/3/2020,Iosco,Michigan,52,7
+5/3/2020,Isabella,Michigan,61,7
+5/3/2020,Jackson,Michigan,361,24
+5/3/2020,Kalamazoo,Michigan,456,18
+5/3/2020,Kalkaska,Michigan,17,2
+5/3/2020,Kent,Michigan,1786,39
+5/3/2020,Lake,Michigan,2,0
+5/3/2020,Lapeer,Michigan,171,26
+5/3/2020,Leelanau,Michigan,9,0
+5/3/2020,Lenawee,Michigan,107,2
+5/3/2020,Livingston,Michigan,361,19
+5/3/2020,Luce,Michigan,1,0
+5/3/2020,Mackinac,Michigan,6,0
+5/3/2020,Macomb,Michigan,5756,628
+5/3/2020,Manistee,Michigan,11,0
+5/3/2020,Marquette,Michigan,50,8
+5/3/2020,Mason,Michigan,12,0
+5/3/2020,Mecosta,Michigan,14,1
+5/3/2020,Menominee,Michigan,5,0
+5/3/2020,Midland,Michigan,62,6
+5/3/2020,Missaukee,Michigan,16,1
+5/3/2020,Monroe,Michigan,311,12
+5/3/2020,Montcalm,Michigan,44,1
+5/3/2020,Montmorency,Michigan,5,0
+5/3/2020,Muskegon,Michigan,304,17
+5/3/2020,Newaygo,Michigan,26,0
+5/3/2020,Oakland,Michigan,7518,757
+5/3/2020,Oceana,Michigan,16,1
+5/3/2020,Ogemaw,Michigan,14,0
+5/3/2020,Osceola,Michigan,8,0
+5/3/2020,Oscoda,Michigan,5,0
+5/3/2020,Otsego,Michigan,93,8
+5/3/2020,Ottawa,Michigan,275,12
+5/3/2020,Presque Isle,Michigan,11,0
+5/3/2020,Roscommon,Michigan,17,0
+5/3/2020,Saginaw,Michigan,720,66
+5/3/2020,Sanilac,Michigan,37,5
+5/3/2020,Schoolcraft,Michigan,3,0
+5/3/2020,Shiawassee,Michigan,184,12
+5/3/2020,St. Clair,Michigan,335,21
+5/3/2020,St. Joseph,Michigan,36,1
+5/3/2020,Tuscola,Michigan,113,14
+5/3/2020,Unknown,Michigan,1949,44
+5/3/2020,Van Buren,Michigan,61,2
+5/3/2020,Washtenaw,Michigan,1113,71
+5/3/2020,Wayne,Michigan,17298,1893
+5/3/2020,Wexford,Michigan,9,2
+5/3/2020,Aitkin,Minnesota,1,0
+5/3/2020,Anoka,Minnesota,281,17
+5/3/2020,Becker,Minnesota,10,0
+5/3/2020,Beltrami,Minnesota,6,0
+5/3/2020,Benton,Minnesota,32,1
+5/3/2020,Big Stone,Minnesota,2,0
+5/3/2020,Blue Earth,Minnesota,46,0
+5/3/2020,Brown,Minnesota,8,1
+5/3/2020,Carlton,Minnesota,60,0
+5/3/2020,Carver,Minnesota,26,0
+5/3/2020,Cass,Minnesota,7,0
+5/3/2020,Chippewa,Minnesota,3,0
+5/3/2020,Chisago,Minnesota,13,1
+5/3/2020,Clay,Minnesota,176,13
+5/3/2020,Clearwater,Minnesota,2,0
+5/3/2020,Cottonwood,Minnesota,28,0
+5/3/2020,Crow Wing,Minnesota,21,1
+5/3/2020,Dakota,Minnesota,202,11
+5/3/2020,Dodge,Minnesota,22,0
+5/3/2020,Douglas,Minnesota,3,0
+5/3/2020,Faribault,Minnesota,6,0
+5/3/2020,Fillmore,Minnesota,13,1
+5/3/2020,Freeborn,Minnesota,35,0
+5/3/2020,Goodhue,Minnesota,21,0
+5/3/2020,Grant,Minnesota,1,0
+5/3/2020,Hennepin,Minnesota,2151,277
+5/3/2020,Houston,Minnesota,1,0
+5/3/2020,Isanti,Minnesota,6,0
+5/3/2020,Itasca,Minnesota,11,0
+5/3/2020,Jackson,Minnesota,18,0
+5/3/2020,Kanabec,Minnesota,1,0
+5/3/2020,Kandiyohi,Minnesota,167,1
+5/3/2020,Kittson,Minnesota,1,0
+5/3/2020,Koochiching,Minnesota,1,0
+5/3/2020,Lac qui Parle,Minnesota,1,0
+5/3/2020,Le Sueur,Minnesota,26,0
+5/3/2020,Lincoln,Minnesota,3,0
+5/3/2020,Lyon,Minnesota,9,0
+5/3/2020,Mahnomen,Minnesota,2,0
+5/3/2020,Marshall,Minnesota,5,0
+5/3/2020,Martin,Minnesota,111,4
+5/3/2020,McLeod,Minnesota,4,0
+5/3/2020,Meeker,Minnesota,15,0
+5/3/2020,Mille Lacs,Minnesota,2,1
+5/3/2020,Morrison,Minnesota,6,0
+5/3/2020,Mower,Minnesota,28,0
+5/3/2020,Murray,Minnesota,17,0
+5/3/2020,Nicollet,Minnesota,15,2
+5/3/2020,Nobles,Minnesota,940,1
+5/3/2020,Norman,Minnesota,8,0
+5/3/2020,Olmsted,Minnesota,293,8
+5/3/2020,Otter Tail,Minnesota,17,0
+5/3/2020,Pennington,Minnesota,1,0
+5/3/2020,Pine,Minnesota,58,0
+5/3/2020,Pipestone,Minnesota,3,0
+5/3/2020,Polk,Minnesota,41,0
+5/3/2020,Ramsey,Minnesota,493,34
+5/3/2020,Red Lake,Minnesota,1,0
+5/3/2020,Redwood,Minnesota,3,0
+5/3/2020,Renville,Minnesota,5,0
+5/3/2020,Rice,Minnesota,20,1
+5/3/2020,Rock,Minnesota,16,0
+5/3/2020,Roseau,Minnesota,1,0
+5/3/2020,Scott,Minnesota,58,1
+5/3/2020,Sherburne,Minnesota,54,0
+5/3/2020,Sibley,Minnesota,2,0
+5/3/2020,St. Louis,Minnesota,75,11
+5/3/2020,Stearns,Minnesota,589,0
+5/3/2020,Steele,Minnesota,21,0
+5/3/2020,Swift,Minnesota,2,0
+5/3/2020,Todd,Minnesota,8,0
+5/3/2020,Traverse,Minnesota,2,0
+5/3/2020,Unknown,Minnesota,17,1
+5/3/2020,Wabasha,Minnesota,10,0
+5/3/2020,Wadena,Minnesota,1,0
+5/3/2020,Waseca,Minnesota,6,0
+5/3/2020,Washington,Minnesota,146,12
+5/3/2020,Watonwan,Minnesota,14,0
+5/3/2020,Wilkin,Minnesota,12,3
+5/3/2020,Winona,Minnesota,67,15
+5/3/2020,Wright,Minnesota,50,1
+5/3/2020,Yellow Medicine,Minnesota,3,0
+5/3/2020,Adams,Mississippi,148,9
+5/3/2020,Alcorn,Mississippi,10,1
+5/3/2020,Amite,Mississippi,28,0
+5/3/2020,Attala,Mississippi,117,2
+5/3/2020,Benton,Mississippi,12,0
+5/3/2020,Bolivar,Mississippi,107,7
+5/3/2020,Calhoun,Mississippi,55,4
+5/3/2020,Carroll,Mississippi,62,2
+5/3/2020,Chickasaw,Mississippi,76,8
+5/3/2020,Choctaw,Mississippi,13,1
+5/3/2020,Claiborne,Mississippi,28,0
+5/3/2020,Clarke,Mississippi,61,3
+5/3/2020,Clay,Mississippi,48,2
+5/3/2020,Coahoma,Mississippi,69,3
+5/3/2020,Copiah,Mississippi,116,1
+5/3/2020,Covington,Mississippi,66,0
+5/3/2020,DeSoto,Mississippi,298,4
+5/3/2020,Forrest,Mississippi,232,14
+5/3/2020,Franklin,Mississippi,17,1
+5/3/2020,George,Mississippi,14,1
+5/3/2020,Greene,Mississippi,5,1
+5/3/2020,Grenada,Mississippi,34,1
+5/3/2020,Hancock,Mississippi,68,5
+5/3/2020,Harrison,Mississippi,181,6
+5/3/2020,Hinds,Mississippi,507,8
+5/3/2020,Holmes,Mississippi,161,9
+5/3/2020,Humphreys,Mississippi,24,4
+5/3/2020,Itawamba,Mississippi,63,4
+5/3/2020,Jackson,Mississippi,267,7
+5/3/2020,Jasper,Mississippi,55,1
+5/3/2020,Jefferson,Mississippi,22,0
+5/3/2020,Jefferson Davis,Mississippi,40,1
+5/3/2020,Jones,Mississippi,172,2
+5/3/2020,Kemper,Mississippi,76,3
+5/3/2020,Lafayette,Mississippi,91,3
+5/3/2020,Lamar,Mississippi,117,2
+5/3/2020,Lauderdale,Mississippi,380,26
+5/3/2020,Lawrence,Mississippi,50,0
+5/3/2020,Leake,Mississippi,233,2
+5/3/2020,Lee,Mississippi,71,4
+5/3/2020,Leflore,Mississippi,168,17
+5/3/2020,Lincoln,Mississippi,151,11
+5/3/2020,Lowndes,Mississippi,60,3
+5/3/2020,Madison,Mississippi,272,9
+5/3/2020,Marion,Mississippi,75,7
+5/3/2020,Marshall,Mississippi,47,2
+5/3/2020,Monroe,Mississippi,175,16
+5/3/2020,Montgomery,Mississippi,32,1
+5/3/2020,Neshoba,Mississippi,214,4
+5/3/2020,Newton,Mississippi,93,0
+5/3/2020,Noxubee,Mississippi,79,1
+5/3/2020,Oktibbeha,Mississippi,52,3
+5/3/2020,Panola,Mississippi,40,2
+5/3/2020,Pearl River,Mississippi,177,20
+5/3/2020,Perry,Mississippi,29,1
+5/3/2020,Pike,Mississippi,155,7
+5/3/2020,Pontotoc,Mississippi,22,2
+5/3/2020,Prentiss,Mississippi,32,1
+5/3/2020,Quitman,Mississippi,15,0
+5/3/2020,Rankin,Mississippi,200,6
+5/3/2020,Scott,Mississippi,358,2
+5/3/2020,Sharkey,Mississippi,5,0
+5/3/2020,Simpson,Mississippi,48,0
+5/3/2020,Smith,Mississippi,79,4
+5/3/2020,Stone,Mississippi,22,0
+5/3/2020,Sunflower,Mississippi,56,2
+5/3/2020,Tallahatchie,Mississippi,12,1
+5/3/2020,Tate,Mississippi,43,0
+5/3/2020,Tippah,Mississippi,57,10
+5/3/2020,Tishomingo,Mississippi,8,0
+5/3/2020,Tunica,Mississippi,36,2
+5/3/2020,Union,Mississippi,27,2
+5/3/2020,Walthall,Mississippi,33,0
+5/3/2020,Warren,Mississippi,81,2
+5/3/2020,Washington,Mississippi,77,3
+5/3/2020,Wayne,Mississippi,24,0
+5/3/2020,Webster,Mississippi,19,1
+5/3/2020,Wilkinson,Mississippi,69,7
+5/3/2020,Winston,Mississippi,47,0
+5/3/2020,Yalobusha,Mississippi,20,0
+5/3/2020,Yazoo,Mississippi,147,2
+5/3/2020,Adair,Missouri,12,0
+5/3/2020,Andrew,Missouri,5,0
+5/3/2020,Atchison,Missouri,2,0
+5/3/2020,Audrain,Missouri,1,0
+5/3/2020,Barry,Missouri,5,0
+5/3/2020,Bates,Missouri,6,1
+5/3/2020,Benton,Missouri,8,0
+5/3/2020,Bollinger,Missouri,4,0
+5/3/2020,Boone,Missouri,102,1
+5/3/2020,Buchanan,Missouri,229,1
+5/3/2020,Butler,Missouri,26,0
+5/3/2020,Caldwell,Missouri,3,0
+5/3/2020,Callaway,Missouri,23,1
+5/3/2020,Camden,Missouri,35,1
+5/3/2020,Cape Girardeau,Missouri,49,1
+5/3/2020,Carroll,Missouri,2,0
+5/3/2020,Carter,Missouri,3,1
+5/3/2020,Cass,Missouri,64,6
+5/3/2020,Cedar,Missouri,5,0
+5/3/2020,Chariton,Missouri,5,0
+5/3/2020,Christian,Missouri,19,0
+5/3/2020,Clark,Missouri,1,0
+5/3/2020,Clay,Missouri,77,1
+5/3/2020,Clinton,Missouri,11,0
+5/3/2020,Cole,Missouri,54,1
+5/3/2020,Cooper,Missouri,9,0
+5/3/2020,Crawford,Missouri,8,0
+5/3/2020,Dallas,Missouri,2,0
+5/3/2020,Daviess,Missouri,3,0
+5/3/2020,DeKalb,Missouri,3,0
+5/3/2020,Dunklin,Missouri,23,2
+5/3/2020,Franklin,Missouri,122,12
+5/3/2020,Gasconade,Missouri,2,0
+5/3/2020,Gentry,Missouri,1,0
+5/3/2020,Greene,Missouri,90,8
+5/3/2020,Harrison,Missouri,6,0
+5/3/2020,Henry,Missouri,7,1
+5/3/2020,Holt,Missouri,1,0
+5/3/2020,Howard,Missouri,2,0
+5/3/2020,Howell,Missouri,5,0
+5/3/2020,Iron,Missouri,2,0
+5/3/2020,Jackson,Missouri,342,14
+5/3/2020,Jasper,Missouri,24,0
+5/3/2020,Jefferson,Missouri,271,8
+5/3/2020,Johnson,Missouri,59,0
+5/3/2020,Kansas City,Missouri,609,16
+5/3/2020,Lafayette,Missouri,42,1
+5/3/2020,Lawrence,Missouri,1,0
+5/3/2020,Lewis,Missouri,6,1
+5/3/2020,Lincoln,Missouri,48,1
+5/3/2020,Linn,Missouri,5,1
+5/3/2020,Livingston,Missouri,2,0
+5/3/2020,Macon,Missouri,2,0
+5/3/2020,Madison,Missouri,1,0
+5/3/2020,Maries,Missouri,2,0
+5/3/2020,Marion,Missouri,4,0
+5/3/2020,McDonald,Missouri,4,0
+5/3/2020,Miller,Missouri,2,0
+5/3/2020,Mississippi,Missouri,29,0
+5/3/2020,Moniteau,Missouri,42,0
+5/3/2020,Montgomery,Missouri,7,0
+5/3/2020,Morgan,Missouri,5,0
+5/3/2020,New Madrid,Missouri,10,0
+5/3/2020,Newton,Missouri,10,1
+5/3/2020,Nodaway,Missouri,4,0
+5/3/2020,Oregon,Missouri,2,0
+5/3/2020,Osage,Missouri,5,0
+5/3/2020,Pemiscot,Missouri,32,1
+5/3/2020,Perry,Missouri,43,0
+5/3/2020,Pettis,Missouri,43,0
+5/3/2020,Phelps,Missouri,2,0
+5/3/2020,Pike,Missouri,11,0
+5/3/2020,Platte,Missouri,33,0
+5/3/2020,Polk,Missouri,1,0
+5/3/2020,Pulaski,Missouri,36,1
+5/3/2020,Ralls,Missouri,1,0
+5/3/2020,Randolph,Missouri,8,0
+5/3/2020,Ray,Missouri,11,0
+5/3/2020,Reynolds,Missouri,2,0
+5/3/2020,Ripley,Missouri,5,0
+5/3/2020,Saline,Missouri,199,0
+5/3/2020,Scotland,Missouri,4,0
+5/3/2020,Scott,Missouri,76,2
+5/3/2020,Shelby,Missouri,1,0
+5/3/2020,St. Charles,Missouri,612,41
+5/3/2020,St. Clair,Missouri,2,0
+5/3/2020,St. Francois,Missouri,27,1
+5/3/2020,St. Louis,Missouri,3325,177
+5/3/2020,St. Louis city,Missouri,1304,70
+5/3/2020,Ste. Genevieve,Missouri,7,1
+5/3/2020,Stoddard,Missouri,20,0
+5/3/2020,Stone,Missouri,3,0
+5/3/2020,Sullivan,Missouri,1,0
+5/3/2020,Taney,Missouri,12,2
+5/3/2020,Vernon,Missouri,4,0
+5/3/2020,Warren,Missouri,21,0
+5/3/2020,Washington,Missouri,8,1
+5/3/2020,Webster,Missouri,15,0
+5/3/2020,Worth,Missouri,1,0
+5/3/2020,Wright,Missouri,9,0
+5/3/2020,Beaverhead,Montana,1,0
+5/3/2020,Big Horn,Montana,3,0
+5/3/2020,Broadwater,Montana,4,0
+5/3/2020,Carbon,Montana,6,0
+5/3/2020,Cascade,Montana,15,2
+5/3/2020,Deer Lodge,Montana,3,0
+5/3/2020,Fergus,Montana,1,0
+5/3/2020,Flathead,Montana,37,2
+5/3/2020,Gallatin,Montana,146,1
+5/3/2020,Glacier,Montana,6,0
+5/3/2020,Golden Valley,Montana,3,0
+5/3/2020,Hill,Montana,1,0
+5/3/2020,Jefferson,Montana,2,0
+5/3/2020,Lake,Montana,5,0
+5/3/2020,Lewis and Clark,Montana,16,0
+5/3/2020,Liberty,Montana,1,0
+5/3/2020,Lincoln,Montana,7,1
+5/3/2020,Madison,Montana,8,1
+5/3/2020,Meagher,Montana,1,0
+5/3/2020,Missoula,Montana,39,1
+5/3/2020,Musselshell,Montana,1,0
+5/3/2020,Park,Montana,8,0
+5/3/2020,Pondera,Montana,2,0
+5/3/2020,Ravalli,Montana,5,0
+5/3/2020,Richland,Montana,3,0
+5/3/2020,Roosevelt,Montana,7,0
+5/3/2020,Silver Bow,Montana,11,0
+5/3/2020,Stillwater,Montana,1,0
+5/3/2020,Toole,Montana,29,6
+5/3/2020,Wheatland,Montana,1,0
+5/3/2020,Yellowstone,Montana,82,2
+5/3/2020,Adams,Nebraska,203,4
+5/3/2020,Antelope,Nebraska,3,0
+5/3/2020,Box Butte,Nebraska,1,0
+5/3/2020,Buffalo,Nebraska,114,1
+5/3/2020,Burt,Nebraska,5,0
+5/3/2020,Butler,Nebraska,7,0
+5/3/2020,Cass,Nebraska,6,0
+5/3/2020,Cedar,Nebraska,4,0
+5/3/2020,Cherry,Nebraska,1,0
+5/3/2020,Cheyenne,Nebraska,7,0
+5/3/2020,Clay,Nebraska,12,0
+5/3/2020,Colfax,Nebraska,161,0
+5/3/2020,Cuming,Nebraska,7,0
+5/3/2020,Custer,Nebraska,32,3
+5/3/2020,Dakota,Nebraska,980,2
+5/3/2020,Dawson,Nebraska,543,3
+5/3/2020,Dixon,Nebraska,13,0
+5/3/2020,Dodge,Nebraska,111,0
+5/3/2020,Douglas,Nebraska,879,16
+5/3/2020,Fillmore,Nebraska,2,1
+5/3/2020,Franklin,Nebraska,5,0
+5/3/2020,Frontier,Nebraska,1,0
+5/3/2020,Furnas,Nebraska,4,0
+5/3/2020,Gage,Nebraska,38,2
+5/3/2020,Gosper,Nebraska,11,0
+5/3/2020,Greeley,Nebraska,2,0
+5/3/2020,Hall,Nebraska,1256,28
+5/3/2020,Hamilton,Nebraska,50,9
+5/3/2020,Hitchcock,Nebraska,1,0
+5/3/2020,Holt,Nebraska,1,0
+5/3/2020,Hooker,Nebraska,1,0
+5/3/2020,Howard,Nebraska,18,0
+5/3/2020,Jefferson,Nebraska,4,0
+5/3/2020,Johnson,Nebraska,4,0
+5/3/2020,Kearney,Nebraska,4,0
+5/3/2020,Keith,Nebraska,1,0
+5/3/2020,Kimball,Nebraska,10,0
+5/3/2020,Knox,Nebraska,1,0
+5/3/2020,Lancaster,Nebraska,330,1
+5/3/2020,Lincoln,Nebraska,33,2
+5/3/2020,Madison,Nebraska,155,3
+5/3/2020,Merrick,Nebraska,19,0
+5/3/2020,Morrill,Nebraska,1,0
+5/3/2020,Nance,Nebraska,3,0
+5/3/2020,Nemaha,Nebraska,1,0
+5/3/2020,Otoe,Nebraska,2,0
+5/3/2020,Phelps,Nebraska,9,0
+5/3/2020,Pierce,Nebraska,1,0
+5/3/2020,Platte,Nebraska,157,0
+5/3/2020,Polk,Nebraska,10,0
+5/3/2020,Red Willow,Nebraska,3,0
+5/3/2020,Saline,Nebraska,212,0
+5/3/2020,Sarpy,Nebraska,142,1
+5/3/2020,Saunders,Nebraska,10,0
+5/3/2020,Scotts Bluff,Nebraska,34,0
+5/3/2020,Seward,Nebraska,8,1
+5/3/2020,Sherman,Nebraska,2,0
+5/3/2020,Stanton,Nebraska,5,0
+5/3/2020,Thurston,Nebraska,6,0
+5/3/2020,Valley,Nebraska,1,0
+5/3/2020,Washington,Nebraska,22,1
+5/3/2020,Wayne,Nebraska,1,0
+5/3/2020,Webster,Nebraska,5,0
+5/3/2020,York,Nebraska,12,0
+5/3/2020,Carson City,Nevada,48,1
+5/3/2020,Churchill,Nevada,3,1
+5/3/2020,Clark,Nevada,4274,218
+5/3/2020,Douglas,Nevada,21,0
+5/3/2020,Elko,Nevada,15,1
+5/3/2020,Humboldt,Nevada,49,3
+5/3/2020,Lander,Nevada,8,0
+5/3/2020,Lyon,Nevada,34,0
+5/3/2020,Mineral,Nevada,4,0
+5/3/2020,Nye,Nevada,37,0
+5/3/2020,Unknown,Nevada,0,5
+5/3/2020,Washoe,Nevada,977,33
+5/3/2020,White Pine,Nevada,3,0
+5/3/2020,Belknap,New Hampshire,39,0
+5/3/2020,Carroll,New Hampshire,32,0
+5/3/2020,Cheshire,New Hampshire,40,2
+5/3/2020,Coos,New Hampshire,2,0
+5/3/2020,Grafton,New Hampshire,53,1
+5/3/2020,Hillsborough,New Hampshire,1109,41
+5/3/2020,Merrimack,New Hampshire,195,4
+5/3/2020,Rockingham,New Hampshire,862,28
+5/3/2020,Strafford,New Hampshire,155,9
+5/3/2020,Sullivan,New Hampshire,12,1
+5/3/2020,Unknown,New Hampshire,19,0
+5/3/2020,Atlantic,New Jersey,1075,49
+5/3/2020,Bergen,New Jersey,16185,1210
+5/3/2020,Burlington,New Jersey,3043,149
+5/3/2020,Camden,New Jersey,3973,163
+5/3/2020,Cape May,New Jersey,344,24
+5/3/2020,Cumberland,New Jersey,881,17
+5/3/2020,Essex,New Jersey,14521,1282
+5/3/2020,Gloucester,New Jersey,1384,51
+5/3/2020,Hudson,New Jersey,15769,845
+5/3/2020,Hunterdon,New Jersey,661,37
+5/3/2020,Mercer,New Jersey,4504,255
+5/3/2020,Middlesex,New Jersey,12597,639
+5/3/2020,Monmouth,New Jersey,6290,382
+5/3/2020,Morris,New Jersey,5517,449
+5/3/2020,Ocean,New Jersey,6871,440
+5/3/2020,Passaic,New Jersey,13364,632
+5/3/2020,Salem,New Jersey,270,13
+5/3/2020,Somerset,New Jersey,3703,295
+5/3/2020,Sussex,New Jersey,969,115
+5/3/2020,Union,New Jersey,13225,738
+5/3/2020,Unknown,New Jersey,641,0
+5/3/2020,Warren,New Jersey,957,86
+5/3/2020,Bernalillo,New Mexico,920,40
+5/3/2020,Catron,New Mexico,1,1
+5/3/2020,Chaves,New Mexico,23,1
+5/3/2020,Cibola,New Mexico,68,3
+5/3/2020,Colfax,New Mexico,5,0
+5/3/2020,Curry,New Mexico,18,0
+5/3/2020,Doña Ana,New Mexico,159,2
+5/3/2020,Eddy,New Mexico,13,1
+5/3/2020,Grant,New Mexico,16,0
+5/3/2020,Guadalupe,New Mexico,15,0
+5/3/2020,Harding,New Mexico,1,0
+5/3/2020,Lea,New Mexico,12,0
+5/3/2020,Lincoln,New Mexico,2,0
+5/3/2020,Los Alamos,New Mexico,6,0
+5/3/2020,Luna,New Mexico,7,1
+5/3/2020,McKinley,New Mexico,1144,21
+5/3/2020,Otero,New Mexico,6,0
+5/3/2020,Quay,New Mexico,4,1
+5/3/2020,Rio Arriba,New Mexico,24,0
+5/3/2020,Roosevelt,New Mexico,10,0
+5/3/2020,San Juan,New Mexico,736,57
+5/3/2020,San Miguel,New Mexico,2,0
+5/3/2020,Sandoval,New Mexico,416,19
+5/3/2020,Santa Fe,New Mexico,107,0
+5/3/2020,Sierra,New Mexico,1,0
+5/3/2020,Socorro,New Mexico,45,2
+5/3/2020,Taos,New Mexico,20,0
+5/3/2020,Torrance,New Mexico,16,0
+5/3/2020,Union,New Mexico,3,0
+5/3/2020,Unknown,New Mexico,0,1
+5/3/2020,Valencia,New Mexico,50,1
+5/3/2020,Albany,New York,1258,61
+5/3/2020,Allegany,New York,35,0
+5/3/2020,Broome,New York,327,18
+5/3/2020,Cattaraugus,New York,53,1
+5/3/2020,Cayuga,New York,51,1
+5/3/2020,Chautauqua,New York,36,2
+5/3/2020,Chemung,New York,125,3
+5/3/2020,Chenango,New York,99,0
+5/3/2020,Clinton,New York,66,4
+5/3/2020,Columbia,New York,209,17
+5/3/2020,Cortland,New York,28,0
+5/3/2020,Delaware,New York,61,0
+5/3/2020,Dutchess,New York,3086,76
+5/3/2020,Erie,New York,3710,250
+5/3/2020,Essex,New York,35,0
+5/3/2020,Franklin,New York,15,0
+5/3/2020,Fulton,New York,82,2
+5/3/2020,Genesee,New York,155,2
+5/3/2020,Greene,New York,151,1
+5/3/2020,Hamilton,New York,3,0
+5/3/2020,Herkimer,New York,62,1
+5/3/2020,Jefferson,New York,62,0
+5/3/2020,Lewis,New York,9,0
+5/3/2020,Livingston,New York,83,2
+5/3/2020,Madison,New York,151,3
+5/3/2020,Monroe,New York,1566,96
+5/3/2020,Montgomery,New York,56,1
+5/3/2020,Nassau,New York,36780,2194
+5/3/2020,New York City,New York,174341,13064
+5/3/2020,Niagara,New York,474,14
+5/3/2020,Oneida,New York,489,16
+5/3/2020,Onondaga,New York,952,42
+5/3/2020,Ontario,New York,95,4
+5/3/2020,Orange,New York,8982,250
+5/3/2020,Orleans,New York,97,6
+5/3/2020,Oswego,New York,66,0
+5/3/2020,Otsego,New York,67,5
+5/3/2020,Putnam,New York,1013,47
+5/3/2020,Rensselaer,New York,322,23
+5/3/2020,Rockland,New York,12025,378
+5/3/2020,Saratoga,New York,363,3
+5/3/2020,Schenectady,New York,527,25
+5/3/2020,Schoharie,New York,45,0
+5/3/2020,Schuyler,New York,7,0
+5/3/2020,Seneca,New York,45,1
+5/3/2020,St. Lawrence,New York,177,2
+5/3/2020,Steuben,New York,218,11
+5/3/2020,Suffolk,New York,34855,1309
+5/3/2020,Sullivan,New York,951,13
+5/3/2020,Tioga,New York,90,8
+5/3/2020,Tompkins,New York,129,2
+5/3/2020,Ulster,New York,1341,11
+5/3/2020,Warren,New York,188,11
+5/3/2020,Washington,New York,186,2
+5/3/2020,Wayne,New York,75,0
+5/3/2020,Westchester,New York,29884,1203
+5/3/2020,Wyoming,New York,69,3
+5/3/2020,Yates,New York,19,1
+5/3/2020,Alamance,North Carolina,124,2
+5/3/2020,Alexander,North Carolina,4,0
+5/3/2020,Alleghany,North Carolina,6,0
+5/3/2020,Anson,North Carolina,30,0
+5/3/2020,Ashe,North Carolina,5,0
+5/3/2020,Beaufort,North Carolina,21,0
+5/3/2020,Bertie,North Carolina,47,2
+5/3/2020,Bladen,North Carolina,27,0
+5/3/2020,Brunswick,North Carolina,44,3
+5/3/2020,Buncombe,North Carolina,73,4
+5/3/2020,Burke,North Carolina,110,9
+5/3/2020,Cabarrus,North Carolina,313,13
+5/3/2020,Caldwell,North Carolina,36,0
+5/3/2020,Camden,North Carolina,2,0
+5/3/2020,Carteret,North Carolina,27,3
+5/3/2020,Caswell,North Carolina,32,0
+5/3/2020,Catawba,North Carolina,56,1
+5/3/2020,Chatham,North Carolina,378,9
+5/3/2020,Cherokee,North Carolina,19,1
+5/3/2020,Chowan,North Carolina,6,0
+5/3/2020,Clay,North Carolina,5,0
+5/3/2020,Cleveland,North Carolina,47,2
+5/3/2020,Columbus,North Carolina,166,10
+5/3/2020,Craven,North Carolina,42,4
+5/3/2020,Cumberland,North Carolina,276,8
+5/3/2020,Currituck,North Carolina,5,0
+5/3/2020,Dare,North Carolina,13,1
+5/3/2020,Davidson,North Carolina,179,8
+5/3/2020,Davie,North Carolina,31,2
+5/3/2020,Duplin,North Carolina,115,1
+5/3/2020,Durham,North Carolina,767,24
+5/3/2020,Edgecombe,North Carolina,105,5
+5/3/2020,Forsyth,North Carolina,267,5
+5/3/2020,Franklin,North Carolina,105,19
+5/3/2020,Gaston,North Carolina,145,3
+5/3/2020,Gates,North Carolina,9,0
+5/3/2020,Graham,North Carolina,1,0
+5/3/2020,Granville,North Carolina,159,6
+5/3/2020,Greene,North Carolina,19,0
+5/3/2020,Guilford,North Carolina,439,31
+5/3/2020,Halifax,North Carolina,62,1
+5/3/2020,Harnett,North Carolina,174,8
+5/3/2020,Haywood,North Carolina,12,0
+5/3/2020,Henderson,North Carolina,201,21
+5/3/2020,Hertford,North Carolina,42,1
+5/3/2020,Hoke,North Carolina,97,0
+5/3/2020,Hyde,North Carolina,1,0
+5/3/2020,Iredell,North Carolina,119,5
+5/3/2020,Jackson,North Carolina,16,0
+5/3/2020,Johnston,North Carolina,164,15
+5/3/2020,Jones,North Carolina,18,2
+5/3/2020,Lee,North Carolina,198,1
+5/3/2020,Lenoir,North Carolina,81,4
+5/3/2020,Lincoln,North Carolina,28,0
+5/3/2020,Macon,North Carolina,3,1
+5/3/2020,Madison,North Carolina,1,0
+5/3/2020,Martin,North Carolina,20,0
+5/3/2020,McDowell,North Carolina,27,1
+5/3/2020,Mecklenburg,North Carolina,1724,51
+5/3/2020,Mitchell,North Carolina,5,0
+5/3/2020,Montgomery,North Carolina,36,2
+5/3/2020,Moore,North Carolina,83,3
+5/3/2020,Nash,North Carolina,98,3
+5/3/2020,New Hanover,North Carolina,79,3
+5/3/2020,Northampton,North Carolina,89,4
+5/3/2020,Onslow,North Carolina,50,1
+5/3/2020,Orange,North Carolina,226,18
+5/3/2020,Pamlico,North Carolina,8,0
+5/3/2020,Pasquotank,North Carolina,37,1
+5/3/2020,Pender,North Carolina,16,0
+5/3/2020,Perquimans,North Carolina,14,1
+5/3/2020,Person,North Carolina,23,1
+5/3/2020,Pitt,North Carolina,129,2
+5/3/2020,Polk,North Carolina,25,0
+5/3/2020,Randolph,North Carolina,238,3
+5/3/2020,Richmond,North Carolina,57,2
+5/3/2020,Robeson,North Carolina,201,6
+5/3/2020,Rockingham,North Carolina,26,2
+5/3/2020,Rowan,North Carolina,388,25
+5/3/2020,Rutherford,North Carolina,145,6
+5/3/2020,Sampson,North Carolina,88,0
+5/3/2020,Scotland,North Carolina,29,0
+5/3/2020,Stanly,North Carolina,29,4
+5/3/2020,Stokes,North Carolina,10,0
+5/3/2020,Surry,North Carolina,16,1
+5/3/2020,Swain,North Carolina,4,0
+5/3/2020,Transylvania,North Carolina,7,0
+5/3/2020,Tyrrell,North Carolina,4,0
+5/3/2020,Union,North Carolina,263,12
+5/3/2020,Vance,North Carolina,112,7
+5/3/2020,Wake,North Carolina,874,19
+5/3/2020,Warren,North Carolina,16,0
+5/3/2020,Washington,North Carolina,24,3
+5/3/2020,Watauga,North Carolina,8,0
+5/3/2020,Wayne,North Carolina,677,11
+5/3/2020,Wilkes,North Carolina,92,1
+5/3/2020,Wilson,North Carolina,175,7
+5/3/2020,Yadkin,North Carolina,23,1
+5/3/2020,Yancey,North Carolina,1,0
+5/3/2020,Barnes,North Dakota,4,0
+5/3/2020,Bowman,North Dakota,1,0
+5/3/2020,Burke,North Dakota,3,0
+5/3/2020,Burleigh,North Dakota,80,0
+5/3/2020,Cass,North Dakota,605,18
+5/3/2020,Divide,North Dakota,1,0
+5/3/2020,Dunn,North Dakota,11,0
+5/3/2020,Eddy,North Dakota,1,0
+5/3/2020,Emmons,North Dakota,1,1
+5/3/2020,Foster,North Dakota,1,0
+5/3/2020,Grand Forks,North Dakota,267,0
+5/3/2020,Grant,North Dakota,1,0
+5/3/2020,McHenry,North Dakota,1,1
+5/3/2020,McIntosh,North Dakota,1,0
+5/3/2020,McKenzie,North Dakota,13,0
+5/3/2020,McLean,North Dakota,5,0
+5/3/2020,Morton,North Dakota,24,2
+5/3/2020,Mountrail,North Dakota,35,0
+5/3/2020,Nelson,North Dakota,1,0
+5/3/2020,Oliver,North Dakota,1,0
+5/3/2020,Pembina,North Dakota,3,0
+5/3/2020,Pierce,North Dakota,2,0
+5/3/2020,Ramsey,North Dakota,3,0
+5/3/2020,Ransom,North Dakota,1,0
+5/3/2020,Renville,North Dakota,1,0
+5/3/2020,Richland,North Dakota,7,0
+5/3/2020,Rolette,North Dakota,1,0
+5/3/2020,Sargent,North Dakota,1,0
+5/3/2020,Sioux,North Dakota,1,0
+5/3/2020,Slope,North Dakota,3,0
+5/3/2020,Stark,North Dakota,55,2
+5/3/2020,Stutsman,North Dakota,11,0
+5/3/2020,Walsh,North Dakota,7,0
+5/3/2020,Ward,North Dakota,25,1
+5/3/2020,Wells,North Dakota,2,0
+5/3/2020,Williams,North Dakota,11,0
+5/3/2020,Unknown,Northern Mariana Islands,14,2
+5/3/2020,Adams,Ohio,5,0
+5/3/2020,Allen,Ohio,124,23
+5/3/2020,Ashland,Ohio,9,0
+5/3/2020,Ashtabula,Ohio,146,15
+5/3/2020,Athens,Ohio,4,1
+5/3/2020,Auglaize,Ohio,35,3
+5/3/2020,Belmont,Ohio,163,7
+5/3/2020,Brown,Ohio,11,1
+5/3/2020,Butler,Ohio,328,7
+5/3/2020,Carroll,Ohio,21,1
+5/3/2020,Champaign,Ohio,15,1
+5/3/2020,Clark,Ohio,67,2
+5/3/2020,Clermont,Ohio,101,3
+5/3/2020,Clinton,Ohio,31,0
+5/3/2020,Columbiana,Ohio,278,24
+5/3/2020,Coshocton,Ohio,17,0
+5/3/2020,Crawford,Ohio,52,1
+5/3/2020,Cuyahoga,Ohio,2338,120
+5/3/2020,Darke,Ohio,77,14
+5/3/2020,Defiance,Ohio,20,1
+5/3/2020,Delaware,Ohio,175,4
+5/3/2020,Erie,Ohio,58,3
+5/3/2020,Fairfield,Ohio,150,2
+5/3/2020,Fayette,Ohio,20,0
+5/3/2020,Franklin,Ohio,2905,79
+5/3/2020,Fulton,Ohio,24,0
+5/3/2020,Gallia,Ohio,6,1
+5/3/2020,Geauga,Ohio,163,13
+5/3/2020,Greene,Ohio,48,4
+5/3/2020,Guernsey,Ohio,19,0
+5/3/2020,Hamilton,Ohio,1380,80
+5/3/2020,Hancock,Ohio,38,1
+5/3/2020,Hardin,Ohio,26,0
+5/3/2020,Harrison,Ohio,6,0
+5/3/2020,Henry,Ohio,5,0
+5/3/2020,Highland,Ohio,10,0
+5/3/2020,Hocking,Ohio,19,1
+5/3/2020,Holmes,Ohio,6,1
+5/3/2020,Huron,Ohio,31,1
+5/3/2020,Jackson,Ohio,5,0
+5/3/2020,Jefferson,Ohio,45,1
+5/3/2020,Knox,Ohio,18,1
+5/3/2020,Lake,Ohio,172,8
+5/3/2020,Lawrence,Ohio,25,0
+5/3/2020,Licking,Ohio,125,5
+5/3/2020,Logan,Ohio,19,0
+5/3/2020,Lorain,Ohio,490,35
+5/3/2020,Lucas,Ohio,1376,119
+5/3/2020,Madison,Ohio,67,3
+5/3/2020,Mahoning,Ohio,937,83
+5/3/2020,Marion,Ohio,2329,4
+5/3/2020,Medina,Ohio,172,16
+5/3/2020,Meigs,Ohio,3,0
+5/3/2020,Mercer,Ohio,29,1
+5/3/2020,Miami,Ohio,143,27
+5/3/2020,Monroe,Ohio,3,0
+5/3/2020,Montgomery,Ohio,316,10
+5/3/2020,Morgan,Ohio,4,0
+5/3/2020,Morrow,Ohio,75,1
+5/3/2020,Muskingum,Ohio,17,0
+5/3/2020,Noble,Ohio,5,0
+5/3/2020,Ottawa,Ohio,40,1
+5/3/2020,Paulding,Ohio,8,0
+5/3/2020,Perry,Ohio,13,0
+5/3/2020,Pickaway,Ohio,1729,22
+5/3/2020,Pike,Ohio,3,0
+5/3/2020,Portage,Ohio,247,41
+5/3/2020,Preble,Ohio,27,1
+5/3/2020,Putnam,Ohio,69,9
+5/3/2020,Richland,Ohio,90,2
+5/3/2020,Ross,Ohio,41,1
+5/3/2020,Sandusky,Ohio,34,6
+5/3/2020,Scioto,Ohio,12,0
+5/3/2020,Seneca,Ohio,14,1
+5/3/2020,Shelby,Ohio,30,1
+5/3/2020,Stark,Ohio,398,53
+5/3/2020,Summit,Ohio,701,58
+5/3/2020,Trumbull,Ohio,331,31
+5/3/2020,Tuscarawas,Ohio,118,0
+5/3/2020,Union,Ohio,24,0
+5/3/2020,Van Wert,Ohio,3,0
+5/3/2020,Vinton,Ohio,6,0
+5/3/2020,Warren,Ohio,168,11
+5/3/2020,Washington,Ohio,102,14
+5/3/2020,Wayne,Ohio,153,32
+5/3/2020,Williams,Ohio,36,1
+5/3/2020,Wood,Ohio,187,23
+5/3/2020,Wyandot,Ohio,24,2
+5/3/2020,Adair,Oklahoma,65,3
+5/3/2020,Alfalfa,Oklahoma,1,0
+5/3/2020,Atoka,Oklahoma,1,0
+5/3/2020,Beaver,Oklahoma,14,0
+5/3/2020,Beckham,Oklahoma,5,0
+5/3/2020,Bryan,Oklahoma,9,1
+5/3/2020,Caddo,Oklahoma,69,8
+5/3/2020,Canadian,Oklahoma,100,3
+5/3/2020,Carter,Oklahoma,4,1
+5/3/2020,Cherokee,Oklahoma,27,1
+5/3/2020,Choctaw,Oklahoma,3,0
+5/3/2020,Cimarron,Oklahoma,1,0
+5/3/2020,Cleveland,Oklahoma,432,29
+5/3/2020,Comanche,Oklahoma,98,2
+5/3/2020,Cotton,Oklahoma,5,1
+5/3/2020,Craig,Oklahoma,11,0
+5/3/2020,Creek,Oklahoma,80,6
+5/3/2020,Custer,Oklahoma,11,0
+5/3/2020,Delaware,Oklahoma,91,13
+5/3/2020,Dewey,Oklahoma,2,0
+5/3/2020,Garfield,Oklahoma,19,1
+5/3/2020,Garvin,Oklahoma,14,1
+5/3/2020,Grady,Oklahoma,39,2
+5/3/2020,Grant,Oklahoma,2,0
+5/3/2020,Greer,Oklahoma,65,6
+5/3/2020,Harper,Oklahoma,1,0
+5/3/2020,Haskell,Oklahoma,5,0
+5/3/2020,Jackson,Oklahoma,17,0
+5/3/2020,Jefferson,Oklahoma,2,0
+5/3/2020,Johnston,Oklahoma,3,0
+5/3/2020,Kay,Oklahoma,47,7
+5/3/2020,Kingfisher,Oklahoma,8,0
+5/3/2020,Kiowa,Oklahoma,5,0
+5/3/2020,Latimer,Oklahoma,5,1
+5/3/2020,Le Flore,Oklahoma,13,0
+5/3/2020,Lincoln,Oklahoma,14,1
+5/3/2020,Logan,Oklahoma,16,1
+5/3/2020,Love,Oklahoma,2,0
+5/3/2020,Major,Oklahoma,3,1
+5/3/2020,Marshall,Oklahoma,2,0
+5/3/2020,Mayes,Oklahoma,24,4
+5/3/2020,McClain,Oklahoma,77,2
+5/3/2020,McCurtain,Oklahoma,8,0
+5/3/2020,McIntosh,Oklahoma,2,0
+5/3/2020,Murray,Oklahoma,2,0
+5/3/2020,Muskogee,Oklahoma,27,6
+5/3/2020,Noble,Oklahoma,6,0
+5/3/2020,Nowata,Oklahoma,21,0
+5/3/2020,Okfuskee,Oklahoma,1,0
+5/3/2020,Oklahoma,Oklahoma,838,33
+5/3/2020,Okmulgee,Oklahoma,16,0
+5/3/2020,Osage,Oklahoma,76,8
+5/3/2020,Ottawa,Oklahoma,34,1
+5/3/2020,Pawnee,Oklahoma,29,2
+5/3/2020,Payne,Oklahoma,44,1
+5/3/2020,Pittsburg,Oklahoma,39,2
+5/3/2020,Pontotoc,Oklahoma,10,2
+5/3/2020,Pottawatomie,Oklahoma,52,4
+5/3/2020,Pushmataha,Oklahoma,1,0
+5/3/2020,Rogers,Oklahoma,66,4
+5/3/2020,Seminole,Oklahoma,12,2
+5/3/2020,Sequoyah,Oklahoma,12,3
+5/3/2020,Stephens,Oklahoma,22,1
+5/3/2020,Texas,Oklahoma,201,2
+5/3/2020,Tillman,Oklahoma,14,0
+5/3/2020,Tulsa,Oklahoma,628,34
+5/3/2020,Wagoner,Oklahoma,122,15
+5/3/2020,Washington,Oklahoma,273,23
+5/3/2020,Woods,Oklahoma,3,0
+5/3/2020,Woodward,Oklahoma,1,0
+5/3/2020,Benton,Oregon,32,5
+5/3/2020,Clackamas,Oregon,225,7
+5/3/2020,Clatsop,Oregon,7,0
+5/3/2020,Columbia,Oregon,14,0
+5/3/2020,Coos,Oregon,25,0
+5/3/2020,Crook,Oregon,1,0
+5/3/2020,Curry,Oregon,4,0
+5/3/2020,Deschutes,Oregon,78,0
+5/3/2020,Douglas,Oregon,24,0
+5/3/2020,Grant,Oregon,1,0
+5/3/2020,Harney,Oregon,1,0
+5/3/2020,Hood River,Oregon,9,0
+5/3/2020,Jackson,Oregon,49,0
+5/3/2020,Jefferson,Oregon,13,0
+5/3/2020,Josephine,Oregon,22,1
+5/3/2020,Klamath,Oregon,39,0
+5/3/2020,Lane,Oregon,54,2
+5/3/2020,Lincoln,Oregon,5,0
+5/3/2020,Linn,Oregon,87,7
+5/3/2020,Malheur,Oregon,13,0
+5/3/2020,Marion,Oregon,544,19
+5/3/2020,Morrow,Oregon,9,0
+5/3/2020,Multnomah,Oregon,739,46
+5/3/2020,Polk,Oregon,41,2
+5/3/2020,Sherman,Oregon,1,0
+5/3/2020,Tillamook,Oregon,6,0
+5/3/2020,Umatilla,Oregon,64,1
+5/3/2020,Union,Oregon,4,0
+5/3/2020,Wallowa,Oregon,1,0
+5/3/2020,Wasco,Oregon,13,1
+5/3/2020,Washington,Oregon,516,11
+5/3/2020,Yamhill,Oregon,39,7
+5/3/2020,Adams,Pennsylvania,145,4
+5/3/2020,Allegheny,Pennsylvania,1345,102
+5/3/2020,Armstrong,Pennsylvania,52,2
+5/3/2020,Beaver,Pennsylvania,435,68
+5/3/2020,Bedford,Pennsylvania,24,1
+5/3/2020,Berks,Pennsylvania,2886,118
+5/3/2020,Blair,Pennsylvania,24,0
+5/3/2020,Bradford,Pennsylvania,35,5
+5/3/2020,Bucks,Pennsylvania,3319,240
+5/3/2020,Butler,Pennsylvania,180,6
+5/3/2020,Cambria,Pennsylvania,33,2
+5/3/2020,Cameron,Pennsylvania,1,0
+5/3/2020,Carbon,Pennsylvania,183,15
+5/3/2020,Centre,Pennsylvania,102,2
+5/3/2020,Chester,Pennsylvania,1546,117
+5/3/2020,Clarion,Pennsylvania,23,1
+5/3/2020,Clearfield,Pennsylvania,21,0
+5/3/2020,Clinton,Pennsylvania,32,0
+5/3/2020,Columbia,Pennsylvania,291,14
+5/3/2020,Crawford,Pennsylvania,19,0
+5/3/2020,Cumberland,Pennsylvania,373,18
+5/3/2020,Dauphin,Pennsylvania,634,28
+5/3/2020,Delaware,Pennsylvania,4173,255
+5/3/2020,Elk,Pennsylvania,4,0
+5/3/2020,Erie,Pennsylvania,91,2
+5/3/2020,Fayette,Pennsylvania,83,4
+5/3/2020,Forest,Pennsylvania,7,0
+5/3/2020,Franklin,Pennsylvania,351,10
+5/3/2020,Fulton,Pennsylvania,6,0
+5/3/2020,Greene,Pennsylvania,27,1
+5/3/2020,Huntingdon,Pennsylvania,56,0
+5/3/2020,Indiana,Pennsylvania,69,4
+5/3/2020,Jefferson,Pennsylvania,6,0
+5/3/2020,Juniata,Pennsylvania,86,1
+5/3/2020,Lackawanna,Pennsylvania,999,86
+5/3/2020,Lancaster,Pennsylvania,1936,191
+5/3/2020,Lawrence,Pennsylvania,65,6
+5/3/2020,Lebanon,Pennsylvania,735,10
+5/3/2020,Lehigh,Pennsylvania,2924,83
+5/3/2020,Luzerne,Pennsylvania,2240,97
+5/3/2020,Lycoming,Pennsylvania,85,2
+5/3/2020,McKean,Pennsylvania,6,0
+5/3/2020,Mercer,Pennsylvania,66,1
+5/3/2020,Mifflin,Pennsylvania,39,0
+5/3/2020,Monroe,Pennsylvania,1172,55
+5/3/2020,Montgomery,Pennsylvania,4552,381
+5/3/2020,Montour,Pennsylvania,50,0
+5/3/2020,Northampton,Pennsylvania,2214,94
+5/3/2020,Northumberland,Pennsylvania,99,0
+5/3/2020,Perry,Pennsylvania,34,1
+5/3/2020,Philadelphia,Pennsylvania,15854,727
+5/3/2020,Pike,Pennsylvania,405,16
+5/3/2020,Potter,Pennsylvania,4,0
+5/3/2020,Schuylkill,Pennsylvania,395,7
+5/3/2020,Snyder,Pennsylvania,33,1
+5/3/2020,Somerset,Pennsylvania,29,1
+5/3/2020,Sullivan,Pennsylvania,1,0
+5/3/2020,Susquehanna,Pennsylvania,85,9
+5/3/2020,Tioga,Pennsylvania,16,2
+5/3/2020,Union,Pennsylvania,38,0
+5/3/2020,Venango,Pennsylvania,7,0
+5/3/2020,Warren,Pennsylvania,1,1
+5/3/2020,Washington,Pennsylvania,119,2
+5/3/2020,Wayne,Pennsylvania,109,5
+5/3/2020,Westmoreland,Pennsylvania,401,30
+5/3/2020,Wyoming,Pennsylvania,25,2
+5/3/2020,York,Pennsylvania,679,13
+5/3/2020,Unknown,Puerto Rico,1806,54
+5/3/2020,Bristol,Rhode Island,152,0
+5/3/2020,Kent,Rhode Island,697,25
+5/3/2020,Newport,Rhode Island,158,4
+5/3/2020,Providence,Rhode Island,7028,265
+5/3/2020,Unknown,Rhode Island,1086,1
+5/3/2020,Washington,Rhode Island,356,25
+5/3/2020,Abbeville,South Carolina,33,0
+5/3/2020,Aiken,South Carolina,108,6
+5/3/2020,Allendale,South Carolina,12,1
+5/3/2020,Anderson,South Carolina,171,8
+5/3/2020,Bamberg,South Carolina,12,0
+5/3/2020,Barnwell,South Carolina,25,0
+5/3/2020,Beaufort,South Carolina,270,11
+5/3/2020,Berkeley,South Carolina,186,11
+5/3/2020,Calhoun,South Carolina,7,1
+5/3/2020,Charleston,South Carolina,457,7
+5/3/2020,Cherokee,South Carolina,17,0
+5/3/2020,Chester,South Carolina,34,0
+5/3/2020,Chesterfield,South Carolina,59,1
+5/3/2020,Clarendon,South Carolina,229,22
+5/3/2020,Colleton,South Carolina,32,4
+5/3/2020,Darlington,South Carolina,140,2
+5/3/2020,Dillon,South Carolina,72,0
+5/3/2020,Dorchester,South Carolina,101,3
+5/3/2020,Edgefield,South Carolina,32,2
+5/3/2020,Fairfield,South Carolina,68,2
+5/3/2020,Florence,South Carolina,336,16
+5/3/2020,Georgetown,South Carolina,45,3
+5/3/2020,Greenville,South Carolina,757,40
+5/3/2020,Greenwood,South Carolina,55,0
+5/3/2020,Hampton,South Carolina,26,0
+5/3/2020,Horry,South Carolina,226,17
+5/3/2020,Jasper,South Carolina,21,1
+5/3/2020,Kershaw,South Carolina,245,10
+5/3/2020,Lancaster,South Carolina,101,4
+5/3/2020,Laurens,South Carolina,40,2
+5/3/2020,Lee,South Carolina,68,8
+5/3/2020,Lexington,South Carolina,420,17
+5/3/2020,Marion,South Carolina,37,2
+5/3/2020,Marlboro,South Carolina,50,0
+5/3/2020,McCormick,South Carolina,6,1
+5/3/2020,Newberry,South Carolina,30,1
+5/3/2020,Oconee,South Carolina,26,0
+5/3/2020,Orangeburg,South Carolina,87,2
+5/3/2020,Pickens,South Carolina,58,1
+5/3/2020,Richland,South Carolina,964,40
+5/3/2020,Saluda,South Carolina,67,0
+5/3/2020,Spartanburg,South Carolina,308,12
+5/3/2020,Sumter,South Carolina,251,12
+5/3/2020,Union,South Carolina,26,0
+5/3/2020,Williamsburg,South Carolina,90,2
+5/3/2020,York,South Carolina,221,3
+5/3/2020,Aurora,South Dakota,1,0
+5/3/2020,Beadle,South Dakota,21,2
+5/3/2020,Bon Homme,South Dakota,4,0
+5/3/2020,Brookings,South Dakota,13,0
+5/3/2020,Brown,South Dakota,59,0
+5/3/2020,Buffalo,South Dakota,1,0
+5/3/2020,Charles Mix,South Dakota,5,0
+5/3/2020,Clark,South Dakota,1,0
+5/3/2020,Clay,South Dakota,7,0
+5/3/2020,Codington,South Dakota,14,0
+5/3/2020,Corson,South Dakota,1,0
+5/3/2020,Davison,South Dakota,6,1
+5/3/2020,Day,South Dakota,8,0
+5/3/2020,Deuel,South Dakota,1,0
+5/3/2020,Dewey,South Dakota,1,0
+5/3/2020,Douglas,South Dakota,1,0
+5/3/2020,Fall River,South Dakota,2,0
+5/3/2020,Faulk,South Dakota,1,0
+5/3/2020,Hamlin,South Dakota,2,0
+5/3/2020,Hand,South Dakota,1,0
+5/3/2020,Hughes,South Dakota,13,0
+5/3/2020,Hutchinson,South Dakota,3,0
+5/3/2020,Hyde,South Dakota,1,0
+5/3/2020,Jerauld,South Dakota,6,1
+5/3/2020,Lake,South Dakota,4,0
+5/3/2020,Lawrence,South Dakota,9,0
+5/3/2020,Lincoln,South Dakota,162,0
+5/3/2020,Lyman,South Dakota,3,0
+5/3/2020,Marshall,South Dakota,1,0
+5/3/2020,McCook,South Dakota,4,1
+5/3/2020,McPherson,South Dakota,1,0
+5/3/2020,Meade,South Dakota,1,0
+5/3/2020,Miner,South Dakota,1,0
+5/3/2020,Minnehaha,South Dakota,2142,16
+5/3/2020,Moody,South Dakota,6,0
+5/3/2020,Oglala Lakota,South Dakota,1,0
+5/3/2020,Pennington,South Dakota,14,0
+5/3/2020,Roberts,South Dakota,10,0
+5/3/2020,Sanborn,South Dakota,3,0
+5/3/2020,Spink,South Dakota,3,0
+5/3/2020,Stanley,South Dakota,8,0
+5/3/2020,Sully,South Dakota,1,0
+5/3/2020,Todd,South Dakota,3,0
+5/3/2020,Turner,South Dakota,17,0
+5/3/2020,Union,South Dakota,31,0
+5/3/2020,Walworth,South Dakota,5,0
+5/3/2020,Yankton,South Dakota,28,0
+5/3/2020,Anderson,Tennessee,28,1
+5/3/2020,Bedford,Tennessee,200,3
+5/3/2020,Benton,Tennessee,6,1
+5/3/2020,Bledsoe,Tennessee,598,0
+5/3/2020,Blount,Tennessee,63,3
+5/3/2020,Bradley,Tennessee,53,1
+5/3/2020,Campbell,Tennessee,16,1
+5/3/2020,Cannon,Tennessee,12,0
+5/3/2020,Carroll,Tennessee,18,1
+5/3/2020,Carter,Tennessee,14,1
+5/3/2020,Cheatham,Tennessee,53,0
+5/3/2020,Chester,Tennessee,10,0
+5/3/2020,Claiborne,Tennessee,5,0
+5/3/2020,Clay,Tennessee,5,0
+5/3/2020,Cocke,Tennessee,16,0
+5/3/2020,Coffee,Tennessee,41,0
+5/3/2020,Crockett,Tennessee,7,0
+5/3/2020,Cumberland,Tennessee,80,1
+5/3/2020,Davidson,Tennessee,3026,28
+5/3/2020,DeKalb,Tennessee,21,0
+5/3/2020,Decatur,Tennessee,4,0
+5/3/2020,Dickson,Tennessee,80,0
+5/3/2020,Dyer,Tennessee,36,0
+5/3/2020,Fayette,Tennessee,63,1
+5/3/2020,Fentress,Tennessee,4,0
+5/3/2020,Franklin,Tennessee,36,1
+5/3/2020,Gibson,Tennessee,50,1
+5/3/2020,Giles,Tennessee,8,0
+5/3/2020,Grainger,Tennessee,6,0
+5/3/2020,Greene,Tennessee,43,2
+5/3/2020,Grundy,Tennessee,28,1
+5/3/2020,Hamblen,Tennessee,19,2
+5/3/2020,Hamilton,Tennessee,172,14
+5/3/2020,Hardeman,Tennessee,19,0
+5/3/2020,Hardin,Tennessee,7,0
+5/3/2020,Hawkins,Tennessee,30,2
+5/3/2020,Haywood,Tennessee,25,1
+5/3/2020,Henderson,Tennessee,9,0
+5/3/2020,Henry,Tennessee,13,0
+5/3/2020,Hickman,Tennessee,45,0
+5/3/2020,Houston,Tennessee,5,0
+5/3/2020,Humphreys,Tennessee,11,1
+5/3/2020,Jackson,Tennessee,7,0
+5/3/2020,Jefferson,Tennessee,24,0
+5/3/2020,Johnson,Tennessee,3,0
+5/3/2020,Knox,Tennessee,243,5
+5/3/2020,Lake,Tennessee,57,0
+5/3/2020,Lauderdale,Tennessee,24,0
+5/3/2020,Lawrence,Tennessee,17,0
+5/3/2020,Lewis,Tennessee,2,0
+5/3/2020,Lincoln,Tennessee,14,0
+5/3/2020,Loudon,Tennessee,37,0
+5/3/2020,Macon,Tennessee,113,12
+5/3/2020,Madison,Tennessee,140,1
+5/3/2020,Marion,Tennessee,29,1
+5/3/2020,Marshall,Tennessee,23,1
+5/3/2020,Maury,Tennessee,44,1
+5/3/2020,McMinn,Tennessee,100,1
+5/3/2020,McNairy,Tennessee,11,0
+5/3/2020,Meigs,Tennessee,9,0
+5/3/2020,Monroe,Tennessee,21,1
+5/3/2020,Montgomery,Tennessee,148,2
+5/3/2020,Moore,Tennessee,3,0
+5/3/2020,Morgan,Tennessee,6,0
+5/3/2020,Obion,Tennessee,15,1
+5/3/2020,Overton,Tennessee,9,0
+5/3/2020,Perry,Tennessee,12,0
+5/3/2020,Polk,Tennessee,11,0
+5/3/2020,Putnam,Tennessee,136,5
+5/3/2020,Rhea,Tennessee,5,0
+5/3/2020,Roane,Tennessee,8,0
+5/3/2020,Robertson,Tennessee,179,0
+5/3/2020,Rutherford,Tennessee,579,11
+5/3/2020,Scott,Tennessee,11,0
+5/3/2020,Sequatchie,Tennessee,5,0
+5/3/2020,Sevier,Tennessee,51,1
+5/3/2020,Shelby,Tennessee,2815,55
+5/3/2020,Smith,Tennessee,22,1
+5/3/2020,Stewart,Tennessee,7,0
+5/3/2020,Sullivan,Tennessee,51,1
+5/3/2020,Sumner,Tennessee,653,38
+5/3/2020,Tipton,Tennessee,146,0
+5/3/2020,Trousdale,Tennessee,1346,1
+5/3/2020,Unicoi,Tennessee,2,0
+5/3/2020,Union,Tennessee,3,0
+5/3/2020,Van Buren,Tennessee,2,0
+5/3/2020,Warren,Tennessee,8,0
+5/3/2020,Washington,Tennessee,57,0
+5/3/2020,Wayne,Tennessee,4,0
+5/3/2020,Weakley,Tennessee,23,0
+5/3/2020,White,Tennessee,14,0
+5/3/2020,Williamson,Tennessee,427,9
+5/3/2020,Wilson,Tennessee,273,5
+5/3/2020,Anderson,Texas,32,0
+5/3/2020,Andrews,Texas,21,0
+5/3/2020,Angelina,Texas,55,0
+5/3/2020,Aransas,Texas,2,0
+5/3/2020,Armstrong,Texas,2,0
+5/3/2020,Atascosa,Texas,19,1
+5/3/2020,Austin,Texas,13,0
+5/3/2020,Bandera,Texas,6,0
+5/3/2020,Bastrop,Texas,86,2
+5/3/2020,Bee,Texas,6,0
+5/3/2020,Bell,Texas,194,3
+5/3/2020,Bexar,Texas,1625,48
+5/3/2020,Blanco,Texas,6,0
+5/3/2020,Bosque,Texas,4,0
+5/3/2020,Bowie,Texas,101,9
+5/3/2020,Brazoria,Texas,551,6
+5/3/2020,Brazos,Texas,208,16
+5/3/2020,Brewster,Texas,1,0
+5/3/2020,Briscoe,Texas,1,0
+5/3/2020,Brooks,Texas,1,0
+5/3/2020,Brown,Texas,36,5
+5/3/2020,Burleson,Texas,14,0
+5/3/2020,Burnet,Texas,19,0
+5/3/2020,Caldwell,Texas,20,0
+5/3/2020,Calhoun,Texas,32,3
+5/3/2020,Callahan,Texas,2,0
+5/3/2020,Cameron,Texas,432,18
+5/3/2020,Camp,Texas,7,0
+5/3/2020,Carson,Texas,3,0
+5/3/2020,Cass,Texas,16,2
+5/3/2020,Castro,Texas,15,1
+5/3/2020,Chambers,Texas,45,0
+5/3/2020,Cherokee,Texas,17,1
+5/3/2020,Childress,Texas,1,0
+5/3/2020,Clay,Texas,3,0
+5/3/2020,Cochran,Texas,1,0
+5/3/2020,Coleman,Texas,1,0
+5/3/2020,Collin,Texas,791,22
+5/3/2020,Colorado,Texas,10,0
+5/3/2020,Comal,Texas,58,6
+5/3/2020,Comanche,Texas,3,1
+5/3/2020,Concho,Texas,1,0
+5/3/2020,Cooke,Texas,8,0
+5/3/2020,Coryell,Texas,162,2
+5/3/2020,Cottle,Texas,2,0
+5/3/2020,Crane,Texas,2,0
+5/3/2020,Crosby,Texas,2,1
+5/3/2020,Dallam,Texas,12,1
+5/3/2020,Dallas,Texas,4133,111
+5/3/2020,Dawson,Texas,26,1
+5/3/2020,DeWitt,Texas,15,1
+5/3/2020,Deaf Smith,Texas,35,0
+5/3/2020,Delta,Texas,1,0
+5/3/2020,Denton,Texas,803,22
+5/3/2020,Dickens,Texas,1,0
+5/3/2020,Dimmit,Texas,1,0
+5/3/2020,Donley,Texas,25,0
+5/3/2020,Duval,Texas,3,0
+5/3/2020,Eastland,Texas,3,0
+5/3/2020,Ector,Texas,81,4
+5/3/2020,El Paso,Texas,998,22
+5/3/2020,Ellis,Texas,166,6
+5/3/2020,Erath,Texas,12,1
+5/3/2020,Falls,Texas,4,0
+5/3/2020,Fannin,Texas,19,0
+5/3/2020,Fayette,Texas,15,1
+5/3/2020,Floyd,Texas,3,0
+5/3/2020,Fort Bend,Texas,1183,28
+5/3/2020,Franklin,Texas,2,0
+5/3/2020,Freestone,Texas,7,0
+5/3/2020,Frio,Texas,10,0
+5/3/2020,Gaines,Texas,2,0
+5/3/2020,Galveston,Texas,636,28
+5/3/2020,Garza,Texas,3,0
+5/3/2020,Gillespie,Texas,3,0
+5/3/2020,Glasscock,Texas,1,0
+5/3/2020,Goliad,Texas,7,0
+5/3/2020,Gonzales,Texas,27,2
+5/3/2020,Gray,Texas,58,0
+5/3/2020,Grayson,Texas,41,0
+5/3/2020,Gregg,Texas,87,0
+5/3/2020,Grimes,Texas,22,1
+5/3/2020,Guadalupe,Texas,85,0
+5/3/2020,Hale,Texas,29,4
+5/3/2020,Hamilton,Texas,5,0
+5/3/2020,Hansford,Texas,7,0
+5/3/2020,Hardin,Texas,107,3
+5/3/2020,Harris,Texas,6838,133
+5/3/2020,Harrison,Texas,140,6
+5/3/2020,Hartley,Texas,5,0
+5/3/2020,Hays,Texas,167,1
+5/3/2020,Hemphill,Texas,1,0
+5/3/2020,Henderson,Texas,28,0
+5/3/2020,Hidalgo,Texas,341,6
+5/3/2020,Hill,Texas,17,1
+5/3/2020,Hockley,Texas,20,1
+5/3/2020,Hood,Texas,20,3
+5/3/2020,Hopkins,Texas,6,0
+5/3/2020,Houston,Texas,7,0
+5/3/2020,Howard,Texas,4,1
+5/3/2020,Hunt,Texas,49,2
+5/3/2020,Hutchinson,Texas,16,0
+5/3/2020,Jack,Texas,4,0
+5/3/2020,Jackson,Texas,14,0
+5/3/2020,Jasper,Texas,18,1
+5/3/2020,Jefferson,Texas,324,22
+5/3/2020,Jim Hogg,Texas,3,0
+5/3/2020,Jim Wells,Texas,5,0
+5/3/2020,Johnson,Texas,90,4
+5/3/2020,Jones,Texas,62,0
+5/3/2020,Karnes,Texas,3,0
+5/3/2020,Kaufman,Texas,87,1
+5/3/2020,Kendall,Texas,16,0
+5/3/2020,Kerr,Texas,5,0
+5/3/2020,Kleberg,Texas,10,1
+5/3/2020,Knox,Texas,1,0
+5/3/2020,La Salle,Texas,1,0
+5/3/2020,Lamar,Texas,67,0
+5/3/2020,Lamb,Texas,4,0
+5/3/2020,Lampasas,Texas,4,0
+5/3/2020,Lavaca,Texas,6,1
+5/3/2020,Lee,Texas,2,0
+5/3/2020,Leon,Texas,6,0
+5/3/2020,Liberty,Texas,45,0
+5/3/2020,Limestone,Texas,13,1
+5/3/2020,Lipscomb,Texas,2,0
+5/3/2020,Live Oak,Texas,5,0
+5/3/2020,Llano,Texas,3,0
+5/3/2020,Lubbock,Texas,553,44
+5/3/2020,Lynn,Texas,5,1
+5/3/2020,Madison,Texas,2,0
+5/3/2020,Marion,Texas,15,0
+5/3/2020,Martin,Texas,2,0
+5/3/2020,Mason,Texas,24,0
+5/3/2020,Matagorda,Texas,64,3
+5/3/2020,Maverick,Texas,24,0
+5/3/2020,McCulloch,Texas,3,0
+5/3/2020,McLennan,Texas,91,4
+5/3/2020,Medina,Texas,20,2
+5/3/2020,Midland,Texas,82,6
+5/3/2020,Milam,Texas,17,1
+5/3/2020,Mitchell,Texas,1,0
+5/3/2020,Montague,Texas,6,1
+5/3/2020,Montgomery,Texas,634,14
+5/3/2020,Moore,Texas,399,6
+5/3/2020,Morris,Texas,9,0
+5/3/2020,Motley,Texas,1,0
+5/3/2020,Nacogdoches,Texas,172,7
+5/3/2020,Navarro,Texas,31,2
+5/3/2020,Newton,Texas,2,0
+5/3/2020,Nolan,Texas,2,0
+5/3/2020,Nueces,Texas,107,3
+5/3/2020,Ochiltree,Texas,19,1
+5/3/2020,Oldham,Texas,3,1
+5/3/2020,Orange,Texas,71,1
+5/3/2020,Palo Pinto,Texas,8,1
+5/3/2020,Panola,Texas,133,5
+5/3/2020,Parker,Texas,35,0
+5/3/2020,Parmer,Texas,8,0
+5/3/2020,Pecos,Texas,10,0
+5/3/2020,Polk,Texas,20,0
+5/3/2020,Potter,Texas,818,9
+5/3/2020,Rains,Texas,2,0
+5/3/2020,Randall,Texas,279,3
+5/3/2020,Red River,Texas,1,0
+5/3/2020,Roberts,Texas,2,0
+5/3/2020,Robertson,Texas,4,0
+5/3/2020,Rockwall,Texas,85,3
+5/3/2020,Runnels,Texas,2,0
+5/3/2020,Rusk,Texas,36,1
+5/3/2020,Sabine,Texas,1,0
+5/3/2020,San Augustine,Texas,19,1
+5/3/2020,San Jacinto,Texas,10,0
+5/3/2020,San Patricio,Texas,12,0
+5/3/2020,Scurry,Texas,2,0
+5/3/2020,Shelby,Texas,117,4
+5/3/2020,Sherman,Texas,18,0
+5/3/2020,Smith,Texas,146,4
+5/3/2020,Starr,Texas,9,0
+5/3/2020,Stephens,Texas,1,0
+5/3/2020,Swisher,Texas,9,0
+5/3/2020,Tarrant,Texas,2584,75
+5/3/2020,Taylor,Texas,348,5
+5/3/2020,Terry,Texas,11,0
+5/3/2020,Titus,Texas,20,0
+5/3/2020,Tom Green,Texas,54,1
+5/3/2020,Travis,Texas,1756,52
+5/3/2020,Trinity,Texas,8,0
+5/3/2020,Tyler,Texas,6,0
+5/3/2020,Upshur,Texas,15,0
+5/3/2020,Uvalde,Texas,7,0
+5/3/2020,Val Verde,Texas,13,0
+5/3/2020,Van Zandt,Texas,16,1
+5/3/2020,Victoria,Texas,139,5
+5/3/2020,Walker,Texas,298,2
+5/3/2020,Waller,Texas,33,0
+5/3/2020,Washington,Texas,145,18
+5/3/2020,Webb,Texas,391,16
+5/3/2020,Wharton,Texas,38,0
+5/3/2020,Wheeler,Texas,9,0
+5/3/2020,Wichita,Texas,65,2
+5/3/2020,Wilbarger,Texas,1,0
+5/3/2020,Willacy,Texas,13,1
+5/3/2020,Williamson,Texas,323,10
+5/3/2020,Wilson,Texas,33,3
+5/3/2020,Winkler,Texas,3,0
+5/3/2020,Wise,Texas,24,2
+5/3/2020,Wood,Texas,10,0
+5/3/2020,Yoakum,Texas,1,0
+5/3/2020,Young,Texas,4,1
+5/3/2020,Zapata,Texas,7,0
+5/3/2020,Zavala,Texas,1,0
+5/3/2020,Box Elder,Utah,18,1
+5/3/2020,Cache,Utah,44,0
+5/3/2020,Carbon,Utah,7,0
+5/3/2020,Davis,Utah,300,2
+5/3/2020,Duchesne,Utah,8,0
+5/3/2020,Emery,Utah,5,0
+5/3/2020,Garfield,Utah,3,0
+5/3/2020,Grand,Utah,3,0
+5/3/2020,Iron,Utah,25,0
+5/3/2020,Juab,Utah,7,0
+5/3/2020,Kane,Utah,3,0
+5/3/2020,Millard,Utah,5,0
+5/3/2020,Morgan,Utah,9,0
+5/3/2020,Salt Lake,Utah,2707,31
+5/3/2020,San Juan,Utah,100,2
+5/3/2020,Sanpete,Utah,5,0
+5/3/2020,Sevier,Utah,6,0
+5/3/2020,Summit,Utah,376,0
+5/3/2020,Tooele,Utah,71,0
+5/3/2020,Uintah,Utah,6,0
+5/3/2020,Unknown,Utah,8,2
+5/3/2020,Utah,Utah,1073,9
+5/3/2020,Wasatch,Utah,159,1
+5/3/2020,Washington,Utah,72,0
+5/3/2020,Weber,Utah,155,2
+5/3/2020,Addison,Vermont,61,2
+5/3/2020,Bennington,Vermont,51,1
+5/3/2020,Caledonia,Vermont,14,0
+5/3/2020,Chittenden,Vermont,423,36
+5/3/2020,Essex,Vermont,2,0
+5/3/2020,Franklin,Vermont,99,5
+5/3/2020,Grand Isle,Vermont,4,0
+5/3/2020,Lamoille,Vermont,25,2
+5/3/2020,Orange,Vermont,7,0
+5/3/2020,Orleans,Vermont,9,0
+5/3/2020,Rutland,Vermont,49,1
+5/3/2020,Unknown,Vermont,4,0
+5/3/2020,Washington,Vermont,35,1
+5/3/2020,Windham,Vermont,72,3
+5/3/2020,Windsor,Vermont,42,2
+5/3/2020,Unknown,Virgin Islands,66,4
+5/3/2020,Accomack,Virginia,400,6
+5/3/2020,Albemarle,Virginia,108,4
+5/3/2020,Alexandria city,Virginia,899,26
+5/3/2020,Alleghany,Virginia,6,0
+5/3/2020,Amelia,Virginia,16,1
+5/3/2020,Amherst,Virginia,14,0
+5/3/2020,Appomattox,Virginia,21,0
+5/3/2020,Arlington,Virginia,1106,46
+5/3/2020,Augusta,Virginia,46,1
+5/3/2020,Bedford,Virginia,34,0
+5/3/2020,Botetourt,Virginia,28,3
+5/3/2020,Bristol city,Virginia,2,0
+5/3/2020,Brunswick,Virginia,15,0
+5/3/2020,Buchanan,Virginia,16,0
+5/3/2020,Buckingham,Virginia,137,0
+5/3/2020,Buena Vista city,Virginia,6,0
+5/3/2020,Campbell,Virginia,13,0
+5/3/2020,Caroline,Virginia,31,1
+5/3/2020,Carroll,Virginia,15,0
+5/3/2020,Charles City,Virginia,17,1
+5/3/2020,Charlotte,Virginia,9,0
+5/3/2020,Charlottesville city,Virginia,63,2
+5/3/2020,Chesapeake city,Virginia,279,9
+5/3/2020,Chesterfield,Virginia,601,24
+5/3/2020,Clarke,Virginia,10,0
+5/3/2020,Colonial Heights city,Virginia,57,6
+5/3/2020,Craig,Virginia,3,0
+5/3/2020,Culpeper,Virginia,191,3
+5/3/2020,Cumberland,Virginia,12,0
+5/3/2020,Danville city,Virginia,37,1
+5/3/2020,Dinwiddie,Virginia,18,0
+5/3/2020,Emporia city,Virginia,24,3
+5/3/2020,Essex,Virginia,11,0
+5/3/2020,Fairfax,Virginia,4340,184
+5/3/2020,Fairfax city,Virginia,32,2
+5/3/2020,Falls Church city,Virginia,35,3
+5/3/2020,Fauquier,Virginia,133,2
+5/3/2020,Floyd,Virginia,3,0
+5/3/2020,Fluvanna,Virginia,76,6
+5/3/2020,Franklin,Virginia,23,0
+5/3/2020,Franklin city,Virginia,23,1
+5/3/2020,Frederick,Virginia,121,1
+5/3/2020,Fredericksburg city,Virginia,39,0
+5/3/2020,Galax city,Virginia,12,0
+5/3/2020,Giles,Virginia,4,0
+5/3/2020,Gloucester,Virginia,25,1
+5/3/2020,Goochland,Virginia,79,5
+5/3/2020,Grayson,Virginia,2,0
+5/3/2020,Greene,Virginia,10,1
+5/3/2020,Greensville,Virginia,39,6
+5/3/2020,Halifax,Virginia,19,0
+5/3/2020,Hampton city,Virginia,123,1
+5/3/2020,Hanover,Virginia,137,12
+5/3/2020,Harrisonburg city,Virginia,478,16
+5/3/2020,Henrico,Virginia,954,105
+5/3/2020,Henry,Virginia,19,1
+5/3/2020,Highland,Virginia,2,0
+5/3/2020,Hopewell city,Virginia,27,0
+5/3/2020,Isle of Wight,Virginia,99,2
+5/3/2020,James City,Virginia,163,13
+5/3/2020,King George,Virginia,35,4
+5/3/2020,King William,Virginia,9,1
+5/3/2020,King and Queen,Virginia,3,0
+5/3/2020,Lancaster,Virginia,4,0
+5/3/2020,Lee,Virginia,10,0
+5/3/2020,Lexington city,Virginia,6,0
+5/3/2020,Loudoun,Virginia,931,16
+5/3/2020,Louisa,Virginia,46,0
+5/3/2020,Lunenburg,Virginia,4,0
+5/3/2020,Lynchburg city,Virginia,64,1
+5/3/2020,Madison,Virginia,15,0
+5/3/2020,Manassas Park city,Virginia,82,1
+5/3/2020,Manassas city,Virginia,266,1
+5/3/2020,Mathews,Virginia,4,0
+5/3/2020,Mecklenburg,Virginia,106,10
+5/3/2020,Middlesex,Virginia,7,0
+5/3/2020,Montgomery,Virginia,56,1
+5/3/2020,Nelson,Virginia,8,0
+5/3/2020,New Kent,Virginia,25,1
+5/3/2020,Newport News city,Virginia,125,9
+5/3/2020,Norfolk city,Virginia,221,4
+5/3/2020,Northampton,Virginia,134,1
+5/3/2020,Northumberland,Virginia,9,0
+5/3/2020,Norton city,Virginia,2,0
+5/3/2020,Nottoway,Virginia,13,0
+5/3/2020,Orange,Virginia,37,0
+5/3/2020,Page,Virginia,109,2
+5/3/2020,Patrick,Virginia,2,0
+5/3/2020,Petersburg city,Virginia,35,2
+5/3/2020,Pittsylvania,Virginia,14,1
+5/3/2020,Poquoson city,Virginia,6,0
+5/3/2020,Portsmouth city,Virginia,183,8
+5/3/2020,Powhatan,Virginia,15,0
+5/3/2020,Prince Edward,Virginia,55,2
+5/3/2020,Prince George,Virginia,35,0
+5/3/2020,Prince William,Virginia,2026,30
+5/3/2020,Pulaski,Virginia,9,0
+5/3/2020,Radford city,Virginia,3,0
+5/3/2020,Rappahannock,Virginia,6,0
+5/3/2020,Richmond,Virginia,145,0
+5/3/2020,Richmond city,Virginia,403,16
+5/3/2020,Roanoke,Virginia,57,0
+5/3/2020,Roanoke city,Virginia,81,0
+5/3/2020,Rockbridge,Virginia,7,0
+5/3/2020,Rockingham,Virginia,265,1
+5/3/2020,Russell,Virginia,5,0
+5/3/2020,Salem city,Virginia,26,0
+5/3/2020,Scott,Virginia,7,1
+5/3/2020,Shenandoah,Virginia,145,2
+5/3/2020,Smyth,Virginia,13,0
+5/3/2020,Southampton,Virginia,127,1
+5/3/2020,Spotsylvania,Virginia,186,4
+5/3/2020,Stafford,Virginia,271,2
+5/3/2020,Staunton city,Virginia,13,0
+5/3/2020,Suffolk city,Virginia,190,14
+5/3/2020,Surry,Virginia,4,1
+5/3/2020,Sussex,Virginia,31,1
+5/3/2020,Tazewell,Virginia,6,0
+5/3/2020,Unknown,Virginia,2,0
+5/3/2020,Virginia Beach city,Virginia,413,15
+5/3/2020,Warren,Virginia,61,0
+5/3/2020,Washington,Virginia,39,3
+5/3/2020,Waynesboro city,Virginia,14,0
+5/3/2020,Westmoreland,Virginia,26,0
+5/3/2020,Williamsburg city,Virginia,22,2
+5/3/2020,Winchester city,Virginia,49,0
+5/3/2020,Wise,Virginia,22,1
+5/3/2020,Wythe,Virginia,12,1
+5/3/2020,York,Virginia,47,1
+5/3/2020,Adams,Washington,48,0
+5/3/2020,Asotin,Washington,18,2
+5/3/2020,Benton,Washington,518,44
+5/3/2020,Chelan,Washington,123,6
+5/3/2020,Clallam,Washington,19,0
+5/3/2020,Clark,Washington,361,21
+5/3/2020,Columbia,Washington,1,0
+5/3/2020,Cowlitz,Washington,53,0
+5/3/2020,Douglas,Washington,82,1
+5/3/2020,Ferry,Washington,1,0
+5/3/2020,Franklin,Washington,363,11
+5/3/2020,Grant,Washington,174,2
+5/3/2020,Grays Harbor,Washington,12,0
+5/3/2020,Island,Washington,175,9
+5/3/2020,Jefferson,Washington,28,0
+5/3/2020,King,Washington,6620,461
+5/3/2020,Kitsap,Washington,152,2
+5/3/2020,Kittitas,Washington,15,0
+5/3/2020,Klickitat,Washington,18,3
+5/3/2020,Lewis,Washington,29,3
+5/3/2020,Lincoln,Washington,2,0
+5/3/2020,Mason,Washington,26,1
+5/3/2020,Okanogan,Washington,25,1
+5/3/2020,Pacific,Washington,4,0
+5/3/2020,Pend Oreille,Washington,2,0
+5/3/2020,Pierce,Washington,1506,52
+5/3/2020,San Juan,Washington,14,0
+5/3/2020,Skagit,Washington,354,13
+5/3/2020,Skamania,Washington,3,0
+5/3/2020,Snohomish,Washington,2508,108
+5/3/2020,Spokane,Washington,373,22
+5/3/2020,Stevens,Washington,9,1
+5/3/2020,Thurston,Washington,111,1
+5/3/2020,Wahkiakum,Washington,2,0
+5/3/2020,Walla Walla,Washington,88,0
+5/3/2020,Whatcom,Washington,316,28
+5/3/2020,Whitman,Washington,16,0
+5/3/2020,Yakima,Washington,1411,48
+5/3/2020,Barbour,West Virginia,5,1
+5/3/2020,Berkeley,West Virginia,159,2
+5/3/2020,Boone,West Virginia,6,0
+5/3/2020,Braxton,West Virginia,2,0
+5/3/2020,Brooke,West Virginia,3,0
+5/3/2020,Cabell,West Virginia,44,0
+5/3/2020,Calhoun,West Virginia,1,0
+5/3/2020,Fayette,West Virginia,15,0
+5/3/2020,Gilmer,West Virginia,2,0
+5/3/2020,Grant,West Virginia,1,0
+5/3/2020,Greenbrier,West Virginia,6,0
+5/3/2020,Hampshire,West Virginia,7,1
+5/3/2020,Hancock,West Virginia,11,0
+5/3/2020,Hardy,West Virginia,7,0
+5/3/2020,Harrison,West Virginia,31,1
+5/3/2020,Jackson,West Virginia,130,15
+5/3/2020,Jefferson,West Virginia,81,1
+5/3/2020,Kanawha,West Virginia,167,10
+5/3/2020,Lewis,West Virginia,4,0
+5/3/2020,Lincoln,West Virginia,2,0
+5/3/2020,Logan,West Virginia,13,1
+5/3/2020,Marion,West Virginia,46,2
+5/3/2020,Marshall,West Virginia,16,0
+5/3/2020,Mason,West Virginia,12,0
+5/3/2020,McDowell,West Virginia,6,0
+5/3/2020,Mercer,West Virginia,10,0
+5/3/2020,Mineral,West Virginia,18,0
+5/3/2020,Mingo,West Virginia,2,1
+5/3/2020,Monongalia,West Virginia,105,5
+5/3/2020,Monroe,West Virginia,5,0
+5/3/2020,Morgan,West Virginia,13,0
+5/3/2020,Nicholas,West Virginia,6,0
+5/3/2020,Ohio,West Virginia,33,1
+5/3/2020,Pendleton,West Virginia,3,0
+5/3/2020,Pleasants,West Virginia,2,0
+5/3/2020,Pocahontas,West Virginia,2,0
+5/3/2020,Preston,West Virginia,13,0
+5/3/2020,Putnam,West Virginia,28,0
+5/3/2020,Raleigh,West Virginia,11,0
+5/3/2020,Randolph,West Virginia,4,0
+5/3/2020,Ritchie,West Virginia,1,0
+5/3/2020,Roane,West Virginia,7,0
+5/3/2020,Summers,West Virginia,1,0
+5/3/2020,Taylor,West Virginia,7,0
+5/3/2020,Tucker,West Virginia,4,0
+5/3/2020,Tyler,West Virginia,3,0
+5/3/2020,Upshur,West Virginia,4,0
+5/3/2020,Wayne,West Virginia,89,7
+5/3/2020,Wetzel,West Virginia,3,0
+5/3/2020,Wirt,West Virginia,3,0
+5/3/2020,Wood,West Virginia,41,2
+5/3/2020,Wyoming,West Virginia,1,0
+5/3/2020,Adams,Wisconsin,4,1
+5/3/2020,Ashland,Wisconsin,2,0
+5/3/2020,Barron,Wisconsin,7,0
+5/3/2020,Bayfield,Wisconsin,3,1
+5/3/2020,Brown,Wisconsin,1358,6
+5/3/2020,Buffalo,Wisconsin,4,1
+5/3/2020,Calumet,Wisconsin,18,0
+5/3/2020,Chippewa,Wisconsin,25,0
+5/3/2020,Clark,Wisconsin,21,4
+5/3/2020,Columbia,Wisconsin,29,1
+5/3/2020,Crawford,Wisconsin,5,0
+5/3/2020,Dane,Wisconsin,436,22
+5/3/2020,Dodge,Wisconsin,38,1
+5/3/2020,Door,Wisconsin,15,3
+5/3/2020,Douglas,Wisconsin,9,0
+5/3/2020,Dunn,Wisconsin,12,0
+5/3/2020,Eau Claire,Wisconsin,36,0
+5/3/2020,Florence,Wisconsin,2,0
+5/3/2020,Fond du Lac,Wisconsin,73,3
+5/3/2020,Grant,Wisconsin,48,6
+5/3/2020,Green,Wisconsin,15,0
+5/3/2020,Green Lake,Wisconsin,3,0
+5/3/2020,Iowa,Wisconsin,7,0
+5/3/2020,Iron,Wisconsin,2,1
+5/3/2020,Jackson,Wisconsin,12,1
+5/3/2020,Jefferson,Wisconsin,46,0
+5/3/2020,Juneau,Wisconsin,18,1
+5/3/2020,Kenosha,Wisconsin,534,14
+5/3/2020,Kewaunee,Wisconsin,18,1
+5/3/2020,La Crosse,Wisconsin,29,0
+5/3/2020,Lafayette,Wisconsin,6,0
+5/3/2020,Lincoln,Wisconsin,1,0
+5/3/2020,Manitowoc,Wisconsin,13,1
+5/3/2020,Marathon,Wisconsin,19,1
+5/3/2020,Marinette,Wisconsin,11,1
+5/3/2020,Marquette,Wisconsin,3,1
+5/3/2020,Menominee,Wisconsin,1,0
+5/3/2020,Milwaukee,Wisconsin,3244,195
+5/3/2020,Monroe,Wisconsin,14,1
+5/3/2020,Oconto,Wisconsin,18,0
+5/3/2020,Oneida,Wisconsin,6,0
+5/3/2020,Outagamie,Wisconsin,68,2
+5/3/2020,Ozaukee,Wisconsin,92,9
+5/3/2020,Pierce,Wisconsin,10,0
+5/3/2020,Polk,Wisconsin,4,0
+5/3/2020,Portage,Wisconsin,6,0
+5/3/2020,Price,Wisconsin,1,0
+5/3/2020,Racine,Wisconsin,435,13
+5/3/2020,Richland,Wisconsin,13,2
+5/3/2020,Rock,Wisconsin,262,7
+5/3/2020,Rusk,Wisconsin,4,0
+5/3/2020,Sauk,Wisconsin,65,3
+5/3/2020,Sawyer,Wisconsin,3,0
+5/3/2020,Shawano,Wisconsin,16,0
+5/3/2020,Sheboygan,Wisconsin,52,2
+5/3/2020,St. Croix,Wisconsin,18,0
+5/3/2020,Trempealeau,Wisconsin,3,0
+5/3/2020,Vernon,Wisconsin,1,0
+5/3/2020,Vilas,Wisconsin,4,0
+5/3/2020,Walworth,Wisconsin,197,8
+5/3/2020,Washburn,Wisconsin,1,0
+5/3/2020,Washington,Wisconsin,101,4
+5/3/2020,Waukesha,Wisconsin,360,20
+5/3/2020,Waupaca,Wisconsin,10,1
+5/3/2020,Waushara,Wisconsin,2,0
+5/3/2020,Winnebago,Wisconsin,69,1
+5/3/2020,Wood,Wisconsin,2,0
+5/3/2020,Albany,Wyoming,8,0
+5/3/2020,Big Horn,Wyoming,2,0
+5/3/2020,Campbell,Wyoming,15,0
+5/3/2020,Carbon,Wyoming,5,0
+5/3/2020,Converse,Wyoming,14,0
+5/3/2020,Crook,Wyoming,5,0
+5/3/2020,Fremont,Wyoming,122,4
+5/3/2020,Goshen,Wyoming,3,0
+5/3/2020,Hot Springs,Wyoming,2,0
+5/3/2020,Johnson,Wyoming,11,1
+5/3/2020,Laramie,Wyoming,101,1
+5/3/2020,Lincoln,Wyoming,6,0
+5/3/2020,Natrona,Wyoming,38,0
+5/3/2020,Niobrara,Wyoming,1,0
+5/3/2020,Park,Wyoming,1,0
+5/3/2020,Sheridan,Wyoming,12,0
+5/3/2020,Sublette,Wyoming,1,0
+5/3/2020,Sweetwater,Wyoming,11,0
+5/3/2020,Teton,Wyoming,67,1
+5/3/2020,Uinta,Wyoming,6,0
+5/3/2020,Washakie,Wyoming,4,0

@@ -1,0 +1,2000 @@
+5/3/2020	Graham	Arizona	18	0
+5/3/2020	Davie	North Carolina	31	2
+5/3/2020	Noble	Ohio	5	0
+5/3/2020	Fayette	Georgia	183	10
+5/3/2020	Webster	Mississippi	19	1
+5/3/2020	Nottoway	Virginia	13	0
+5/3/2020	Treutlen	Georgia	3	0
+5/3/2020	McNairy	Tennessee	11	0
+5/3/2020	Taylor	West Virginia	7	0
+5/3/2020	Kemper	Mississippi	76	3
+5/3/2020	Queen Anne's	Maryland	60	8
+5/3/2020	Beaver	Oklahoma	14	0
+5/3/2020	Crane	Texas	2	0
+5/3/2020	Guernsey	Ohio	19	0
+5/3/2020	Jennings	Indiana	82	3
+5/3/2020	Menifee	Kentucky	3	0
+5/3/2020	Kennebec	Maine	105	6
+5/3/2020	Turner	South Dakota	17	0
+5/3/2020	Southampton	Virginia	127	1
+5/3/2020	St. Tammany	Louisiana	1325	114
+5/3/2020	Coffee	Alabama	130	0
+5/3/2020	Livingston	Louisiana	238	16
+5/3/2020	DeSoto	Mississippi	298	4
+5/3/2020	Massac	Illinois	4	0
+5/3/2020	Buffalo	Wisconsin	4	1
+5/3/2020	Allen	Louisiana	90	9
+5/3/2020	Elmore	Alabama	103	2
+5/3/2020	Milam	Texas	17	1
+5/3/2020	Chesterfield	South Carolina	59	1
+5/3/2020	Juniata	Pennsylvania	86	1
+5/3/2020	Prince George	Virginia	35	0
+5/3/2020	Box Butte	Nebraska	1	0
+5/3/2020	Gilmer	Georgia	73	0
+5/3/2020	Knox	Maine	16	0
+5/3/2020	Martin	Florida	202	6
+5/3/2020	Chickasaw	Iowa	5	0
+5/3/2020	Price	Wisconsin	1	0
+5/3/2020	Dewey	Oklahoma	2	0
+5/3/2020	Trigg	Kentucky	9	0
+5/3/2020	Lubbock	Texas	553	44
+5/3/2020	Pine	Minnesota	58	0
+5/3/2020	Meeker	Minnesota	15	0
+5/3/2020	Doniphan	Kansas	4	0
+5/3/2020	San Jacinto	Texas	10	0
+5/3/2020	Fayette	Pennsylvania	83	4
+5/3/2020	Pontotoc	Mississippi	22	2
+5/3/2020	Bienville	Louisiana	76	13
+5/3/2020	Faulk	South Dakota	1	0
+5/3/2020	San Joaquin	California	570	25
+5/3/2020	Schuylkill	Pennsylvania	395	7
+5/3/2020	Shelby	Missouri	1	0
+5/3/2020	Newaygo	Michigan	26	0
+5/3/2020	Henry	Alabama	27	1
+5/3/2020	McCracken	Kentucky	59	2
+5/3/2020	Noble	Indiana	83	14
+5/3/2020	Montgomery	Indiana	100	0
+5/3/2020	Stephens	Oklahoma	22	1
+5/3/2020	Webster	Missouri	15	0
+5/3/2020	Carroll	Maryland	494	59
+5/3/2020	Wayne	West Virginia	89	7
+5/3/2020	Swift	Minnesota	2	0
+5/3/2020	Osceola	Florida	509	8
+5/3/2020	Bedford	Virginia	34	0
+5/3/2020	Shelby	Indiana	222	12
+5/3/2020	Custer	Nebraska	32	3
+5/3/2020	Lincoln	Wisconsin	1	0
+5/3/2020	Belmont	Ohio	163	7
+5/3/2020	Henderson	Tennessee	9	0
+5/3/2020	Yolo	California	171	18
+5/3/2020	Aiken	South Carolina	108	6
+5/3/2020	Franklin city	Virginia	23	1
+5/3/2020	Lamoille	Vermont	25	2
+5/3/2020	Ashland	Wisconsin	2	0
+5/3/2020	Cleveland	North Carolina	47	2
+5/3/2020	Mecosta	Michigan	14	1
+5/3/2020	Rolette	North Dakota	1	0
+5/3/2020	Cameron	Texas	432	18
+5/3/2020	Anson	North Carolina	30	0
+5/3/2020	Manassas Park city	Virginia	82	1
+5/3/2020	Uinta	Wyoming	6	0
+5/3/2020	Dewey	South Dakota	1	0
+5/3/2020	Marengo	Alabama	58	3
+5/3/2020	Union	Ohio	24	0
+5/3/2020	Cayuga	New York	51	1
+5/3/2020	Bureau	Illinois	12	0
+5/3/2020	Scott	Minnesota	58	1
+5/3/2020	Johnson	Illinois	4	0
+5/3/2020	Fremont	Colorado	22	0
+5/3/2020	Washtenaw	Michigan	1113	71
+5/3/2020	Berrien	Michigan	300	18
+5/3/2020	Hill	Montana	1	0
+5/3/2020	Galax city	Virginia	12	0
+5/3/2020	Jackson	Kansas	2	0
+5/3/2020	Cumberland	Illinois	3	0
+5/3/2020	Tattnall	Georgia	9	0
+5/3/2020	Burke	North Carolina	110	9
+5/3/2020	Coos	Oregon	25	0
+5/3/2020	Somerset	Pennsylvania	29	1
+5/3/2020	San Juan	Washington	14	0
+5/3/2020	Niobrara	Wyoming	1	0
+5/3/2020	Cass	Texas	16	2
+5/3/2020	Travis	Texas	1756	52
+5/3/2020	Cameron	Pennsylvania	1	0
+5/3/2020	Grundy	Illinois	43	0
+5/3/2020	Manistee	Michigan	11	0
+5/3/2020	Claiborne	Tennessee	5	0
+5/3/2020	Tuolumne	California	4	0
+5/3/2020	Jefferson	Washington	28	0
+5/3/2020	Hancock	Kentucky	6	0
+5/3/2020	Washington	Idaho	1	0
+5/3/2020	Unknown	Rhode Island	1086	1
+5/3/2020	Darke	Ohio	77	14
+5/3/2020	Hansford	Texas	7	0
+5/3/2020	Champaign	Illinois	177	6
+5/3/2020	Hendricks	Indiana	764	41
+5/3/2020	Sheridan	Wyoming	12	0
+5/3/2020	El Paso	Texas	998	22
+5/3/2020	Dickinson	Iowa	6	0
+5/3/2020	Charlottesville city	Virginia	63	2
+5/3/2020	Grays Harbor	Washington	12	0
+5/3/2020	Brown	Minnesota	8	1
+5/3/2020	Oconto	Wisconsin	18	0
+5/3/2020	Scott	Iowa	241	7
+5/3/2020	Saline	Missouri	199	0
+5/3/2020	Emmons	North Dakota	1	1
+5/3/2020	Yukon-Koyukuk Census Area	Alaska	1	0
+5/3/2020	Sibley	Minnesota	2	0
+5/3/2020	San Mateo	California	1272	52
+5/3/2020	Columbia	Washington	1	0
+5/3/2020	Knox	Illinois	51	0
+5/3/2020	Chatham	North Carolina	378	9
+5/3/2020	Glades	Florida	6	1
+5/3/2020	Palo Pinto	Texas	8	1
+5/3/2020	Lincoln	South Dakota	162	0
+5/3/2020	Marshall	West Virginia	16	0
+5/3/2020	Divide	North Dakota	1	0
+5/3/2020	Fulton	Indiana	33	1
+5/3/2020	Keith	Nebraska	1	0
+5/3/2020	Nobles	Minnesota	940	1
+5/3/2020	Butts	Georgia	150	16
+5/3/2020	Dorchester	Maryland	71	2
+5/3/2020	Owyhee	Idaho	8	0
+5/3/2020	Macomb	Michigan	5756	628
+5/3/2020	Tippecanoe	Indiana	156	2
+5/3/2020	Unknown	Virginia	2	0
+5/3/2020	Randolph	North Carolina	238	3
+5/3/2020	Crawford	Illinois	10	0
+5/3/2020	Coahoma	Mississippi	69	3
+5/3/2020	Floyd	Georgia	145	11
+5/3/2020	Madison	Missouri	1	0
+5/3/2020	McCormick	South Carolina	6	1
+5/3/2020	Starke	Indiana	17	2
+5/3/2020	Osborne	Kansas	2	0
+5/3/2020	Elk	Kansas	1	0
+5/3/2020	Greenlee	Arizona	2	0
+5/3/2020	Franklin	Washington	363	11
+5/3/2020	Richland	Wisconsin	13	2
+5/3/2020	Breathitt	Kentucky	3	0
+5/3/2020	Gibson	Tennessee	50	1
+5/3/2020	Wilbarger	Texas	1	0
+5/3/2020	Escambia	Florida	593	13
+5/3/2020	Polk	Georgia	59	0
+5/3/2020	Shelby	Tennessee	2815	55
+5/3/2020	Woodford	Kentucky	18	0
+5/3/2020	Crawford	Indiana	18	0
+5/3/2020	Lawrence	Indiana	105	13
+5/3/2020	Aurora	South Dakota	1	0
+5/3/2020	Bracken	Kentucky	9	0
+5/3/2020	Wilcox	Georgia	90	9
+5/3/2020	Moultrie	Illinois	5	0
+5/3/2020	De Soto	Louisiana	198	12
+5/3/2020	Grimes	Texas	22	1
+5/3/2020	Clarke	Virginia	10	0
+5/3/2020	St. Lucie	Florida	257	24
+5/3/2020	Harper	Oklahoma	1	0
+5/3/2020	Marquette	Michigan	50	8
+5/3/2020	Monroe	Arkansas	4	0
+5/3/2020	Overton	Tennessee	9	0
+5/3/2020	Wayne	New York	75	0
+5/3/2020	Hancock	Illinois	8	0
+5/3/2020	Roscommon	Michigan	17	0
+5/3/2020	Ottawa	Ohio	40	1
+5/3/2020	Wright	Minnesota	50	1
+5/3/2020	Atkinson	Georgia	11	1
+5/3/2020	Washington	Oregon	516	11
+5/3/2020	Campbell	Wyoming	15	0
+5/3/2020	Curry	Oregon	4	0
+5/3/2020	Jefferson	New York	62	0
+5/3/2020	Lancaster	Nebraska	330	1
+5/3/2020	Union	Pennsylvania	38	0
+5/3/2020	Swain	North Carolina	4	0
+5/3/2020	Livingston	Illinois	24	1
+5/3/2020	Monroe	New York	1566	96
+5/3/2020	McClain	Oklahoma	77	2
+5/3/2020	Wakulla	Florida	24	1
+5/3/2020	Candler	Georgia	7	0
+5/3/2020	Dallas	Iowa	537	0
+5/3/2020	Morgan	Utah	9	0
+5/3/2020	Perry	Pennsylvania	34	1
+5/3/2020	Sherman	Oregon	1	0
+5/3/2020	Bristol	Rhode Island	152	0
+5/3/2020	Izard	Arkansas	9	0
+5/3/2020	Ritchie	West Virginia	1	0
+5/3/2020	Red Lake	Minnesota	1	0
+5/3/2020	DeKalb	Tennessee	21	0
+5/3/2020	Boone	Missouri	102	1
+5/3/2020	Bucks	Pennsylvania	3319	240
+5/3/2020	King William	Virginia	9	1
+5/3/2020	Mesa	Colorado	47	0
+5/3/2020	Yavapai	Arizona	89	2
+5/3/2020	Chicot	Arkansas	9	0
+5/3/2020	Clinton	Kentucky	3	0
+5/3/2020	Renville	North Dakota	1	0
+5/3/2020	Custer	Oklahoma	11	0
+5/3/2020	Torrance	New Mexico	16	0
+5/3/2020	Lincoln	Kentucky	5	1
+5/3/2020	Adair	Missouri	12	0
+5/3/2020	Valley	Idaho	2	0
+5/3/2020	Clare	Michigan	11	1
+5/3/2020	Marion	Florida	184	5
+5/3/2020	Lincoln	West Virginia	2	0
+5/3/2020	Pierce	North Dakota	2	0
+5/3/2020	Callaway	Missouri	23	1
+5/3/2020	Madison	Tennessee	140	1
+5/3/2020	Latah	Idaho	5	0
+5/3/2020	Custer	Colorado	2	0
+5/3/2020	Muhlenberg	Kentucky	241	4
+5/3/2020	Mason	Washington	26	1
+5/3/2020	Payne	Oklahoma	44	1
+5/3/2020	Lee	South Carolina	68	8
+5/3/2020	Bradley	Arkansas	11	1
+5/3/2020	Fresno	California	633	8
+5/3/2020	Skagit	Washington	354	13
+5/3/2020	Hendry	Florida	101	4
+5/3/2020	Riley	Kansas	54	0
+5/3/2020	Wabash	Indiana	60	2
+5/3/2020	Bowie	Texas	101	9
+5/3/2020	Fulton	Arkansas	1	0
+5/3/2020	Jim Hogg	Texas	3	0
+5/3/2020	Hennepin	Minnesota	2151	277
+5/3/2020	Chester	Pennsylvania	1546	117
+5/3/2020	Schenectady	New York	527	25
+5/3/2020	Cheboygan	Michigan	19	1
+5/3/2020	Pondera	Montana	2	0
+5/3/2020	Delta	Texas	1	0
+5/3/2020	Carroll	Georgia	386	14
+5/3/2020	Rowan	North Carolina	388	25
+5/3/2020	Florence	South Carolina	336	16
+5/3/2020	Oconee	Georgia	65	0
+5/3/2020	Brevard	Florida	308	8
+5/3/2020	Otero	Colorado	10	1
+5/3/2020	Shiawassee	Michigan	184	12
+5/3/2020	Oglala Lakota	South Dakota	1	0
+5/3/2020	Pennington	South Dakota	14	0
+5/3/2020	Jefferson	Colorado	1405	83
+5/3/2020	Iron	Missouri	2	0
+5/3/2020	Dickens	Texas	1	0
+5/3/2020	Lake	Colorado	20	0
+5/3/2020	Harrison	Mississippi	181	6
+5/3/2020	Belknap	New Hampshire	39	0
+5/3/2020	Mitchell	Iowa	3	0
+5/3/2020	Latimer	Oklahoma	5	1
+5/3/2020	Maverick	Texas	24	0
+5/3/2020	Paulding	Georgia	195	8
+5/3/2020	Coos	New Hampshire	2	0
+5/3/2020	Colonial Heights city	Virginia	57	6
+5/3/2020	Eau Claire	Wisconsin	36	0
+5/3/2020	McLean	Illinois	99	3
+5/3/2020	Jackson	Georgia	108	2
+5/3/2020	Bullitt	Kentucky	57	2
+5/3/2020	Sublette	Wyoming	1	0
+5/3/2020	Marin	California	243	13
+5/3/2020	Madison	Kentucky	29	1
+5/3/2020	Bollinger	Missouri	4	0
+5/3/2020	Livingston	Kentucky	6	0
+5/3/2020	Jasper	Illinois	45	5
+5/3/2020	White	Indiana	82	0
+5/3/2020	Ector	Texas	81	4
+5/3/2020	Chatham	Georgia	237	9
+5/3/2020	Rockland	New York	12025	378
+5/3/2020	Johnson	Kentucky	3	0
+5/3/2020	Macoupin	Illinois	32	0
+5/3/2020	Muscatine	Iowa	372	16
+5/3/2020	Hamlin	South Dakota	2	0
+5/3/2020	Broome	New York	327	18
+5/3/2020	Windham	Connecticut	211	2
+5/3/2020	Wright	Iowa	3	0
+5/3/2020	Dunn	Wisconsin	12	0
+5/3/2020	Ramsey	Minnesota	493	34
+5/3/2020	Lake	Tennessee	57	0
+5/3/2020	Claiborne	Louisiana	58	7
+5/3/2020	Hardin	Kentucky	48	0
+5/3/2020	Madison	Nebraska	155	3
+5/3/2020	Essex	Vermont	2	0
+5/3/2020	Unknown	Northern Mariana Islands	14	2
+5/3/2020	Los Alamos	New Mexico	6	0
+5/3/2020	Jefferson	Oklahoma	2	0
+5/3/2020	Kern	California	1007	8
+5/3/2020	Pike	Kentucky	13	2
+5/3/2020	Lampasas	Texas	4	0
+5/3/2020	Charlevoix	Michigan	13	1
+5/3/2020	Lucas	Ohio	1376	119
+5/3/2020	Carter	Oklahoma	4	1
+5/3/2020	Unknown	Utah	8	2
+5/3/2020	Otero	New Mexico	6	0
+5/3/2020	Shenandoah	Virginia	145	2
+5/3/2020	Armstrong	Pennsylvania	52	2
+5/3/2020	Fannin	Georgia	31	1
+5/3/2020	Jackson	Oregon	49	0
+5/3/2020	Nance	Nebraska	3	0
+5/3/2020	Lyon	Kansas	248	1
+5/3/2020	Kossuth	Iowa	2	0
+5/3/2020	Anderson	Tennessee	28	1
+5/3/2020	Hancock	West Virginia	11	0
+5/3/2020	Boone	West Virginia	6	0
+5/3/2020	Hays	Texas	167	1
+5/3/2020	Jessamine	Kentucky	41	0
+5/3/2020	Dickson	Tennessee	80	0
+5/3/2020	Luce	Michigan	1	0
+5/3/2020	Butler	Kansas	16	0
+5/3/2020	Chesterfield	Virginia	601	24
+5/3/2020	Isabella	Michigan	61	7
+5/3/2020	Washington	Ohio	102	14
+5/3/2020	Pike	Indiana	2	0
+5/3/2020	Sabine	Louisiana	17	1
+5/3/2020	Jefferson	Ohio	45	1
+5/3/2020	Wood	Ohio	187	23
+5/3/2020	Cheyenne	Nebraska	7	0
+5/3/2020	Atascosa	Texas	19	1
+5/3/2020	Ransom	North Dakota	1	0
+5/3/2020	Unknown	Illinois	257	0
+5/3/2020	Red Willow	Nebraska	3	0
+5/3/2020	Moniteau	Missouri	42	0
+5/3/2020	Jefferson	Oregon	13	0
+5/3/2020	Douglas	Nevada	21	0
+5/3/2020	Amelia	Virginia	16	1
+5/3/2020	Hamilton	New York	3	0
+5/3/2020	Crawford	Kansas	6	1
+5/3/2020	Mariposa	California	13	0
+5/3/2020	Nowata	Oklahoma	21	0
+5/3/2020	Adams	Indiana	8	1
+5/3/2020	Fulton	Kentucky	2	0
+5/3/2020	Allen	Kentucky	14	0
+5/3/2020	Sanilac	Michigan	37	5
+5/3/2020	Lexington city	Virginia	6	0
+5/3/2020	Bates	Missouri	6	1
+5/3/2020	Crawford	Wisconsin	5	0
+5/3/2020	Accomack	Virginia	400	6
+5/3/2020	Franklin	Virginia	23	0
+5/3/2020	Martin	Kentucky	3	0
+5/3/2020	Gasconade	Missouri	2	0
+5/3/2020	Kittson	Minnesota	1	0
+5/3/2020	Reno	Kansas	40	0
+5/3/2020	Calvert	Maryland	162	10
+5/3/2020	Ste. Genevieve	Missouri	7	1
+5/3/2020	Morgan	Georgia	28	0
+5/3/2020	Brooke	West Virginia	3	0
+5/3/2020	Dallas	Arkansas	1	0
+5/3/2020	Jackson	Louisiana	42	3
+5/3/2020	Henderson	North Carolina	201	21
+5/3/2020	Owsley	Kentucky	2	0
+5/3/2020	Banks	Georgia	31	0
+5/3/2020	Pulaski	Indiana	29	0
+5/3/2020	Bastrop	Texas	86	2
+5/3/2020	Franklin	Tennessee	36	1
+5/3/2020	Davison	South Dakota	6	1
+5/3/2020	Emporia city	Virginia	24	3
+5/3/2020	St. Landry	Louisiana	186	45
+5/3/2020	Madison	Mississippi	272	9
+5/3/2020	Lafayette	Missouri	42	1
+5/3/2020	Wichita	Texas	65	2
+5/3/2020	Monroe	West Virginia	5	0
+5/3/2020	Valley	Nebraska	1	0
+5/3/2020	Carbon	Montana	6	0
+5/3/2020	Putnam	Florida	120	2
+5/3/2020	Warren	Georgia	13	0
+5/3/2020	West Feliciana	Louisiana	149	3
+5/3/2020	Horry	South Carolina	226	17
+5/3/2020	Daviess	Kentucky	228	4
+5/3/2020	Titus	Texas	20	0
+5/3/2020	Macon	Alabama	40	2
+5/3/2020	Frontier	Nebraska	1	0
+5/3/2020	Hickman	Kentucky	1	0
+5/3/2020	Howard	Texas	4	1
+5/3/2020	Grant	Kentucky	25	3
+5/3/2020	Henrico	Virginia	954	105
+5/3/2020	Lynchburg city	Virginia	64	1
+5/3/2020	Mountrail	North Dakota	35	0
+5/3/2020	Union	Illinois	28	0
+5/3/2020	Ashtabula	Ohio	146	15
+5/3/2020	Williamson	Illinois	34	0
+5/3/2020	Lee	Georgia	328	20
+5/3/2020	Honolulu	Hawaii	400	11
+5/3/2020	Hale	Texas	29	4
+5/3/2020	Greene	Virginia	10	1
+5/3/2020	Lawrence	Mississippi	50	0
+5/3/2020	Pike	Arkansas	3	0
+5/3/2020	Washington	Nebraska	22	1
+5/3/2020	Cape May	New Jersey	344	24
+5/3/2020	Morgan	Indiana	163	6
+5/3/2020	Gogebic	Michigan	4	1
+5/3/2020	Leon	Texas	6	0
+5/3/2020	Dickinson	Kansas	2	0
+5/3/2020	Rusk	Wisconsin	4	0
+5/3/2020	Meagher	Montana	1	0
+5/3/2020	Copiah	Mississippi	116	1
+5/3/2020	Tyler	West Virginia	3	0
+5/3/2020	Muskogee	Oklahoma	27	6
+5/3/2020	East Baton Rouge	Louisiana	2086	153
+5/3/2020	St. Clair	Alabama	76	0
+5/3/2020	Miami	Indiana	115	1
+5/3/2020	Oneida	Wisconsin	6	0
+5/3/2020	Dyer	Tennessee	36	0
+5/3/2020	Floyd	Texas	3	0
+5/3/2020	Unknown	Massachusetts	981	7
+5/3/2020	Bladen	North Carolina	27	0
+5/3/2020	Marion	Indiana	6176	360
+5/3/2020	Kane	Illinois	1935	57
+5/3/2020	Caldwell	Louisiana	31	0
+5/3/2020	Hancock	Georgia	61	2
+5/3/2020	Wise	Virginia	22	1
+5/3/2020	Lawrence	Arkansas	66	4
+5/3/2020	Perquimans	North Carolina	14	1
+5/3/2020	Wilson	Tennessee	273	5
+5/3/2020	Deaf Smith	Texas	35	0
+5/3/2020	Republic	Kansas	4	0
+5/3/2020	Northumberland	Virginia	9	0
+5/3/2020	Walker	Alabama	99	0
+5/3/2020	Lincoln	Mississippi	151	11
+5/3/2020	Cabell	West Virginia	44	0
+5/3/2020	Orange	North Carolina	226	18
+5/3/2020	Jefferson	Arkansas	184	17
+5/3/2020	Cumberland	Pennsylvania	373	18
+5/3/2020	Hamblen	Tennessee	19	2
+5/3/2020	Cannon	Tennessee	12	0
+5/3/2020	Delaware	Iowa	5	1
+5/3/2020	Mineral	West Virginia	18	0
+5/3/2020	Schuyler	New York	7	0
+5/3/2020	Cooke	Texas	8	0
+5/3/2020	Lee	Iowa	13	0
+5/3/2020	Kane	Utah	3	0
+5/3/2020	Fairfax city	Virginia	32	2
+5/3/2020	Kandiyohi	Minnesota	167	1
+5/3/2020	Cheyenne	Kansas	2	0
+5/3/2020	Sherman	Texas	18	0
+5/3/2020	Lee	North Carolina	198	1
+5/3/2020	Craig	Virginia	3	0
+5/3/2020	Bandera	Texas	6	0
+5/3/2020	Mercer	New Jersey	4504	255
+5/3/2020	Newton	Texas	2	0
+5/3/2020	Racine	Wisconsin	435	13
+5/3/2020	Venango	Pennsylvania	7	0
+5/3/2020	Contra Costa	California	945	28
+5/3/2020	Lunenburg	Virginia	4	0
+5/3/2020	Vermilion	Illinois	18	1
+5/3/2020	Logan	West Virginia	13	1
+5/3/2020	Albany	Wyoming	8	0
+5/3/2020	Caldwell	Missouri	3	0
+5/3/2020	Presque Isle	Michigan	11	0
+5/3/2020	Kerr	Texas	5	0
+5/3/2020	Clay	Minnesota	176	13
+5/3/2020	Island	Washington	175	9
+5/3/2020	Duval	Florida	1045	24
+5/3/2020	Charles Mix	South Dakota	5	0
+5/3/2020	Warren	Illinois	78	0
+5/3/2020	Iron	Utah	25	0
+5/3/2020	Butler	Nebraska	7	0
+5/3/2020	Wyoming	Pennsylvania	25	2
+5/3/2020	Hardin	Tennessee	7	0
+5/3/2020	Owen	Indiana	24	1
+5/3/2020	O'Brien	Iowa	11	0
+5/3/2020	Lincoln	Missouri	48	1
+5/3/2020	Pulaski	Arkansas	550	19
+5/3/2020	Clay	Florida	279	18
+5/3/2020	Jasper	Georgia	24	0
+5/3/2020	Camden	New Jersey	3973	163
+5/3/2020	Dade	Georgia	15	1
+5/3/2020	Allendale	South Carolina	12	1
+5/3/2020	Jefferson	Kentucky	1403	96
+5/3/2020	Linn	Missouri	5	1
+5/3/2020	Motley	Texas	1	0
+5/3/2020	Keokuk	Iowa	3	0
+5/3/2020	Payette	Idaho	14	1
+5/3/2020	Grant	West Virginia	1	0
+5/3/2020	Perry	Ohio	13	0
+5/3/2020	Bibb	Georgia	324	11
+5/3/2020	Marion	South Carolina	37	2
+5/3/2020	Norfolk city	Virginia	221	4
+5/3/2020	St. Bernard	Louisiana	475	20
+5/3/2020	Onondaga	New York	952	42
+5/3/2020	Columbia	Arkansas	13	2
+5/3/2020	Quay	New Mexico	4	1
+5/3/2020	Clark	Arkansas	31	0
+5/3/2020	Cobb	Georgia	1768	97
+5/3/2020	Washington	Pennsylvania	119	2
+5/3/2020	Tarrant	Texas	2584	75
+5/3/2020	Forsyth	Georgia	332	10
+5/3/2020	Eddy	New Mexico	13	1
+5/3/2020	Winneshiek	Iowa	18	0
+5/3/2020	Howard	Iowa	10	0
+5/3/2020	Caswell	North Carolina	32	0
+5/3/2020	Gates	North Carolina	9	0
+5/3/2020	Marshall	Illinois	4	0
+5/3/2020	Morgan	Missouri	5	0
+5/3/2020	Lyon	Iowa	14	0
+5/3/2020	Wilkinson	Mississippi	69	7
+5/3/2020	Allen	Ohio	124	23
+5/3/2020	Sandoval	New Mexico	416	19
+5/3/2020	Sangamon	Illinois	208	13
+5/3/2020	Cassia	Idaho	13	1
+5/3/2020	Hand	South Dakota	1	0
+5/3/2020	Berkeley	West Virginia	159	2
+5/3/2020	St. Clair	Illinois	537	33
+5/3/2020	Delaware	Ohio	175	4
+5/3/2020	Forest	Pennsylvania	7	0
+5/3/2020	Calaveras	California	13	0
+5/3/2020	Hopkins	Texas	6	0
+5/3/2020	Garfield	Colorado	97	2
+5/3/2020	Lanier	Georgia	9	1
+5/3/2020	Thomas	Georgia	191	19
+5/3/2020	Cullman	Alabama	58	0
+5/3/2020	Okfuskee	Oklahoma	1	0
+5/3/2020	Washburn	Wisconsin	1	0
+5/3/2020	Cochran	Texas	1	0
+5/3/2020	Tallahatchie	Mississippi	12	1
+5/3/2020	Summit	Ohio	701	58
+5/3/2020	Gem	Idaho	11	0
+5/3/2020	Stillwater	Montana	1	0
+5/3/2020	Parker	Texas	35	0
+5/3/2020	Calhoun	Georgia	107	4
+5/3/2020	New York City	New York	174341	13064
+5/3/2020	Reynolds	Missouri	2	0
+5/3/2020	Trinity	Texas	8	0
+5/3/2020	Stevens	Kansas	11	0
+5/3/2020	Washington	North Carolina	24	3
+5/3/2020	Lafayette	Mississippi	91	3
+5/3/2020	Mecklenburg	North Carolina	1724	51
+5/3/2020	Bossier	Louisiana	295	17
+5/3/2020	Pierce	Wisconsin	10	0
+5/3/2020	Lincoln	Louisiana	90	9
+5/3/2020	Pacific	Washington	4	0
+5/3/2020	Wilkin	Minnesota	12	3
+5/3/2020	Craighead	Arkansas	81	0
+5/3/2020	Walla Walla	Washington	88	0
+5/3/2020	Clark	Indiana	331	16
+5/3/2020	Richland	Louisiana	74	0
+5/3/2020	Seminole	Oklahoma	12	2
+5/3/2020	Isle of Wight	Virginia	99	2
+5/3/2020	Switzerland	Indiana	15	0
+5/3/2020	Nevada	California	41	1
+5/3/2020	Hardin	Texas	107	3
+5/3/2020	Delaware	Pennsylvania	4173	255
+5/3/2020	White	Arkansas	35	1
+5/3/2020	Allegany	Maryland	124	12
+5/3/2020	Lamb	Texas	4	0
+5/3/2020	Sullivan	Missouri	1	0
+5/3/2020	Klickitat	Washington	18	3
+5/3/2020	Sumter	Florida	226	14
+5/3/2020	Comanche	Oklahoma	98	2
+5/3/2020	Braxton	West Virginia	2	0
+5/3/2020	Drew	Arkansas	16	1
+5/3/2020	Clarke	Alabama	42	1
+5/3/2020	Pulaski	Georgia	32	1
+5/3/2020	Clatsop	Oregon	7	0
+5/3/2020	Murray	Minnesota	17	0
+5/3/2020	Morgan	Ohio	4	0
+5/3/2020	Williamsburg city	Virginia	22	2
+5/3/2020	Tift	Georgia	127	5
+5/3/2020	Gregg	Texas	87	0
+5/3/2020	Emmet	Michigan	21	2
+5/3/2020	Ventura	California	566	19
+5/3/2020	Lincoln	Nebraska	33	2
+5/3/2020	Rio Blanco	Colorado	1	0
+5/3/2020	Scotland	Missouri	4	0
+5/3/2020	Warren	Indiana	11	1
+5/3/2020	Hopkins	Kentucky	207	23
+5/3/2020	Luna	New Mexico	7	1
+5/3/2020	DeKalb	Alabama	79	2
+5/3/2020	Brown	Indiana	18	1
+5/3/2020	Smith	Kansas	2	0
+5/3/2020	Hamilton	Illinois	2	0
+5/3/2020	Kent	Michigan	1786	39
+5/3/2020	Bon Homme	South Dakota	4	0
+5/3/2020	Grand Traverse	Michigan	19	5
+5/3/2020	Daviess	Missouri	3	0
+5/3/2020	Elk	Pennsylvania	4	0
+5/3/2020	Greene	Alabama	58	1
+5/3/2020	Pitt	North Carolina	129	2
+5/3/2020	Atchison	Missouri	2	0
+5/3/2020	Unknown	New Hampshire	19	0
+5/3/2020	Pettis	Missouri	43	0
+5/3/2020	St. Francois	Missouri	27	1
+5/3/2020	Leavenworth	Kansas	498	5
+5/3/2020	Unknown	Arkansas	174	0
+5/3/2020	Georgetown	South Carolina	45	3
+5/3/2020	Goodhue	Minnesota	21	0
+5/3/2020	Eagle	Colorado	551	7
+5/3/2020	Benton	Oregon	32	5
+5/3/2020	Haywood	North Carolina	12	0
+5/3/2020	Burke	Georgia	86	3
+5/3/2020	Hopewell city	Virginia	27	0
+5/3/2020	Kiowa	Oklahoma	5	0
+5/3/2020	Roane	West Virginia	7	0
+5/3/2020	Stanly	North Carolina	29	4
+5/3/2020	Goochland	Virginia	79	5
+5/3/2020	Menominee	Michigan	5	0
+5/3/2020	Adams	Colorado	1780	68
+5/3/2020	Nome Census Area	Alaska	1	0
+5/3/2020	Corson	South Dakota	1	0
+5/3/2020	Crisp	Georgia	168	3
+5/3/2020	Logan	Colorado	291	1
+5/3/2020	Jackson	Indiana	165	1
+5/3/2020	Murray	Georgia	33	1
+5/3/2020	Kenton	Kentucky	308	20
+5/3/2020	Teton	Idaho	8	0
+5/3/2020	Washington	Wisconsin	101	4
+5/3/2020	Wayne	Kentucky	9	0
+5/3/2020	Blount	Alabama	40	0
+5/3/2020	Sequoyah	Oklahoma	12	3
+5/3/2020	Dodge	Wisconsin	38	1
+5/3/2020	Wayne	Indiana	38	3
+5/3/2020	Lenawee	Michigan	107	2
+5/3/2020	Coosa	Alabama	30	1
+5/3/2020	Lincoln	Oregon	5	0
+5/3/2020	Clay	South Dakota	7	0
+5/3/2020	Metcalfe	Kentucky	1	0
+5/3/2020	Sussex	New Jersey	969	115
+5/3/2020	Waupaca	Wisconsin	10	1
+5/3/2020	Lake	Florida	234	13
+5/3/2020	Falls	Texas	4	0
+5/3/2020	Prince William	Virginia	2026	30
+5/3/2020	Pickens	South Carolina	58	1
+5/3/2020	Dearborn	Indiana	135	9
+5/3/2020	Wright	Missouri	9	0
+5/3/2020	Franklin	Mississippi	17	1
+5/3/2020	McMinn	Tennessee	100	1
+5/3/2020	Wyandotte	Kansas	826	55
+5/3/2020	Cibola	New Mexico	68	3
+5/3/2020	Winston	Mississippi	47	0
+5/3/2020	Christian	Missouri	19	0
+5/3/2020	Van Buren	Michigan	61	2
+5/3/2020	Phillips	Colorado	5	0
+5/3/2020	Tooele	Utah	71	0
+5/3/2020	San Luis Obispo	California	201	1
+5/3/2020	Sonoma	California	257	3
+5/3/2020	Lafayette	Louisiana	466	20
+5/3/2020	Delaware	Indiana	200	15
+5/3/2020	Hot Springs	Wyoming	2	0
+5/3/2020	Mono	California	26	1
+5/3/2020	Montgomery	Alabama	409	7
+5/3/2020	Asotin	Washington	18	2
+5/3/2020	Spencer	Indiana	5	1
+5/3/2020	Madison	New York	151	3
+5/3/2020	Lamar	Texas	67	0
+5/3/2020	Houghton	Michigan	2	0
+5/3/2020	Lawrence	Tennessee	17	0
+5/3/2020	Bolivar	Mississippi	107	7
+5/3/2020	Wayne	Iowa	1	0
+5/3/2020	Marshall	Kentucky	34	1
+5/3/2020	Shelby	Texas	117	4
+5/3/2020	Polk	Texas	20	0
+5/3/2020	Grenada	Mississippi	34	1
+5/3/2020	Greene	Arkansas	19	0
+5/3/2020	George	Mississippi	14	1
+5/3/2020	Morris	Texas	9	0
+5/3/2020	Kay	Oklahoma	47	7
+5/3/2020	Logan	Kentucky	13	1
+5/3/2020	Tulare	California	743	40
+5/3/2020	Phelps	Nebraska	9	0
+5/3/2020	Pemiscot	Missouri	32	1
+5/3/2020	Perry	Mississippi	29	1
+5/3/2020	Wood	Wisconsin	2	0
+5/3/2020	Nicholas	Kentucky	1	0
+5/3/2020	Anderson	Kentucky	9	1
+5/3/2020	Habersham	Georgia	343	8
+5/3/2020	Putnam	Ohio	69	9
+5/3/2020	Bristol	Massachusetts	4019	198
+5/3/2020	Fountain	Indiana	13	2
+5/3/2020	Calhoun	Texas	32	3
+5/3/2020	Troup	Georgia	154	4
+5/3/2020	Jackson	Texas	14	0
+5/3/2020	Escambia	Alabama	31	2
+5/3/2020	Hart	Kentucky	8	0
+5/3/2020	Mille Lacs	Minnesota	2	1
+5/3/2020	Rusk	Texas	36	1
+5/3/2020	Crawford	Georgia	18	0
+5/3/2020	Dane	Wisconsin	436	22
+5/3/2020	Gibson	Indiana	7	0
+5/3/2020	Culpeper	Virginia	191	3
+5/3/2020	Hamilton	Iowa	7	0
+5/3/2020	Morgan	West Virginia	13	0
+5/3/2020	Vernon	Louisiana	16	2
+5/3/2020	Webster	Louisiana	92	4
+5/3/2020	Oswego	New York	66	0
+5/3/2020	Smith	Tennessee	22	1
+5/3/2020	Oliver	North Dakota	1	0
+5/3/2020	Grady	Georgia	63	3
+5/3/2020	Lafayette	Florida	2	0
+5/3/2020	Washington	Vermont	35	1
+5/3/2020	Thurston	Washington	111	1
+5/3/2020	Andrews	Texas	21	0
+5/3/2020	Lowndes	Mississippi	60	3
+5/3/2020	Cape Girardeau	Missouri	49	1
+5/3/2020	Marshall	Indiana	31	1
+5/3/2020	Kent	Maryland	91	6
+5/3/2020	Niagara	New York	474	14
+5/3/2020	Utah	Utah	1073	9
+5/3/2020	Kittitas	Washington	15	0
+5/3/2020	Floyd	Virginia	3	0
+5/3/2020	Suffolk city	Virginia	190	14
+5/3/2020	Colorado	Texas	10	0
+5/3/2020	Grant	Indiana	144	12
+5/3/2020	Centre	Pennsylvania	102	2
+5/3/2020	Guthrie	Iowa	22	0
+5/3/2020	Aitkin	Minnesota	1	0
+5/3/2020	Jackson	North Carolina	16	0
+5/3/2020	Henry	Illinois	50	0
+5/3/2020	Angelina	Texas	55	0
+5/3/2020	Pike	Missouri	11	0
+5/3/2020	Davidson	North Carolina	179	8
+5/3/2020	St. Johns	Florida	211	4
+5/3/2020	Bertie	North Carolina	47	2
+5/3/2020	Tensas	Louisiana	2	0
+5/3/2020	Johnson	Kansas	498	42
+5/3/2020	Franklin	Pennsylvania	351	10
+5/3/2020	Bergen	New Jersey	16185	1210
+5/3/2020	Powhatan	Virginia	15	0
+5/3/2020	Scott	Missouri	76	2
+5/3/2020	Fayette	Alabama	6	0
+5/3/2020	Livingston	Missouri	2	0
+5/3/2020	Whitman	Washington	16	0
+5/3/2020	Yellow Medicine	Minnesota	3	0
+5/3/2020	Mahaska	Iowa	16	1
+5/3/2020	Polk	Missouri	1	0
+5/3/2020	Marshall	Mississippi	47	2
+5/3/2020	Portsmouth city	Virginia	183	8
+5/3/2020	Acadia	Louisiana	134	10
+5/3/2020	Weld	Colorado	1872	100
+5/3/2020	Ketchikan Gateway Borough	Alaska	16	0
+5/3/2020	Caribou	Idaho	1	0
+5/3/2020	Gillespie	Texas	3	0
+5/3/2020	McIntosh	North Dakota	1	0
+5/3/2020	Pike	Illinois	1	0
+5/3/2020	Mason	Kentucky	6	0
+5/3/2020	Jerauld	South Dakota	6	1
+5/3/2020	Greenville	South Carolina	757	40
+5/3/2020	Shawano	Wisconsin	16	0
+5/3/2020	Crittenden	Arkansas	197	5
+5/3/2020	Henderson	Kentucky	65	1
+5/3/2020	Alleghany	North Carolina	6	0
+5/3/2020	Boone	Illinois	138	11
+5/3/2020	Johnson	Indiana	706	72
+5/3/2020	Terrebonne	Louisiana	459	33
+5/3/2020	Oneida	New York	489	16
+5/3/2020	Cheatham	Tennessee	53	0
+5/3/2020	Stephens	Texas	1	0
+5/3/2020	Hardee	Florida	32	0
+5/3/2020	Kansas City	Missouri	609	16
+5/3/2020	Linn	Oregon	87	7
+5/3/2020	Dare	North Carolina	13	1
+5/3/2020	Whitley	Kentucky	11	0
+5/3/2020	Henry	Tennessee	13	0
+5/3/2020	Covington	Mississippi	66	0
+5/3/2020	Mahoning	Ohio	937	83
+5/3/2020	Hillsdale	Michigan	131	18
+5/3/2020	Nodaway	Missouri	4	0
+5/3/2020	Kanawha	West Virginia	167	10
+5/3/2020	Middlesex	New Jersey	12597	639
+5/3/2020	Kalamazoo	Michigan	456	18
+5/3/2020	Uvalde	Texas	7	0
+5/3/2020	Stanislaus	California	411	14
+5/3/2020	Sedgwick	Kansas	426	13
+5/3/2020	Clark	South Dakota	1	0
+5/3/2020	Des Moines	Iowa	18	1
+5/3/2020	Stephenson	Illinois	63	0
+5/3/2020	Chippewa	Wisconsin	25	0
+5/3/2020	Bannock	Idaho	7	0
+5/3/2020	Briscoe	Texas	1	0
+5/3/2020	Brown	South Dakota	59	0
+5/3/2020	Douglas	Minnesota	3	0
+5/3/2020	Addison	Vermont	61	2
+5/3/2020	Crawford	Ohio	52	1
+5/3/2020	Brazoria	Texas	551	6
+5/3/2020	Jefferson	Florida	28	2
+5/3/2020	Crawford	Pennsylvania	19	0
+5/3/2020	Albany	New York	1258	61
+5/3/2020	Garland	Arkansas	118	0
+5/3/2020	Wilson	Texas	33	3
+5/3/2020	Nolan	Texas	2	0
+5/3/2020	Bullock	Alabama	14	0
+5/3/2020	Geneva	Alabama	10	0
+5/3/2020	Kaufman	Texas	87	1
+5/3/2020	Sussex	Delaware	2461	68
+5/3/2020	Marshall	Iowa	603	2
+5/3/2020	Cloud	Kansas	4	0
+5/3/2020	Holmes	Mississippi	161	9
+5/3/2020	Allegheny	Pennsylvania	1345	102
+5/3/2020	Warren	Virginia	61	0
+5/3/2020	Posey	Indiana	12	0
+5/3/2020	Montgomery	New York	56	1
+5/3/2020	Gilchrist	Florida	6	0
+5/3/2020	Stutsman	North Dakota	11	0
+5/3/2020	Northampton	Virginia	134	1
+5/3/2020	Seminole	Florida	394	8
+5/3/2020	Leslie	Kentucky	4	0
+5/3/2020	Pima	Arizona	1326	89
+5/3/2020	Valencia	New Mexico	50	1
+5/3/2020	Lafourche	Louisiana	669	52
+5/3/2020	Webb	Texas	391	16
+5/3/2020	Llano	Texas	3	0
+5/3/2020	Union	Kentucky	8	0
+5/3/2020	Sullivan	New Hampshire	12	1
+5/3/2020	Daviess	Indiana	51	14
+5/3/2020	Park	Colorado	14	0
+5/3/2020	Henderson	Illinois	5	0
+5/3/2020	Seward	Nebraska	8	1
+5/3/2020	Marion	Tennessee	29	1
+5/3/2020	Dodge	Minnesota	22	0
+5/3/2020	Cimarron	Oklahoma	1	0
+5/3/2020	Menominee	Wisconsin	1	0
+5/3/2020	Union	Indiana	7	0
+5/3/2020	Ozaukee	Wisconsin	92	9
+5/3/2020	Herkimer	New York	62	1
+5/3/2020	Baca	Colorado	12	0
+5/3/2020	Grant	North Dakota	1	0
+5/3/2020	West Carroll	Louisiana	4	0
+5/3/2020	Dorchester	South Carolina	101	3
+5/3/2020	Manitowoc	Wisconsin	13	1
+5/3/2020	Dodge	Nebraska	111	0
+5/3/2020	Long	Georgia	5	0
+5/3/2020	Franklin	Illinois	10	0
+5/3/2020	Calcasieu	Louisiana	455	31
+5/3/2020	Pendleton	West Virginia	3	0
+5/3/2020	Nye	Nevada	37	0
+5/3/2020	Pottawattamie	Iowa	44	2
+5/3/2020	Mercer	Pennsylvania	66	1
+5/3/2020	Henry	Kentucky	8	0
+5/3/2020	Marion	Illinois	34	0
+5/3/2020	Monroe	Georgia	24	3
+5/3/2020	Rooks	Kansas	6	0
+5/3/2020	Whitley	Indiana	21	1
+5/3/2020	Pointe Coupee	Louisiana	103	15
+5/3/2020	Rock	Minnesota	16	0
+5/3/2020	Columbia	New York	209	17
+5/3/2020	Hitchcock	Nebraska	1	0
+5/3/2020	Rockingham	Virginia	265	1
+5/3/2020	Boone	Arkansas	4	0
+5/3/2020	Johnson	Georgia	59	2
+5/3/2020	St. Louis city	Missouri	1304	70
+5/3/2020	Bradford	Pennsylvania	35	5
+5/3/2020	Crowley	Colorado	4	1
+5/3/2020	Rockdale	Georgia	195	6
+5/3/2020	Clark	Nevada	4274	218
+5/3/2020	Van Buren	Tennessee	2	0
+5/3/2020	McCook	South Dakota	4	1
+5/3/2020	Douglas	Wisconsin	9	0
+5/3/2020	Sac	Iowa	1	0
+5/3/2020	Walker	Texas	298	2
+5/3/2020	Haywood	Tennessee	25	1
+5/3/2020	Mason	Michigan	12	0
+5/3/2020	Cuyahoga	Ohio	2338	120
+5/3/2020	Laurel	Kentucky	17	2
+5/3/2020	Lyman	South Dakota	3	0
+5/3/2020	Jim Wells	Texas	5	0
+5/3/2020	Cherokee	Oklahoma	27	1
+5/3/2020	Medina	Texas	20	2
+5/3/2020	Madison	Louisiana	8	0
+5/3/2020	Pulaski	Illinois	20	0
+5/3/2020	Beaufort	South Carolina	270	11
+5/3/2020	Frederick	Maryland	1004	54
+5/3/2020	Madison	Iowa	9	1
+5/3/2020	Wheeler	Georgia	5	0
+5/3/2020	Faulkner	Arkansas	77	2
+5/3/2020	Hawkins	Tennessee	30	2
+5/3/2020	Clay	Alabama	22	1
+5/3/2020	Churchill	Nevada	3	1
+5/3/2020	Carlton	Minnesota	60	0
+5/3/2020	Freeborn	Minnesota	35	0
+5/3/2020	Washington	Minnesota	146	12
+5/3/2020	Newberry	South Carolina	30	1
+5/3/2020	Union	Tennessee	3	0
+5/3/2020	Cook	Georgia	28	1
+5/3/2020	Stokes	North Carolina	10	0
+5/3/2020	Green	Wisconsin	15	0
+5/3/2020	Schoolcraft	Michigan	3	0
+5/3/2020	Harris	Georgia	61	2
+5/3/2020	Douglas	Georgia	341	11
+5/3/2020	Dixie	Florida	9	0
+5/3/2020	Franklin	Georgia	21	1
+5/3/2020	Adams	Illinois	40	1
+5/3/2020	Saline	Nebraska	212	0
+5/3/2020	Clarendon	South Carolina	229	22
+5/3/2020	Fayette	Iowa	22	0
+5/3/2020	Berks	Pennsylvania	2886	118
+5/3/2020	Chattahoochee	Georgia	13	0
+5/3/2020	Placer	California	159	8
+5/3/2020	Norman	Minnesota	8	0
+5/3/2020	Cumberland	Maine	549	28
+5/3/2020	Iowa	Iowa	21	0
+5/3/2020	Ross	Ohio	41	1
+5/3/2020	Franklin	Kentucky	17	0
+5/3/2020	Montgomery	Virginia	56	1
+5/3/2020	Brown	Illinois	1	0
+5/3/2020	Lincoln	New Mexico	2	0
+5/3/2020	Pierce	Washington	1506	52
+5/3/2020	Hood	Texas	20	3
+5/3/2020	Concordia	Louisiana	39	4
+5/3/2020	Jefferson	Wisconsin	46	0
+5/3/2020	Susquehanna	Pennsylvania	85	9
+5/3/2020	Fulton	New York	82	2
+5/3/2020	Richland	North Dakota	7	0
+5/3/2020	Inyo	California	20	1
+5/3/2020	Saline	Arkansas	68	1
+5/3/2020	Grant	Oregon	1	0
+5/3/2020	Cowlitz	Washington	53	0
+5/3/2020	Wayne	North Carolina	677	11
+5/3/2020	Glasscock	Texas	1	0
+5/3/2020	Shelby	Kentucky	32	3
+5/3/2020	Spotsylvania	Virginia	186	4
+5/3/2020	Towns	Georgia	20	1
+5/3/2020	Madera	California	51	2
+5/3/2020	Edwards	Kansas	4	0
+5/3/2020	Aroostook	Maine	5	0
+5/3/2020	Sequatchie	Tennessee	5	0
+5/3/2020	Moore	Tennessee	3	0
+5/3/2020	Dougherty	Georgia	1536	124
+5/3/2020	Highland	Virginia	2	0
+5/3/2020	Morris	Kansas	3	0
+5/3/2020	LaGrange	Indiana	28	2
+5/3/2020	Morris	New Jersey	5517	449
+5/3/2020	Hamilton	Texas	5	0
+5/3/2020	Decatur	Georgia	91	1
+5/3/2020	Madison	Virginia	15	0
+5/3/2020	Twiggs	Georgia	8	0
+5/3/2020	Waukesha	Wisconsin	360	20
+5/3/2020	Lincoln	Arkansas	822	4
+5/3/2020	Greene	North Carolina	19	0
+5/3/2020	Worcester	Massachusetts	6288	312
+5/3/2020	Union	Mississippi	27	2
+5/3/2020	Williams	North Dakota	11	0
+5/3/2020	Franklin	Arkansas	2	0
+5/3/2020	Spink	South Dakota	3	0
+5/3/2020	Sargent	North Dakota	1	0
+5/3/2020	Gilmer	West Virginia	2	0
+5/3/2020	Wayne	Tennessee	4	0
+5/3/2020	Clinton	New York	66	4
+5/3/2020	Russell	Virginia	5	0
+5/3/2020	Summit	Colorado	144	2
+5/3/2020	Ashland	Ohio	9	0
+5/3/2020	Logan	Illinois	7	0
+5/3/2020	Marshall	Oklahoma	2	0
+5/3/2020	Humboldt	Nevada	49	3
+5/3/2020	Crow Wing	Minnesota	21	1
+5/3/2020	Jackson	Tennessee	7	0
+5/3/2020	Ingham	Michigan	506	13
+5/3/2020	Perry	Illinois	34	0
+5/3/2020	Marion	Oregon	544	19
+5/3/2020	Lawrence	Ohio	25	0
+5/3/2020	Cass	Minnesota	7	0
+5/3/2020	Sharkey	Mississippi	5	0
+5/3/2020	Calhoun	Alabama	105	3
+5/3/2020	Door	Wisconsin	15	3
+5/3/2020	Fayette	Indiana	29	4
+5/3/2020	Teton	Wyoming	67	1
+5/3/2020	Coles	Illinois	22	1
+5/3/2020	District of Columbia	District of Columbia	5016	251
+5/3/2020	Iroquois	Illinois	38	0
+5/3/2020	San Diego	California	3990	150
+5/3/2020	Scott	Indiana	52	2
+5/3/2020	Teller	Colorado	28	2
+5/3/2020	Mississippi	Missouri	29	0
+5/3/2020	James City	Virginia	163	13
+5/3/2020	Orleans	Louisiana	6538	441
+5/3/2020	Creek	Oklahoma	80	6
+5/3/2020	Monroe	Kentucky	6	0
+5/3/2020	York	Maine	215	7
+5/3/2020	Ouachita	Louisiana	770	22
+5/3/2020	Cocke	Tennessee	16	0
+5/3/2020	Matanuska-Susitna Borough	Alaska	21	1
+5/3/2020	Delta	Colorado	50	1
+5/3/2020	Norton	Kansas	2	0
+5/3/2020	Nicollet	Minnesota	15	2
+5/3/2020	Washington	New York	186	2
+5/3/2020	Union	South Dakota	31	0
+5/3/2020	Los Angeles	California	25662	1229
+5/3/2020	Yancey	North Carolina	1	0
+5/3/2020	Grayson	Kentucky	79	5
+5/3/2020	Jones	Iowa	24	0
+5/3/2020	Hillsborough	New Hampshire	1109	41
+5/3/2020	Brantley	Georgia	22	2
+5/3/2020	Holmes	Ohio	6	1
+5/3/2020	Oklahoma	Oklahoma	838	33
+5/3/2020	Santa Rosa	Florida	157	8
+5/3/2020	Sarasota	Florida	377	47
+5/3/2020	Henry	Missouri	7	1
+5/3/2020	Morrow	Oregon	9	0
+5/3/2020	Garza	Texas	3	0
+5/3/2020	Butler	Ohio	328	7
+5/3/2020	Russell	Kentucky	16	3
+5/3/2020	Sherman	Nebraska	2	0
+5/3/2020	Graham	Arizona	18	0
+5/3/2020	Davie	North Carolina	31	2
+5/3/2020	Noble	Ohio	5	0
+5/3/2020	Fayette	Georgia	183	10
+5/3/2020	Webster	Mississippi	19	1
+5/3/2020	Nottoway	Virginia	13	0
+5/3/2020	Treutlen	Georgia	3	0
+5/3/2020	McNairy	Tennessee	11	0
+5/3/2020	Taylor	West Virginia	7	0
+5/3/2020	Kemper	Mississippi	76	3
+5/3/2020	Queen Anne's	Maryland	60	8
+5/3/2020	Beaver	Oklahoma	14	0
+5/3/2020	Crane	Texas	2	0
+5/3/2020	Guernsey	Ohio	19	0
+5/3/2020	Jennings	Indiana	82	3
+5/3/2020	Menifee	Kentucky	3	0
+5/3/2020	Kennebec	Maine	105	6
+5/3/2020	Turner	South Dakota	17	0
+5/3/2020	Southampton	Virginia	127	1
+5/3/2020	St. Tammany	Louisiana	1325	114
+5/3/2020	Coffee	Alabama	130	0
+5/3/2020	Livingston	Louisiana	238	16
+5/3/2020	DeSoto	Mississippi	298	4
+5/3/2020	Massac	Illinois	4	0
+5/3/2020	Buffalo	Wisconsin	4	1
+5/3/2020	Allen	Louisiana	90	9
+5/3/2020	Elmore	Alabama	103	2
+5/3/2020	Milam	Texas	17	1
+5/3/2020	Chesterfield	South Carolina	59	1
+5/3/2020	Juniata	Pennsylvania	86	1
+5/3/2020	Prince George	Virginia	35	0
+5/3/2020	Box Butte	Nebraska	1	0
+5/3/2020	Gilmer	Georgia	73	0
+5/3/2020	Knox	Maine	16	0
+5/3/2020	Martin	Florida	202	6
+5/3/2020	Chickasaw	Iowa	5	0
+5/3/2020	Price	Wisconsin	1	0
+5/3/2020	Dewey	Oklahoma	2	0
+5/3/2020	Trigg	Kentucky	9	0
+5/3/2020	Lubbock	Texas	553	44
+5/3/2020	Pine	Minnesota	58	0
+5/3/2020	Meeker	Minnesota	15	0
+5/3/2020	Doniphan	Kansas	4	0
+5/3/2020	San Jacinto	Texas	10	0
+5/3/2020	Fayette	Pennsylvania	83	4
+5/3/2020	Pontotoc	Mississippi	22	2
+5/3/2020	Bienville	Louisiana	76	13
+5/3/2020	Faulk	South Dakota	1	0
+5/3/2020	San Joaquin	California	570	25
+5/3/2020	Schuylkill	Pennsylvania	395	7
+5/3/2020	Shelby	Missouri	1	0
+5/3/2020	Newaygo	Michigan	26	0
+5/3/2020	Henry	Alabama	27	1
+5/3/2020	McCracken	Kentucky	59	2
+5/3/2020	Noble	Indiana	83	14
+5/3/2020	Montgomery	Indiana	100	0
+5/3/2020	Stephens	Oklahoma	22	1
+5/3/2020	Webster	Missouri	15	0
+5/3/2020	Carroll	Maryland	494	59
+5/3/2020	Wayne	West Virginia	89	7
+5/3/2020	Swift	Minnesota	2	0
+5/3/2020	Osceola	Florida	509	8
+5/3/2020	Bedford	Virginia	34	0
+5/3/2020	Shelby	Indiana	222	12
+5/3/2020	Custer	Nebraska	32	3
+5/3/2020	Lincoln	Wisconsin	1	0
+5/3/2020	Belmont	Ohio	163	7
+5/3/2020	Henderson	Tennessee	9	0
+5/3/2020	Yolo	California	171	18
+5/3/2020	Aiken	South Carolina	108	6
+5/3/2020	Franklin city	Virginia	23	1
+5/3/2020	Lamoille	Vermont	25	2
+5/3/2020	Ashland	Wisconsin	2	0
+5/3/2020	Cleveland	North Carolina	47	2
+5/3/2020	Mecosta	Michigan	14	1
+5/3/2020	Rolette	North Dakota	1	0
+5/3/2020	Cameron	Texas	432	18
+5/3/2020	Anson	North Carolina	30	0
+5/3/2020	Manassas Park city	Virginia	82	1
+5/3/2020	Uinta	Wyoming	6	0
+5/3/2020	Dewey	South Dakota	1	0
+5/3/2020	Marengo	Alabama	58	3
+5/3/2020	Union	Ohio	24	0
+5/3/2020	Cayuga	New York	51	1
+5/3/2020	Bureau	Illinois	12	0
+5/3/2020	Scott	Minnesota	58	1
+5/3/2020	Johnson	Illinois	4	0
+5/3/2020	Fremont	Colorado	22	0
+5/3/2020	Washtenaw	Michigan	1113	71
+5/3/2020	Berrien	Michigan	300	18
+5/3/2020	Hill	Montana	1	0
+5/3/2020	Galax city	Virginia	12	0
+5/3/2020	Jackson	Kansas	2	0
+5/3/2020	Cumberland	Illinois	3	0
+5/3/2020	Tattnall	Georgia	9	0
+5/3/2020	Burke	North Carolina	110	9
+5/3/2020	Coos	Oregon	25	0
+5/3/2020	Somerset	Pennsylvania	29	1
+5/3/2020	San Juan	Washington	14	0
+5/3/2020	Niobrara	Wyoming	1	0
+5/3/2020	Cass	Texas	16	2
+5/3/2020	Travis	Texas	1756	52
+5/3/2020	Cameron	Pennsylvania	1	0
+5/3/2020	Grundy	Illinois	43	0
+5/3/2020	Manistee	Michigan	11	0
+5/3/2020	Claiborne	Tennessee	5	0
+5/3/2020	Tuolumne	California	4	0
+5/3/2020	Jefferson	Washington	28	0
+5/3/2020	Hancock	Kentucky	6	0
+5/3/2020	Washington	Idaho	1	0
+5/3/2020	Unknown	Rhode Island	1086	1
+5/3/2020	Darke	Ohio	77	14
+5/3/2020	Hansford	Texas	7	0
+5/3/2020	Champaign	Illinois	177	6
+5/3/2020	Hendricks	Indiana	764	41
+5/3/2020	Sheridan	Wyoming	12	0
+5/3/2020	El Paso	Texas	998	22
+5/3/2020	Dickinson	Iowa	6	0
+5/3/2020	Charlottesville city	Virginia	63	2
+5/3/2020	Grays Harbor	Washington	12	0
+5/3/2020	Brown	Minnesota	8	1
+5/3/2020	Oconto	Wisconsin	18	0
+5/3/2020	Scott	Iowa	241	7
+5/3/2020	Saline	Missouri	199	0
+5/3/2020	Emmons	North Dakota	1	1
+5/3/2020	Yukon-Koyukuk Census Area	Alaska	1	0
+5/3/2020	Sibley	Minnesota	2	0
+5/3/2020	San Mateo	California	1272	52
+5/3/2020	Columbia	Washington	1	0
+5/3/2020	Knox	Illinois	51	0
+5/3/2020	Chatham	North Carolina	378	9
+5/3/2020	Glades	Florida	6	1
+5/3/2020	Palo Pinto	Texas	8	1
+5/3/2020	Lincoln	South Dakota	162	0
+5/3/2020	Marshall	West Virginia	16	0
+5/3/2020	Divide	North Dakota	1	0
+5/3/2020	Fulton	Indiana	33	1
+5/3/2020	Keith	Nebraska	1	0
+5/3/2020	Nobles	Minnesota	940	1
+5/3/2020	Butts	Georgia	150	16
+5/3/2020	Dorchester	Maryland	71	2
+5/3/2020	Owyhee	Idaho	8	0
+5/3/2020	Macomb	Michigan	5756	628
+5/3/2020	Tippecanoe	Indiana	156	2
+5/3/2020	Unknown	Virginia	2	0
+5/3/2020	Randolph	North Carolina	238	3
+5/3/2020	Crawford	Illinois	10	0
+5/3/2020	Coahoma	Mississippi	69	3
+5/3/2020	Floyd	Georgia	145	11
+5/3/2020	Madison	Missouri	1	0
+5/3/2020	McCormick	South Carolina	6	1
+5/3/2020	Starke	Indiana	17	2
+5/3/2020	Osborne	Kansas	2	0
+5/3/2020	Elk	Kansas	1	0
+5/3/2020	Greenlee	Arizona	2	0
+5/3/2020	Franklin	Washington	363	11
+5/3/2020	Richland	Wisconsin	13	2
+5/3/2020	Breathitt	Kentucky	3	0
+5/3/2020	Gibson	Tennessee	50	1
+5/3/2020	Wilbarger	Texas	1	0
+5/3/2020	Escambia	Florida	593	13
+5/3/2020	Polk	Georgia	59	0
+5/3/2020	Shelby	Tennessee	2815	55
+5/3/2020	Woodford	Kentucky	18	0
+5/3/2020	Crawford	Indiana	18	0
+5/3/2020	Lawrence	Indiana	105	13
+5/3/2020	Aurora	South Dakota	1	0
+5/3/2020	Bracken	Kentucky	9	0
+5/3/2020	Wilcox	Georgia	90	9
+5/3/2020	Moultrie	Illinois	5	0
+5/3/2020	De Soto	Louisiana	198	12
+5/3/2020	Grimes	Texas	22	1
+5/3/2020	Clarke	Virginia	10	0
+5/3/2020	St. Lucie	Florida	257	24
+5/3/2020	Harper	Oklahoma	1	0
+5/3/2020	Marquette	Michigan	50	8
+5/3/2020	Monroe	Arkansas	4	0
+5/3/2020	Overton	Tennessee	9	0
+5/3/2020	Wayne	New York	75	0
+5/3/2020	Hancock	Illinois	8	0
+5/3/2020	Roscommon	Michigan	17	0
+5/3/2020	Ottawa	Ohio	40	1
+5/3/2020	Wright	Minnesota	50	1
+5/3/2020	Atkinson	Georgia	11	1
+5/3/2020	Washington	Oregon	516	11
+5/3/2020	Campbell	Wyoming	15	0
+5/3/2020	Curry	Oregon	4	0
+5/3/2020	Jefferson	New York	62	0
+5/3/2020	Lancaster	Nebraska	330	1
+5/3/2020	Union	Pennsylvania	38	0
+5/3/2020	Swain	North Carolina	4	0
+5/3/2020	Livingston	Illinois	24	1
+5/3/2020	Monroe	New York	1566	96
+5/3/2020	McClain	Oklahoma	77	2
+5/3/2020	Wakulla	Florida	24	1
+5/3/2020	Candler	Georgia	7	0
+5/3/2020	Dallas	Iowa	537	0
+5/3/2020	Morgan	Utah	9	0
+5/3/2020	Perry	Pennsylvania	34	1
+5/3/2020	Sherman	Oregon	1	0
+5/3/2020	Bristol	Rhode Island	152	0
+5/3/2020	Izard	Arkansas	9	0
+5/3/2020	Ritchie	West Virginia	1	0
+5/3/2020	Red Lake	Minnesota	1	0
+5/3/2020	DeKalb	Tennessee	21	0
+5/3/2020	Boone	Missouri	102	1
+5/3/2020	Bucks	Pennsylvania	3319	240
+5/3/2020	King William	Virginia	9	1
+5/3/2020	Mesa	Colorado	47	0
+5/3/2020	Yavapai	Arizona	89	2
+5/3/2020	Chicot	Arkansas	9	0
+5/3/2020	Clinton	Kentucky	3	0
+5/3/2020	Renville	North Dakota	1	0
+5/3/2020	Custer	Oklahoma	11	0
+5/3/2020	Torrance	New Mexico	16	0
+5/3/2020	Lincoln	Kentucky	5	1
+5/3/2020	Adair	Missouri	12	0
+5/3/2020	Valley	Idaho	2	0
+5/3/2020	Clare	Michigan	11	1
+5/3/2020	Marion	Florida	184	5
+5/3/2020	Lincoln	West Virginia	2	0
+5/3/2020	Pierce	North Dakota	2	0
+5/3/2020	Callaway	Missouri	23	1
+5/3/2020	Madison	Tennessee	140	1
+5/3/2020	Latah	Idaho	5	0
+5/3/2020	Custer	Colorado	2	0
+5/3/2020	Muhlenberg	Kentucky	241	4
+5/3/2020	Mason	Washington	26	1
+5/3/2020	Payne	Oklahoma	44	1
+5/3/2020	Lee	South Carolina	68	8
+5/3/2020	Bradley	Arkansas	11	1
+5/3/2020	Fresno	California	633	8
+5/3/2020	Skagit	Washington	354	13
+5/3/2020	Hendry	Florida	101	4
+5/3/2020	Riley	Kansas	54	0
+5/3/2020	Wabash	Indiana	60	2
+5/3/2020	Bowie	Texas	101	9
+5/3/2020	Fulton	Arkansas	1	0
+5/3/2020	Jim Hogg	Texas	3	0
+5/3/2020	Hennepin	Minnesota	2151	277
+5/3/2020	Chester	Pennsylvania	1546	117
+5/3/2020	Schenectady	New York	527	25
+5/3/2020	Cheboygan	Michigan	19	1
+5/3/2020	Pondera	Montana	2	0
+5/3/2020	Delta	Texas	1	0
+5/3/2020	Carroll	Georgia	386	14
+5/3/2020	Rowan	North Carolina	388	25
+5/3/2020	Florence	South Carolina	336	16
+5/3/2020	Oconee	Georgia	65	0
+5/3/2020	Brevard	Florida	308	8
+5/3/2020	Otero	Colorado	10	1
+5/3/2020	Shiawassee	Michigan	184	12
+5/3/2020	Oglala Lakota	South Dakota	1	0
+5/3/2020	Pennington	South Dakota	14	0
+5/3/2020	Jefferson	Colorado	1405	83
+5/3/2020	Iron	Missouri	2	0
+5/3/2020	Dickens	Texas	1	0
+5/3/2020	Lake	Colorado	20	0
+5/3/2020	Harrison	Mississippi	181	6
+5/3/2020	Belknap	New Hampshire	39	0
+5/3/2020	Mitchell	Iowa	3	0
+5/3/2020	Latimer	Oklahoma	5	1
+5/3/2020	Maverick	Texas	24	0
+5/3/2020	Paulding	Georgia	195	8
+5/3/2020	Coos	New Hampshire	2	0
+5/3/2020	Colonial Heights city	Virginia	57	6
+5/3/2020	Eau Claire	Wisconsin	36	0
+5/3/2020	McLean	Illinois	99	3
+5/3/2020	Jackson	Georgia	108	2
+5/3/2020	Bullitt	Kentucky	57	2
+5/3/2020	Sublette	Wyoming	1	0
+5/3/2020	Marin	California	243	13
+5/3/2020	Madison	Kentucky	29	1
+5/3/2020	Bollinger	Missouri	4	0
+5/3/2020	Livingston	Kentucky	6	0
+5/3/2020	Jasper	Illinois	45	5
+5/3/2020	White	Indiana	82	0
+5/3/2020	Ector	Texas	81	4
+5/3/2020	Chatham	Georgia	237	9
+5/3/2020	Rockland	New York	12025	378
+5/3/2020	Johnson	Kentucky	3	0
+5/3/2020	Macoupin	Illinois	32	0
+5/3/2020	Muscatine	Iowa	372	16
+5/3/2020	Hamlin	South Dakota	2	0
+5/3/2020	Broome	New York	327	18
+5/3/2020	Windham	Connecticut	211	2
+5/3/2020	Wright	Iowa	3	0
+5/3/2020	Dunn	Wisconsin	12	0
+5/3/2020	Ramsey	Minnesota	493	34
+5/3/2020	Lake	Tennessee	57	0
+5/3/2020	Claiborne	Louisiana	58	7
+5/3/2020	Hardin	Kentucky	48	0
+5/3/2020	Madison	Nebraska	155	3
+5/3/2020	Essex	Vermont	2	0
+5/3/2020	Unknown	Northern Mariana Islands	14	2
+5/3/2020	Los Alamos	New Mexico	6	0
+5/3/2020	Jefferson	Oklahoma	2	0
+5/3/2020	Kern	California	1007	8
+5/3/2020	Pike	Kentucky	13	2
+5/3/2020	Lampasas	Texas	4	0
+5/3/2020	Charlevoix	Michigan	13	1
+5/3/2020	Lucas	Ohio	1376	119
+5/3/2020	Carter	Oklahoma	4	1
+5/3/2020	Unknown	Utah	8	2
+5/3/2020	Otero	New Mexico	6	0
+5/3/2020	Shenandoah	Virginia	145	2
+5/3/2020	Armstrong	Pennsylvania	52	2
+5/3/2020	Fannin	Georgia	31	1
+5/3/2020	Jackson	Oregon	49	0
+5/3/2020	Nance	Nebraska	3	0
+5/3/2020	Lyon	Kansas	248	1
+5/3/2020	Kossuth	Iowa	2	0
+5/3/2020	Anderson	Tennessee	28	1
+5/3/2020	Hancock	West Virginia	11	0
+5/3/2020	Boone	West Virginia	6	0
+5/3/2020	Hays	Texas	167	1
+5/3/2020	Jessamine	Kentucky	41	0
+5/3/2020	Dickson	Tennessee	80	0
+5/3/2020	Luce	Michigan	1	0
+5/3/2020	Butler	Kansas	16	0
+5/3/2020	Chesterfield	Virginia	601	24
+5/3/2020	Isabella	Michigan	61	7
+5/3/2020	Washington	Ohio	102	14
+5/3/2020	Pike	Indiana	2	0
+5/3/2020	Sabine	Louisiana	17	1
+5/3/2020	Jefferson	Ohio	45	1
+5/3/2020	Wood	Ohio	187	23
+5/3/2020	Cheyenne	Nebraska	7	0
+5/3/2020	Atascosa	Texas	19	1
+5/3/2020	Ransom	North Dakota	1	0
+5/3/2020	Unknown	Illinois	257	0
+5/3/2020	Red Willow	Nebraska	3	0
+5/3/2020	Moniteau	Missouri	42	0
+5/3/2020	Jefferson	Oregon	13	0
+5/3/2020	Douglas	Nevada	21	0
+5/3/2020	Amelia	Virginia	16	1
+5/3/2020	Hamilton	New York	3	0
+5/3/2020	Crawford	Kansas	6	1
+5/3/2020	Mariposa	California	13	0
+5/3/2020	Nowata	Oklahoma	21	0
+5/3/2020	Adams	Indiana	8	1
+5/3/2020	Fulton	Kentucky	2	0
+5/3/2020	Allen	Kentucky	14	0
+5/3/2020	Sanilac	Michigan	37	5
+5/3/2020	Lexington city	Virginia	6	0
+5/3/2020	Bates	Missouri	6	1
+5/3/2020	Crawford	Wisconsin	5	0
+5/3/2020	Accomack	Virginia	400	6
+5/3/2020	Franklin	Virginia	23	0
+5/3/2020	Martin	Kentucky	3	0
+5/3/2020	Gasconade	Missouri	2	0
+5/3/2020	Kittson	Minnesota	1	0
+5/3/2020	Reno	Kansas	40	0
+5/3/2020	Calvert	Maryland	162	10
+5/3/2020	Ste. Genevieve	Missouri	7	1
+5/3/2020	Morgan	Georgia	28	0
+5/3/2020	Brooke	West Virginia	3	0
+5/3/2020	Dallas	Arkansas	1	0
+5/3/2020	Jackson	Louisiana	42	3
+5/3/2020	Henderson	North Carolina	201	21
+5/3/2020	Owsley	Kentucky	2	0
+5/3/2020	Banks	Georgia	31	0
+5/3/2020	Pulaski	Indiana	29	0
+5/3/2020	Bastrop	Texas	86	2
+5/3/2020	Franklin	Tennessee	36	1
+5/3/2020	Davison	South Dakota	6	1
+5/3/2020	Emporia city	Virginia	24	3
+5/3/2020	St. Landry	Louisiana	186	45
+5/3/2020	Madison	Mississippi	272	9
+5/3/2020	Lafayette	Missouri	42	1
+5/3/2020	Wichita	Texas	65	2
+5/3/2020	Monroe	West Virginia	5	0
+5/3/2020	Valley	Nebraska	1	0
+5/3/2020	Carbon	Montana	6	0
+5/3/2020	Putnam	Florida	120	2
+5/3/2020	Warren	Georgia	13	0
+5/3/2020	West Feliciana	Louisiana	149	3
+5/3/2020	Horry	South Carolina	226	17
+5/3/2020	Daviess	Kentucky	228	4
+5/3/2020	Titus	Texas	20	0
+5/3/2020	Macon	Alabama	40	2
+5/3/2020	Frontier	Nebraska	1	0
+5/3/2020	Hickman	Kentucky	1	0
+5/3/2020	Howard	Texas	4	1
+5/3/2020	Grant	Kentucky	25	3
+5/3/2020	Henrico	Virginia	954	105
+5/3/2020	Lynchburg city	Virginia	64	1
+5/3/2020	Mountrail	North Dakota	35	0
+5/3/2020	Union	Illinois	28	0
+5/3/2020	Ashtabula	Ohio	146	15
+5/3/2020	Williamson	Illinois	34	0
+5/3/2020	Lee	Georgia	328	20
+5/3/2020	Honolulu	Hawaii	400	11
+5/3/2020	Hale	Texas	29	4
+5/3/2020	Greene	Virginia	10	1
+5/3/2020	Lawrence	Mississippi	50	0
+5/3/2020	Pike	Arkansas	3	0
+5/3/2020	Washington	Nebraska	22	1
+5/3/2020	Cape May	New Jersey	344	24
+5/3/2020	Morgan	Indiana	163	6
+5/3/2020	Gogebic	Michigan	4	1
+5/3/2020	Leon	Texas	6	0
+5/3/2020	Dickinson	Kansas	2	0
+5/3/2020	Rusk	Wisconsin	4	0
+5/3/2020	Meagher	Montana	1	0
+5/3/2020	Copiah	Mississippi	116	1
+5/3/2020	Tyler	West Virginia	3	0
+5/3/2020	Muskogee	Oklahoma	27	6
+5/3/2020	East Baton Rouge	Louisiana	2086	153
+5/3/2020	St. Clair	Alabama	76	0
+5/3/2020	Miami	Indiana	115	1
+5/3/2020	Oneida	Wisconsin	6	0
+5/3/2020	Dyer	Tennessee	36	0
+5/3/2020	Floyd	Texas	3	0
+5/3/2020	Unknown	Massachusetts	981	7
+5/3/2020	Bladen	North Carolina	27	0
+5/3/2020	Marion	Indiana	6176	360
+5/3/2020	Kane	Illinois	1935	57
+5/3/2020	Caldwell	Louisiana	31	0
+5/3/2020	Hancock	Georgia	61	2
+5/3/2020	Wise	Virginia	22	1
+5/3/2020	Lawrence	Arkansas	66	4
+5/3/2020	Perquimans	North Carolina	14	1
+5/3/2020	Wilson	Tennessee	273	5
+5/3/2020	Deaf Smith	Texas	35	0
+5/3/2020	Republic	Kansas	4	0
+5/3/2020	Northumberland	Virginia	9	0
+5/3/2020	Walker	Alabama	99	0
+5/3/2020	Lincoln	Mississippi	151	11
+5/3/2020	Cabell	West Virginia	44	0
+5/3/2020	Orange	North Carolina	226	18
+5/3/2020	Jefferson	Arkansas	184	17
+5/3/2020	Cumberland	Pennsylvania	373	18
+5/3/2020	Hamblen	Tennessee	19	2
+5/3/2020	Cannon	Tennessee	12	0
+5/3/2020	Delaware	Iowa	5	1
+5/3/2020	Mineral	West Virginia	18	0
+5/3/2020	Schuyler	New York	7	0
+5/3/2020	Cooke	Texas	8	0
+5/3/2020	Lee	Iowa	13	0
+5/3/2020	Kane	Utah	3	0
+5/3/2020	Fairfax city	Virginia	32	2
+5/3/2020	Kandiyohi	Minnesota	167	1
+5/3/2020	Cheyenne	Kansas	2	0
+5/3/2020	Sherman	Texas	18	0
+5/3/2020	Lee	North Carolina	198	1
+5/3/2020	Craig	Virginia	3	0
+5/3/2020	Bandera	Texas	6	0
+5/3/2020	Mercer	New Jersey	4504	255
+5/3/2020	Newton	Texas	2	0
+5/3/2020	Racine	Wisconsin	435	13
+5/3/2020	Venango	Pennsylvania	7	0
+5/3/2020	Contra Costa	California	945	28
+5/3/2020	Lunenburg	Virginia	4	0
+5/3/2020	Vermilion	Illinois	18	1
+5/3/2020	Logan	West Virginia	13	1
+5/3/2020	Albany	Wyoming	8	0
+5/3/2020	Caldwell	Missouri	3	0
+5/3/2020	Presque Isle	Michigan	11	0
+5/3/2020	Kerr	Texas	5	0
+5/3/2020	Clay	Minnesota	176	13
+5/3/2020	Island	Washington	175	9
+5/3/2020	Duval	Florida	1045	24
+5/3/2020	Charles Mix	South Dakota	5	0
+5/3/2020	Warren	Illinois	78	0
+5/3/2020	Iron	Utah	25	0
+5/3/2020	Butler	Nebraska	7	0
+5/3/2020	Wyoming	Pennsylvania	25	2
+5/3/2020	Hardin	Tennessee	7	0
+5/3/2020	Owen	Indiana	24	1
+5/3/2020	O'Brien	Iowa	11	0
+5/3/2020	Lincoln	Missouri	48	1
+5/3/2020	Pulaski	Arkansas	550	19
+5/3/2020	Clay	Florida	279	18
+5/3/2020	Jasper	Georgia	24	0
+5/3/2020	Camden	New Jersey	3973	163
+5/3/2020	Dade	Georgia	15	1
+5/3/2020	Allendale	South Carolina	12	1
+5/3/2020	Jefferson	Kentucky	1403	96
+5/3/2020	Linn	Missouri	5	1
+5/3/2020	Motley	Texas	1	0
+5/3/2020	Keokuk	Iowa	3	0
+5/3/2020	Payette	Idaho	14	1
+5/3/2020	Grant	West Virginia	1	0
+5/3/2020	Perry	Ohio	13	0
+5/3/2020	Bibb	Georgia	324	11
+5/3/2020	Marion	South Carolina	37	2
+5/3/2020	Norfolk city	Virginia	221	4
+5/3/2020	St. Bernard	Louisiana	475	20
+5/3/2020	Onondaga	New York	952	42
+5/3/2020	Columbia	Arkansas	13	2
+5/3/2020	Quay	New Mexico	4	1
+5/3/2020	Clark	Arkansas	31	0
+5/3/2020	Cobb	Georgia	1768	97
+5/3/2020	Washington	Pennsylvania	119	2
+5/3/2020	Tarrant	Texas	2584	75
+5/3/2020	Forsyth	Georgia	332	10
+5/3/2020	Eddy	New Mexico	13	1
+5/3/2020	Winneshiek	Iowa	18	0
+5/3/2020	Howard	Iowa	10	0
+5/3/2020	Caswell	North Carolina	32	0
+5/3/2020	Gates	North Carolina	9	0
+5/3/2020	Marshall	Illinois	4	0
+5/3/2020	Morgan	Missouri	5	0
+5/3/2020	Lyon	Iowa	14	0
+5/3/2020	Wilkinson	Mississippi	69	7
+5/3/2020	Allen	Ohio	124	23
+5/3/2020	Sandoval	New Mexico	416	19
+5/3/2020	Sangamon	Illinois	208	13
+5/3/2020	Cassia	Idaho	13	1
+5/3/2020	Hand	South Dakota	1	0
+5/3/2020	Berkeley	West Virginia	159	2
+5/3/2020	St. Clair	Illinois	537	33
+5/3/2020	Delaware	Ohio	175	4
+5/3/2020	Forest	Pennsylvania	7	0
+5/3/2020	Calaveras	California	13	0
+5/3/2020	Hopkins	Texas	6	0
+5/3/2020	Garfield	Colorado	97	2
+5/3/2020	Lanier	Georgia	9	1
+5/3/2020	Thomas	Georgia	191	19
+5/3/2020	Cullman	Alabama	58	0
+5/3/2020	Okfuskee	Oklahoma	1	0
+5/3/2020	Washburn	Wisconsin	1	0
+5/3/2020	Cochran	Texas	1	0
+5/3/2020	Tallahatchie	Mississippi	12	1
+5/3/2020	Summit	Ohio	701	58
+5/3/2020	Gem	Idaho	11	0
+5/3/2020	Stillwater	Montana	1	0
+5/3/2020	Parker	Texas	35	0
+5/3/2020	Calhoun	Georgia	107	4
+5/3/2020	New York City	New York	174341	13064
+5/3/2020	Reynolds	Missouri	2	0
+5/3/2020	Trinity	Texas	8	0
+5/3/2020	Stevens	Kansas	11	0
+5/3/2020	Washington	North Carolina	24	3
+5/3/2020	Lafayette	Mississippi	91	3
+5/3/2020	Mecklenburg	North Carolina	1724	51
+5/3/2020	Bossier	Louisiana	295	17
+5/3/2020	Pierce	Wisconsin	10	0
+5/3/2020	Lincoln	Louisiana	90	9
+5/3/2020	Pacific	Washington	4	0
+5/3/2020	Wilkin	Minnesota	12	3
+5/3/2020	Craighead	Arkansas	81	0
+5/3/2020	Walla Walla	Washington	88	0
+5/3/2020	Clark	Indiana	331	16
+5/3/2020	Richland	Louisiana	74	0
+5/3/2020	Seminole	Oklahoma	12	2
+5/3/2020	Isle of Wight	Virginia	99	2
+5/3/2020	Switzerland	Indiana	15	0
+5/3/2020	Nevada	California	41	1
+5/3/2020	Hardin	Texas	107	3
+5/3/2020	Delaware	Pennsylvania	4173	255
+5/3/2020	White	Arkansas	35	1
+5/3/2020	Allegany	Maryland	124	12
+5/3/2020	Lamb	Texas	4	0
+5/3/2020	Sullivan	Missouri	1	0
+5/3/2020	Klickitat	Washington	18	3
+5/3/2020	Sumter	Florida	226	14
+5/3/2020	Comanche	Oklahoma	98	2
+5/3/2020	Braxton	West Virginia	2	0
+5/3/2020	Drew	Arkansas	16	1
+5/3/2020	Clarke	Alabama	42	1
+5/3/2020	Pulaski	Georgia	32	1
+5/3/2020	Clatsop	Oregon	7	0
+5/3/2020	Murray	Minnesota	17	0
+5/3/2020	Morgan	Ohio	4	0
+5/3/2020	Williamsburg city	Virginia	22	2
+5/3/2020	Tift	Georgia	127	5
+5/3/2020	Gregg	Texas	87	0
+5/3/2020	Emmet	Michigan	21	2
+5/3/2020	Ventura	California	566	19
+5/3/2020	Lincoln	Nebraska	33	2
+5/3/2020	Rio Blanco	Colorado	1	0
+5/3/2020	Scotland	Missouri	4	0
+5/3/2020	Warren	Indiana	11	1
+5/3/2020	Hopkins	Kentucky	207	23
+5/3/2020	Luna	New Mexico	7	1
+5/3/2020	DeKalb	Alabama	79	2
+5/3/2020	Brown	Indiana	18	1
+5/3/2020	Smith	Kansas	2	0
+5/3/2020	Hamilton	Illinois	2	0
+5/3/2020	Kent	Michigan	1786	39
+5/3/2020	Bon Homme	South Dakota	4	0
+5/3/2020	Grand Traverse	Michigan	19	5
+5/3/2020	Daviess	Missouri	3	0
+5/3/2020	Elk	Pennsylvania	4	0
+5/3/2020	Greene	Alabama	58	1
+5/3/2020	Pitt	North Carolina	129	2
+5/3/2020	Atchison	Missouri	2	0
+5/3/2020	Unknown	New Hampshire	19	0
+5/3/2020	Pettis	Missouri	43	0
+5/3/2020	St. Francois	Missouri	27	1
+5/3/2020	Leavenworth	Kansas	498	5
+5/3/2020	Unknown	Arkansas	174	0
+5/3/2020	Georgetown	South Carolina	45	3
+5/3/2020	Goodhue	Minnesota	21	0
+5/3/2020	Eagle	Colorado	551	7
+5/3/2020	Benton	Oregon	32	5
+5/3/2020	Haywood	North Carolina	12	0
+5/3/2020	Burke	Georgia	86	3
+5/3/2020	Hopewell city	Virginia	27	0
+5/3/2020	Kiowa	Oklahoma	5	0
+5/3/2020	Roane	West Virginia	7	0
+5/3/2020	Stanly	North Carolina	29	4
+5/3/2020	Goochland	Virginia	79	5
+5/3/2020	Menominee	Michigan	5	0
+5/3/2020	Adams	Colorado	1780	68
+5/3/2020	Nome Census Area	Alaska	1	0
+5/3/2020	Corson	South Dakota	1	0
+5/3/2020	Crisp	Georgia	168	3
+5/3/2020	Logan	Colorado	291	1
+5/3/2020	Jackson	Indiana	165	1
+5/3/2020	Murray	Georgia	33	1
+5/3/2020	Kenton	Kentucky	308	20
+5/3/2020	Teton	Idaho	8	0
+5/3/2020	Washington	Wisconsin	101	4
+5/3/2020	Wayne	Kentucky	9	0
+5/3/2020	Blount	Alabama	40	0
+5/3/2020	Sequoyah	Oklahoma	12	3
+5/3/2020	Dodge	Wisconsin	38	1
+5/3/2020	Wayne	Indiana	38	3
+5/3/2020	Lenawee	Michigan	107	2
+5/3/2020	Coosa	Alabama	30	1
+5/3/2020	Lincoln	Oregon	5	0
+5/3/2020	Clay	South Dakota	7	0
+5/3/2020	Metcalfe	Kentucky	1	0
+5/3/2020	Sussex	New Jersey	969	115
+5/3/2020	Waupaca	Wisconsin	10	1
+5/3/2020	Lake	Florida	234	13
+5/3/2020	Falls	Texas	4	0
+5/3/2020	Prince William	Virginia	2026	30
+5/3/2020	Pickens	South Carolina	58	1
+5/3/2020	Dearborn	Indiana	135	9
+5/3/2020	Wright	Missouri	9	0
+5/3/2020	Franklin	Mississippi	17	1
+5/3/2020	McMinn	Tennessee	100	1
+5/3/2020	Wyandotte	Kansas	826	55
+5/3/2020	Cibola	New Mexico	68	3
+5/3/2020	Winston	Mississippi	47	0
+5/3/2020	Christian	Missouri	19	0
+5/3/2020	Van Buren	Michigan	61	2
+5/3/2020	Phillips	Colorado	5	0
+5/3/2020	Tooele	Utah	71	0
+5/3/2020	San Luis Obispo	California	201	1
+5/3/2020	Sonoma	California	257	3
+5/3/2020	Lafayette	Louisiana	466	20
+5/3/2020	Delaware	Indiana	200	15
+5/3/2020	Hot Springs	Wyoming	2	0
+5/3/2020	Mono	California	26	1
+5/3/2020	Montgomery	Alabama	409	7
+5/3/2020	Asotin	Washington	18	2
+5/3/2020	Spencer	Indiana	5	1
+5/3/2020	Madison	New York	151	3
+5/3/2020	Lamar	Texas	67	0
+5/3/2020	Houghton	Michigan	2	0
+5/3/2020	Lawrence	Tennessee	17	0
+5/3/2020	Bolivar	Mississippi	107	7
+5/3/2020	Wayne	Iowa	1	0
+5/3/2020	Marshall	Kentucky	34	1
+5/3/2020	Shelby	Texas	117	4
+5/3/2020	Polk	Texas	20	0
+5/3/2020	Grenada	Mississippi	34	1
+5/3/2020	Greene	Arkansas	19	0
+5/3/2020	George	Mississippi	14	1
+5/3/2020	Morris	Texas	9	0
+5/3/2020	Kay	Oklahoma	47	7
+5/3/2020	Logan	Kentucky	13	1
+5/3/2020	Tulare	California	743	40
+5/3/2020	Phelps	Nebraska	9	0
+5/3/2020	Pemiscot	Missouri	32	1
+5/3/2020	Perry	Mississippi	29	1
+5/3/2020	Wood	Wisconsin	2	0
+5/3/2020	Nicholas	Kentucky	1	0
+5/3/2020	Anderson	Kentucky	9	1
+5/3/2020	Habersham	Georgia	343	8
+5/3/2020	Putnam	Ohio	69	9
+5/3/2020	Bristol	Massachusetts	4019	198
+5/3/2020	Fountain	Indiana	13	2
+5/3/2020	Calhoun	Texas	32	3
+5/3/2020	Troup	Georgia	154	4
+5/3/2020	Jackson	Texas	14	0
+5/3/2020	Escambia	Alabama	31	2
+5/3/2020	Hart	Kentucky	8	0
+5/3/2020	Mille Lacs	Minnesota	2	1
+5/3/2020	Rusk	Texas	36	1
+5/3/2020	Crawford	Georgia	18	0
+5/3/2020	Dane	Wisconsin	436	22
+5/3/2020	Gibson	Indiana	7	0
+5/3/2020	Culpeper	Virginia	191	3
+5/3/2020	Hamilton	Iowa	7	0
+5/3/2020	Morgan	West Virginia	13	0
+5/3/2020	Vernon	Louisiana	16	2
+5/3/2020	Webster	Louisiana	92	4
+5/3/2020	Oswego	New York	66	0
+5/3/2020	Smith	Tennessee	22	1
+5/3/2020	Oliver	North Dakota	1	0
+5/3/2020	Grady	Georgia	63	3
+5/3/2020	Lafayette	Florida	2	0
+5/3/2020	Washington	Vermont	35	1
+5/3/2020	Thurston	Washington	111	1
+5/3/2020	Andrews	Texas	21	0
+5/3/2020	Lowndes	Mississippi	60	3
+5/3/2020	Cape Girardeau	Missouri	49	1
+5/3/2020	Marshall	Indiana	31	1
+5/3/2020	Kent	Maryland	91	6
+5/3/2020	Niagara	New York	474	14
+5/3/2020	Utah	Utah	1073	9
+5/3/2020	Kittitas	Washington	15	0
+5/3/2020	Floyd	Virginia	3	0
+5/3/2020	Suffolk city	Virginia	190	14
+5/3/2020	Colorado	Texas	10	0
+5/3/2020	Grant	Indiana	144	12
+5/3/2020	Centre	Pennsylvania	102	2
+5/3/2020	Guthrie	Iowa	22	0
+5/3/2020	Aitkin	Minnesota	1	0
+5/3/2020	Jackson	North Carolina	16	0
+5/3/2020	Henry	Illinois	50	0
+5/3/2020	Angelina	Texas	55	0
+5/3/2020	Pike	Missouri	11	0
+5/3/2020	Davidson	North Carolina	179	8
+5/3/2020	St. Johns	Florida	211	4
+5/3/2020	Bertie	North Carolina	47	2
+5/3/2020	Tensas	Louisiana	2	0
+5/3/2020	Johnson	Kansas	498	42
+5/3/2020	Franklin	Pennsylvania	351	10
+5/3/2020	Bergen	New Jersey	16185	1210
+5/3/2020	Powhatan	Virginia	15	0
+5/3/2020	Scott	Missouri	76	2
+5/3/2020	Fayette	Alabama	6	0
+5/3/2020	Livingston	Missouri	2	0
+5/3/2020	Whitman	Washington	16	0
+5/3/2020	Yellow Medicine	Minnesota	3	0
+5/3/2020	Mahaska	Iowa	16	1
+5/3/2020	Polk	Missouri	1	0
+5/3/2020	Marshall	Mississippi	47	2
+5/3/2020	Portsmouth city	Virginia	183	8
+5/3/2020	Acadia	Louisiana	134	10
+5/3/2020	Weld	Colorado	1872	100
+5/3/2020	Ketchikan Gateway Borough	Alaska	16	0
+5/3/2020	Caribou	Idaho	1	0
+5/3/2020	Gillespie	Texas	3	0
+5/3/2020	McIntosh	North Dakota	1	0
+5/3/2020	Pike	Illinois	1	0
+5/3/2020	Mason	Kentucky	6	0
+5/3/2020	Jerauld	South Dakota	6	1
+5/3/2020	Greenville	South Carolina	757	40
+5/3/2020	Shawano	Wisconsin	16	0
+5/3/2020	Crittenden	Arkansas	197	5
+5/3/2020	Henderson	Kentucky	65	1
+5/3/2020	Alleghany	North Carolina	6	0
+5/3/2020	Boone	Illinois	138	11
+5/3/2020	Johnson	Indiana	706	72
+5/3/2020	Terrebonne	Louisiana	459	33
+5/3/2020	Oneida	New York	489	16
+5/3/2020	Cheatham	Tennessee	53	0
+5/3/2020	Stephens	Texas	1	0
+5/3/2020	Hardee	Florida	32	0
+5/3/2020	Kansas City	Missouri	609	16
+5/3/2020	Linn	Oregon	87	7
+5/3/2020	Dare	North Carolina	13	1
+5/3/2020	Whitley	Kentucky	11	0
+5/3/2020	Henry	Tennessee	13	0
+5/3/2020	Covington	Mississippi	66	0
+5/3/2020	Mahoning	Ohio	937	83
+5/3/2020	Hillsdale	Michigan	131	18
+5/3/2020	Nodaway	Missouri	4	0
+5/3/2020	Kanawha	West Virginia	167	10
+5/3/2020	Middlesex	New Jersey	12597	639
+5/3/2020	Kalamazoo	Michigan	456	18
+5/3/2020	Uvalde	Texas	7	0
+5/3/2020	Stanislaus	California	411	14
+5/3/2020	Sedgwick	Kansas	426	13
+5/3/2020	Clark	South Dakota	1	0
+5/3/2020	Des Moines	Iowa	18	1
+5/3/2020	Stephenson	Illinois	63	0
+5/3/2020	Chippewa	Wisconsin	25	0
+5/3/2020	Bannock	Idaho	7	0
+5/3/2020	Briscoe	Texas	1	0
+5/3/2020	Brown	South Dakota	59	0
+5/3/2020	Douglas	Minnesota	3	0
+5/3/2020	Addison	Vermont	61	2
+5/3/2020	Crawford	Ohio	52	1
+5/3/2020	Brazoria	Texas	551	6
+5/3/2020	Jefferson	Florida	28	2
+5/3/2020	Crawford	Pennsylvania	19	0
+5/3/2020	Albany	New York	1258	61
+5/3/2020	Garland	Arkansas	118	0
+5/3/2020	Wilson	Texas	33	3
+5/3/2020	Nolan	Texas	2	0
+5/3/2020	Bullock	Alabama	14	0
+5/3/2020	Geneva	Alabama	10	0
+5/3/2020	Kaufman	Texas	87	1
+5/3/2020	Sussex	Delaware	2461	68
+5/3/2020	Marshall	Iowa	603	2
+5/3/2020	Cloud	Kansas	4	0
+5/3/2020	Holmes	Mississippi	161	9
+5/3/2020	Allegheny	Pennsylvania	1345	102
+5/3/2020	Warren	Virginia	61	0
+5/3/2020	Posey	Indiana	12	0
+5/3/2020	Montgomery	New York	56	1
+5/3/2020	Gilchrist	Florida	6	0
+5/3/2020	Stutsman	North Dakota	11	0
+5/3/2020	Northampton	Virginia	134	1
+5/3/2020	Seminole	Florida	394	8
+5/3/2020	Leslie	Kentucky	4	0
+5/3/2020	Pima	Arizona	1326	89
+5/3/2020	Valencia	New Mexico	50	1
+5/3/2020	Lafourche	Louisiana	669	52
+5/3/2020	Webb	Texas	391	16
+5/3/2020	Llano	Texas	3	0
+5/3/2020	Union	Kentucky	8	0
+5/3/2020	Sullivan	New Hampshire	12	1
+5/3/2020	Daviess	Indiana	51	14
+5/3/2020	Park	Colorado	14	0
+5/3/2020	Henderson	Illinois	5	0
+5/3/2020	Seward	Nebraska	8	1
+5/3/2020	Marion	Tennessee	29	1
+5/3/2020	Dodge	Minnesota	22	0
+5/3/2020	Cimarron	Oklahoma	1	0
+5/3/2020	Menominee	Wisconsin	1	0
+5/3/2020	Union	Indiana	7	0
+5/3/2020	Ozaukee	Wisconsin	92	9
+5/3/2020	Herkimer	New York	62	1
+5/3/2020	Baca	Colorado	12	0
+5/3/2020	Grant	North Dakota	1	0
+5/3/2020	West Carroll	Louisiana	4	0
+5/3/2020	Dorchester	South Carolina	101	3
+5/3/2020	Manitowoc	Wisconsin	13	1
+5/3/2020	Dodge	Nebraska	111	0
+5/3/2020	Long	Georgia	5	0
+5/3/2020	Franklin	Illinois	10	0
+5/3/2020	Calcasieu	Louisiana	455	31
+5/3/2020	Pendleton	West Virginia	3	0
+5/3/2020	Nye	Nevada	37	0
+5/3/2020	Pottawattamie	Iowa	44	2
+5/3/2020	Mercer	Pennsylvania	66	1
+5/3/2020	Henry	Kentucky	8	0
+5/3/2020	Marion	Illinois	34	0
+5/3/2020	Monroe	Georgia	24	3
+5/3/2020	Rooks	Kansas	6	0
+5/3/2020	Whitley	Indiana	21	1
+5/3/2020	Pointe Coupee	Louisiana	103	15
+5/3/2020	Rock	Minnesota	16	0
+5/3/2020	Columbia	New York	209	17
+5/3/2020	Hitchcock	Nebraska	1	0
+5/3/2020	Rockingham	Virginia	265	1
+5/3/2020	Boone	Arkansas	4	0
+5/3/2020	Johnson	Georgia	59	2
+5/3/2020	St. Louis city	Missouri	1304	70
+5/3/2020	Bradford	Pennsylvania	35	5
+5/3/2020	Crowley	Colorado	4	1
+5/3/2020	Rockdale	Georgia	195	6
+5/3/2020	Clark	Nevada	4274	218
+5/3/2020	Van Buren	Tennessee	2	0
+5/3/2020	McCook	South Dakota	4	1
+5/3/2020	Douglas	Wisconsin	9	0
+5/3/2020	Sac	Iowa	1	0
+5/3/2020	Walker	Texas	298	2
+5/3/2020	Haywood	Tennessee	25	1
+5/3/2020	Mason	Michigan	12	0
+5/3/2020	Cuyahoga	Ohio	2338	120
+5/3/2020	Laurel	Kentucky	17	2
+5/3/2020	Lyman	South Dakota	3	0
+5/3/2020	Jim Wells	Texas	5	0
+5/3/2020	Cherokee	Oklahoma	27	1
+5/3/2020	Medina	Texas	20	2
+5/3/2020	Madison	Louisiana	8	0
+5/3/2020	Pulaski	Illinois	20	0
+5/3/2020	Beaufort	South Carolina	270	11
+5/3/2020	Frederick	Maryland	1004	54
+5/3/2020	Madison	Iowa	9	1
+5/3/2020	Wheeler	Georgia	5	0
+5/3/2020	Faulkner	Arkansas	77	2
+5/3/2020	Hawkins	Tennessee	30	2
+5/3/2020	Clay	Alabama	22	1
+5/3/2020	Churchill	Nevada	3	1
+5/3/2020	Carlton	Minnesota	60	0
+5/3/2020	Freeborn	Minnesota	35	0
+5/3/2020	Washington	Minnesota	146	12
+5/3/2020	Newberry	South Carolina	30	1
+5/3/2020	Union	Tennessee	3	0
+5/3/2020	Cook	Georgia	28	1
+5/3/2020	Stokes	North Carolina	10	0
+5/3/2020	Green	Wisconsin	15	0
+5/3/2020	Schoolcraft	Michigan	3	0
+5/3/2020	Harris	Georgia	61	2
+5/3/2020	Douglas	Georgia	341	11
+5/3/2020	Dixie	Florida	9	0
+5/3/2020	Franklin	Georgia	21	1
+5/3/2020	Adams	Illinois	40	1
+5/3/2020	Saline	Nebraska	212	0
+5/3/2020	Clarendon	South Carolina	229	22
+5/3/2020	Fayette	Iowa	22	0
+5/3/2020	Berks	Pennsylvania	2886	118
+5/3/2020	Chattahoochee	Georgia	13	0
+5/3/2020	Placer	California	159	8
+5/3/2020	Norman	Minnesota	8	0
+5/3/2020	Cumberland	Maine	549	28
+5/3/2020	Iowa	Iowa	21	0
+5/3/2020	Ross	Ohio	41	1
+5/3/2020	Franklin	Kentucky	17	0
+5/3/2020	Montgomery	Virginia	56	1
+5/3/2020	Brown	Illinois	1	0
+5/3/2020	Lincoln	New Mexico	2	0
+5/3/2020	Pierce	Washington	1506	52
+5/3/2020	Hood	Texas	20	3
+5/3/2020	Concordia	Louisiana	39	4
+5/3/2020	Jefferson	Wisconsin	46	0
+5/3/2020	Susquehanna	Pennsylvania	85	9
+5/3/2020	Fulton	New York	82	2
+5/3/2020	Richland	North Dakota	7	0
+5/3/2020	Inyo	California	20	1
+5/3/2020	Saline	Arkansas	68	1
+5/3/2020	Grant	Oregon	1	0
+5/3/2020	Cowlitz	Washington	53	0
+5/3/2020	Wayne	North Carolina	677	11
+5/3/2020	Glasscock	Texas	1	0
+5/3/2020	Shelby	Kentucky	32	3
+5/3/2020	Spotsylvania	Virginia	186	4
+5/3/2020	Towns	Georgia	20	1
+5/3/2020	Madera	California	51	2
+5/3/2020	Edwards	Kansas	4	0
+5/3/2020	Aroostook	Maine	5	0
+5/3/2020	Sequatchie	Tennessee	5	0
+5/3/2020	Moore	Tennessee	3	0
+5/3/2020	Dougherty	Georgia	1536	124
+5/3/2020	Highland	Virginia	2	0
+5/3/2020	Morris	Kansas	3	0
+5/3/2020	LaGrange	Indiana	28	2
+5/3/2020	Morris	New Jersey	5517	449
+5/3/2020	Hamilton	Texas	5	0
+5/3/2020	Decatur	Georgia	91	1
+5/3/2020	Madison	Virginia	15	0
+5/3/2020	Twiggs	Georgia	8	0
+5/3/2020	Waukesha	Wisconsin	360	20
+5/3/2020	Lincoln	Arkansas	822	4
+5/3/2020	Greene	North Carolina	19	0
+5/3/2020	Worcester	Massachusetts	6288	312
+5/3/2020	Union	Mississippi	27	2
+5/3/2020	Williams	North Dakota	11	0
+5/3/2020	Franklin	Arkansas	2	0
+5/3/2020	Spink	South Dakota	3	0
+5/3/2020	Sargent	North Dakota	1	0
+5/3/2020	Gilmer	West Virginia	2	0
+5/3/2020	Wayne	Tennessee	4	0
+5/3/2020	Clinton	New York	66	4
+5/3/2020	Russell	Virginia	5	0
+5/3/2020	Summit	Colorado	144	2
+5/3/2020	Ashland	Ohio	9	0
+5/3/2020	Logan	Illinois	7	0
+5/3/2020	Marshall	Oklahoma	2	0
+5/3/2020	Humboldt	Nevada	49	3
+5/3/2020	Crow Wing	Minnesota	21	1
+5/3/2020	Jackson	Tennessee	7	0
+5/3/2020	Ingham	Michigan	506	13
+5/3/2020	Perry	Illinois	34	0
+5/3/2020	Marion	Oregon	544	19
+5/3/2020	Lawrence	Ohio	25	0
+5/3/2020	Cass	Minnesota	7	0
+5/3/2020	Sharkey	Mississippi	5	0
+5/3/2020	Calhoun	Alabama	105	3
+5/3/2020	Door	Wisconsin	15	3
+5/3/2020	Fayette	Indiana	29	4
+5/3/2020	Teton	Wyoming	67	1
+5/3/2020	Coles	Illinois	22	1
+5/3/2020	District of Columbia	District of Columbia	5016	251
+5/3/2020	Iroquois	Illinois	38	0
+5/3/2020	San Diego	California	3990	150
+5/3/2020	Scott	Indiana	52	2
+5/3/2020	Teller	Colorado	28	2
+5/3/2020	Mississippi	Missouri	29	0
+5/3/2020	James City	Virginia	163	13
+5/3/2020	Orleans	Louisiana	6538	441
+5/3/2020	Creek	Oklahoma	80	6
+5/3/2020	Monroe	Kentucky	6	0
+5/3/2020	York	Maine	215	7
+5/3/2020	Ouachita	Louisiana	770	22
+5/3/2020	Cocke	Tennessee	16	0
+5/3/2020	Matanuska-Susitna Borough	Alaska	21	1
+5/3/2020	Delta	Colorado	50	1
+5/3/2020	Norton	Kansas	2	0
+5/3/2020	Nicollet	Minnesota	15	2
+5/3/2020	Washington	New York	186	2
+5/3/2020	Union	South Dakota	31	0
+5/3/2020	Los Angeles	California	25662	1229
+5/3/2020	Yancey	North Carolina	1	0
+5/3/2020	Grayson	Kentucky	79	5
+5/3/2020	Jones	Iowa	24	0
+5/3/2020	Hillsborough	New Hampshire	1109	41
+5/3/2020	Brantley	Georgia	22	2
+5/3/2020	Holmes	Ohio	6	1
+5/3/2020	Oklahoma	Oklahoma	838	33
+5/3/2020	Santa Rosa	Florida	157	8
+5/3/2020	Sarasota	Florida	377	47
+5/3/2020	Henry	Missouri	7	1
+5/3/2020	Morrow	Oregon	9	0
+5/3/2020	Garza	Texas	3	0
+5/3/2020	Butler	Ohio	328	7
+5/3/2020	Russell	Kentucky	16	3
+5/3/2020	Sherman	Nebraska	2	0

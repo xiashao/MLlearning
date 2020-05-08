@@ -1,0 +1,1000 @@
+2020-04-22	Bosque	Texas	48035.0	3	0
+2020-04-21	Yolo	California	6113.0	146	10
+2020-03-27	Hernando	Florida	12053.0	12	0
+2020-04-11	Houston	Alabama	1069.0	37	1
+2020-04-09	Kane	Utah	49025.0	3	0
+2020-04-16	Andrew	Missouri	29003.0	1	0
+2020-04-08	Escambia	Florida	12033.0	182	3
+2020-03-20	Maricopa	Arizona	4013.0	34	1
+2020-04-08	Prince William	Virginia	51153.0	263	1
+2020-04-06	Buchanan	Missouri	29021.0	11	0
+2020-04-11	Grainger	Tennessee	47057.0	4	0
+2020-04-19	Berkeley	South Carolina	45015.0	132	3
+2020-04-11	Allegany	Maryland	24001.0	11	0
+2020-04-22	Kleberg	Texas	48273.0	7	1
+2020-04-12	Highland	Ohio	39071.0	6	0
+2020-03-19	Prince William	Virginia	51153.0	12	0
+2020-04-16	Sequoyah	Oklahoma	40135.0	10	2
+2020-04-14	Muskogee	Oklahoma	40101.0	25	2
+2020-04-01	Klickitat	Washington	53039.0	9	1
+2020-04-19	Perry	Missouri	29157.0	39	0
+2020-04-02	Pierce	Georgia	13229.0	10	0
+2020-04-03	Taos	New Mexico	35055.0	13	0
+2020-04-11	Jefferson	Montana	30043.0	2	0
+2020-04-23	Monmouth	New Jersey	34025.0	5238	260
+2020-03-26	Kenton	Kentucky	21117.0	12	0
+2020-03-26	Lafourche	Louisiana	22057.0	28	1
+2020-03-21	Albany	New York	36001.0	88	0
+2020-04-22	Bradford	Pennsylvania	42015.0	29	5
+2020-03-27	Sweetwater	Wyoming	56037.0	1	0
+2020-04-20	Grant	Indiana	18053.0	78	3
+2020-03-21	Franklin	Kentucky	21073.0	1	0
+2020-03-24	Cedar	Iowa	19031.0	1	0
+2020-03-28	Allen	Indiana	18003.0	23	1
+2020-04-16	Dorchester	Maryland	24019.0	18	1
+2020-03-13	Trumbull	Ohio	39155.0	1	0
+2020-04-13	Prairie	Arkansas	5117.0	2	0
+2020-04-22	Floyd	Virginia	51063.0	1	0
+2020-04-18	Howard	Texas	48227.0	1	1
+2020-04-09	Clackamas	Oregon	41005.0	109	3
+2020-04-02	James City	Virginia	51095.0	97	3
+2020-04-13	Hunt	Texas	48231.0	18	1
+2020-03-14	Pitkin	Colorado	8097.0	11	0
+2020-03-18	Lyon	Kentucky	21143.0	1	0
+2020-04-13	Upshur	West Virginia	54097.0	3	0
+2020-04-08	Trousdale	Tennessee	47169.0	14	1
+2020-03-29	Surry	North Carolina	37171.0	2	0
+2020-04-13	La Crosse	Wisconsin	55063.0	25	0
+2020-04-08	Walla Walla	Washington	53071.0	17	0
+2020-04-16	Leon	Texas	48289.0	4	0
+2020-04-16	Webster	Georgia	13307.0	4	0
+2020-02-27	Maricopa	Arizona	4013.0	1	0
+2020-04-03	Schenectady	New York	36093.0	101	5
+2020-04-10	Gooding	Idaho	16047.0	5	0
+2020-04-12	Dickinson	Iowa	19059.0	1	0
+2020-04-11	Liberty	Georgia	13179.0	16	0
+2020-04-07	San Augustine	Texas	48405.0	4	1
+2020-04-16	Lincoln	Wyoming	56023.0	5	0
+2020-04-23	Rio Grande	Colorado	8105.0	7	0
+2020-04-14	Attala	Mississippi	28007.0	22	0
+2020-04-12	Lamb	Texas	48279.0	1	0
+2020-04-18	Warren	Virginia	51187.0	24	0
+2020-04-03	Ouachita	Arkansas	5103.0	1	0
+2020-03-24	Jessamine	Kentucky	21113.0	2	0
+2020-04-06	Ralls	Missouri	29173.0	1	0
+2020-04-11	Ohio	Indiana	18115.0	1	0
+2020-04-20	Wirt	West Virginia	54105.0	2	0
+2020-04-10	St. Clair	Michigan	26147.0	179	4
+2020-04-19	Randolph	North Carolina	37151.0	74	2
+2020-03-25	Monroe	Tennessee	47123.0	3	0
+2020-04-14	Lancaster	Virginia	51103.0	1	0
+2020-03-27	Cherokee	Oklahoma	40021.0	1	0
+2020-04-12	Burt	Nebraska	31021.0	1	0
+2020-04-09	Bayfield	Wisconsin	55007.0	3	0
+2020-04-05	Lincoln	Missouri	29113.0	17	0
+2020-04-11	Manassas city	Virginia	51683.0	34	0
+2020-04-17	Cobb	Georgia	13067.0	1085	51
+2020-03-16	Spotsylvania	Virginia	51177.0	1	0
+2020-03-27	Honolulu	Hawaii	15003.0	87	0
+2020-04-02	Campbell	Kentucky	21037.0	7	0
+2020-04-10	Houston	Tennessee	47083.0	3	0
+2020-04-23	Lewis	Missouri	29111.0	6	1
+2020-04-16	Otsego	Michigan	26137.0	44	2
+2020-03-25	Bingham	Idaho	16011.0	1	0
+2020-04-02	Stanislaus	California	6099.0	50	0
+2020-04-22	Greene	Alabama	1063.0	40	0
+2020-03-30	Lamar	Mississippi	28073.0	4	0
+2020-04-11	Dodge	Minnesota	27039.0	15	0
+2020-03-20	Chesterfield	Virginia	51041.0	6	0
+2020-03-30	Stark	Ohio	39151.0	44	2
+2020-03-07	Cook	Illinois	17031.0	6	0
+2020-03-21	Loudoun	Virginia	51107.0	14	0
+2020-04-19	Clinton	Iowa	19045.0	41	0
+2020-04-14	Pike	Pennsylvania	42103.0	256	6
+2020-03-28	Lee	Virginia	51105.0	2	0
+2020-04-01	Franklin	Kentucky	21073.0	7	0
+2020-04-19	Pontotoc	Mississippi	28115.0	18	2
+2020-04-20	Pasquotank	North Carolina	37139.0	32	0
+2020-03-22	Riverside	California	6065.0	45	6
+2020-04-21	Johnson	Texas	48251.0	52	1
+2020-04-15	Cocke	Tennessee	47029.0	8	0
+2020-04-15	Cortland	New York	36023.0	23	0
+2020-03-28	Greenville	South Carolina	45045.0	57	1
+2020-03-30	Itasca	Minnesota	27061.0	1	0
+2020-04-04	Morehouse	Louisiana	22067.0	9	0
+2020-04-10	Bartow	Georgia	13015.0	208	15
+2020-04-16	Union	Pennsylvania	42119.0	25	0
+2020-04-02	Roosevelt	New Mexico	35041.0	1	0
+2020-04-08	Mineral	Colorado	8079.0	2	0
+2020-03-19	Lake	Illinois	17097.0	37	0
+2020-04-03	Honolulu	Hawaii	15003.0	237	2
+2020-04-04	Wakulla	Florida	12129.0	5	0
+2020-04-01	Pickaway	Ohio	39129.0	12	0
+2020-04-19	Ocean	New Jersey	34029.0	4648	217
+2020-04-17	Gibson	Indiana	18051.0	4	0
+2020-04-20	Ramsey	North Dakota	38071.0	3	0
+2020-04-09	Lincoln	Mississippi	28085.0	32	2
+2020-04-13	Sioux	North Dakota	38085.0	1	0
+2020-03-24	Montgomery	Pennsylvania	42091.0	144	2
+2020-03-25	Hinds	Mississippi	28049.0	38	0
+2020-04-04	Taylor	Georgia	13269.0	2	0
+2020-03-17	Fond du Lac	Wisconsin	55039.0	11	0
+2020-04-17	Wahkiakum	Washington	53069.0	2	0
+2020-04-03	Genesee	Michigan	26049.0	422	11
+2020-04-04	Oklahoma	Oklahoma	40109.0	256	10
+2020-04-04	Elko	Nevada	32007.0	7	1
+2020-03-30	Lafayette	Missouri	29107.0	17	1
+2020-04-07	Caldwell	Louisiana	22021.0	13	0
+2020-03-31	Broadwater	Montana	30007.0	3	0
+2020-04-11	Rogers	Oklahoma	40131.0	24	0
+2020-04-10	Henry	Kentucky	21103.0	3	0
+2020-04-14	King	Washington	53033.0	4622	305
+2020-04-16	Lanier	Georgia	13173.0	6	1
+2020-03-29	Sullivan	New York	36105.0	88	0
+2020-03-20	Pinal	Arizona	4021.0	10	0
+2020-03-19	Citrus	Florida	12017.0	3	0
+2020-04-14	Noble	Oklahoma	40103.0	6	0
+2020-04-11	Boone	Arkansas	5009.0	3	0
+2020-04-20	Warren	Indiana	18171.0	7	1
+2020-04-01	Washington	Colorado	8121.0	1	0
+2020-03-23	Wake	North Carolina	37183.0	52	0
+2020-04-12	Mercer	Kentucky	21167.0	9	0
+2020-04-20	Big Horn	Wyoming	56003.0	1	0
+2020-04-19	Randolph	Alabama	1111.0	53	3
+2020-04-11	Johnson	Arkansas	5071.0	13	0
+2020-04-21	Mason	Washington	53045.0	22	0
+2020-04-16	Laramie	Wyoming	56021.0	67	1
+2020-04-16	Custer	Colorado	8027.0	2	0
+2020-03-24	Gladwin	Michigan	26051.0	2	0
+2020-03-29	Calhoun	South Carolina	45017.0	2	0
+2020-04-03	Atchison	Missouri	29005.0	1	0
+2020-03-25	Chittenden	Vermont	50007.0	55	6
+2020-04-11	Cibola	New Mexico	35006.0	25	0
+2020-04-03	Latah	Idaho	16057.0	1	0
+2020-04-11	Bollinger	Missouri	29017.0	3	0
+2020-04-10	Madison	Illinois	17119.0	101	2
+2020-03-18	Gaston	North Carolina	37071.0	1	0
+2020-04-05	Hood	Texas	48221.0	9	1
+2020-04-19	Clinton	Indiana	18023.0	18	1
+2020-04-12	Crawford	Ohio	39033.0	16	0
+2020-04-03	Dakota	Minnesota	27037.0	54	1
+2020-03-16	Dakota	Minnesota	27037.0	4	0
+2020-04-18	Atchison	Kansas	20005.0	4	0
+2020-04-02	Columbia	Florida	12023.0	4	0
+2020-03-31	El Paso	Texas	48141.0	50	0
+2020-04-19	Martin	North Carolina	37117.0	9	0
+2020-04-23	Dakota	Minnesota	27037.0	131	6
+2020-04-10	Kenai Peninsula Borough	Alaska	2122.0	14	0
+2020-04-16	Teton	Idaho	16081.0	6	0
+2020-03-27	Grimes	Texas	48185.0	2	0
+2020-04-22	Washakie	Wyoming	56043.0	4	0
+2020-03-26	Wagoner	Oklahoma	40145.0	6	0
+2020-03-27	Botetourt	Virginia	51023.0	1	0
+2020-04-03	Lincoln	Washington	53043.0	1	0
+2020-04-08	Yavapai	Arizona	4025.0	58	1
+2020-03-30	Waseca	Minnesota	27161.0	3	0
+2020-03-31	Pottawatomie	Oklahoma	40125.0	5	0
+2020-04-12	Leon	Florida	12073.0	119	0
+2020-04-13	Jenkins	Georgia	13165.0	11	1
+2020-04-14	Mercer	West Virginia	54055.0	8	0
+2020-04-13	St. Clair	Illinois	17163.0	202	8
+2020-03-22	Clark	Kentucky	21049.0	2	0
+2020-04-11	Mohave	Arizona	4015.0	30	2
+2020-04-23	Okaloosa	Florida	12091.0	140	3
+2020-03-18	District of Columbia	District of Columbia	11001.0	36	0
+2020-03-25	White	Tennessee	47185.0	1	0
+2020-04-09	Orange	New York	36071.0	4090	79
+2020-03-27	Dane	Wisconsin	55025.0	158	1
+2020-04-08	Cumberland	Virginia	51049.0	6	0
+2020-03-27	Allegan	Michigan	26005.0	1	0
+2020-04-18	Stokes	North Carolina	37169.0	10	0
+2020-04-19	Wake	North Carolina	37183.0	592	4
+2020-04-13	Lincoln	Louisiana	22061.0	39	0
+2020-04-07	Ouachita	Louisiana	22073.0	264	1
+2020-04-18	Shenandoah	Virginia	51171.0	39	1
+2020-03-19	Worcester	Massachusetts	25027.0	14	0
+2020-04-06	Jasper	Illinois	17079.0	4	0
+2020-04-01	Lamar	Mississippi	28073.0	6	0
+2020-03-24	Mercer	Pennsylvania	42085.0	2	0
+2020-04-17	Lawrence	South Dakota	46081.0	9	0
+2020-03-19	Williamson	Texas	48491.0	8	0
+2020-04-09	Jefferson	Wisconsin	55055.0	19	0
+2020-04-12	Morris	New Jersey	34027.0	3099	162
+2020-04-01	Olmsted	Minnesota	27109.0	61	0
+2020-04-16	Vance	North Carolina	37181.0	25	1
+2020-03-31	Mitchell	Georgia	13205.0	34	1
+2020-04-11	Powhatan	Virginia	51145.0	5	0
+2020-03-28	Unknown	New Jersey	nan	2478	7
+2020-04-09	Schenectady	New York	36093.0	167	9
+2020-04-20	Marion	West Virginia	54049.0	43	2
+2020-04-09	Carbon	Montana	30009.0	3	0
+2020-04-16	Fulton	Ohio	39051.0	10	0
+2020-04-20	Huerfano	Colorado	8055.0	1	0
+2020-04-01	Franklin	Indiana	18047.0	39	5
+2020-04-06	St. Clair	Illinois	17163.0	92	3
+2020-03-20	Brown	Texas	48049.0	1	0
+2020-04-16	Labette	Kansas	20099.0	20	0
+2020-04-19	Buncombe	North Carolina	37021.0	46	3
+2020-04-11	Grant	Wisconsin	55043.0	5	1
+2020-04-09	Cedar	Iowa	19031.0	19	0
+2020-04-21	Clarke	Virginia	51043.0	6	0
+2020-03-22	McLennan	Texas	48309.0	16	0
+2020-04-12	Decatur	Indiana	18031.0	127	10
+2020-04-15	Pawnee	Oklahoma	40117.0	27	2
+2020-04-06	Effingham	Georgia	13103.0	14	1
+2020-04-16	Big Horn	Wyoming	56003.0	1	0
+2020-04-18	Lampasas	Texas	48281.0	3	0
+2020-03-24	Warren	Kentucky	21227.0	6	0
+2020-04-14	Evans	Georgia	13109.0	2	0
+2020-04-05	Columbia	Oregon	41009.0	6	0
+2020-04-10	Litchfield	Connecticut	9005.0	346	16
+2020-04-02	Woodford	Illinois	17203.0	3	0
+2020-04-03	McCreary	Kentucky	21147.0	1	0
+2020-04-01	Wayne	New York	36117.0	24	0
+2020-04-02	Thomas	Georgia	13275.0	17	0
+2020-04-08	Barton	Kansas	20009.0	4	0
+2020-03-31	Barnstable	Massachusetts	25001.0	191	2
+2020-04-03	Tioga	Pennsylvania	42117.0	3	0
+2020-04-11	Orange	New York	36071.0	4847	99
+2020-04-06	Maury	Tennessee	47119.0	24	0
+2020-04-03	Augusta	Virginia	51015.0	4	0
+2020-04-02	Warren	New York	36113.0	19	0
+2020-04-22	Gloucester	New Jersey	34015.0	856	29
+2020-04-10	Northampton	North Carolina	37131.0	55	0
+2020-04-19	Indiana	Pennsylvania	42063.0	51	4
+2020-04-17	Benton	Iowa	19011.0	21	1
+2020-04-01	Morgan	Missouri	29141.0	1	0
+2020-03-22	Morton	North Dakota	38059.0	8	0
+2020-03-12	Douglas	Nebraska	31055.0	23	0
+2020-03-31	LaPorte	Indiana	18091.0	8	0
+2020-04-02	Piatt	Illinois	17147.0	1	0
+2020-03-23	Riverside	California	6065.0	48	6
+2020-04-14	Winnebago	Wisconsin	55139.0	29	1
+2020-04-20	LaSalle	Illinois	17099.0	30	1
+2020-04-19	Boone	Indiana	18011.0	153	8
+2020-03-27	Benton	Tennessee	47005.0	2	0
+2020-04-04	Belmont	Ohio	39013.0	17	0
+2020-04-10	Union	Iowa	19175.0	1	0
+2020-03-28	Clearfield	Pennsylvania	42033.0	2	0
+2020-03-30	Turner	Georgia	13287.0	3	0
+2020-04-16	Ontario	New York	36069.0	65	2
+2020-04-10	Washington	New York	36115.0	26	0
+2020-03-30	Woodson	Kansas	20207.0	1	0
+2020-04-07	Muskegon	Michigan	26121.0	41	4
+2020-04-08	Bradley	Arkansas	5011.0	5	0
+2020-03-28	Nelson	Virginia	51125.0	2	0
+2020-03-30	Okaloosa	Florida	12091.0	35	1
+2020-03-31	Decatur	Indiana	18031.0	47	1
+2020-03-25	Jackson	Oklahoma	40065.0	1	0
+2020-03-31	Cook	Illinois	17031.0	4496	61
+2020-04-15	Greene	Pennsylvania	42059.0	23	0
+2020-04-07	Plaquemines	Louisiana	22075.0	115	7
+2020-03-28	Thurston	Washington	53067.0	33	0
+2020-04-12	Union	Iowa	19175.0	1	0
+2020-04-07	Lake	Florida	12069.0	122	2
+2020-03-31	Suwannee	Florida	12121.0	3	0
+2020-03-30	King	Washington	53033.0	2332	152
+2020-04-22	Adams	Colorado	8001.0	1033	46
+2020-04-22	Pike	Mississippi	28113.0	118	3
+2020-04-17	Clearwater	Minnesota	27029.0	3	0
+2020-04-12	Sonoma	California	6097.0	147	2
+2020-04-01	Jackson	Kansas	20085.0	1	0
+2020-04-23	Wood	West Virginia	54107.0	35	2
+2020-03-25	Arapahoe	Colorado	8005.0	88	0
+2020-04-11	Gaston	North Carolina	37071.0	80	3
+2020-04-22	Lake	South Dakota	46079.0	3	0
+2020-04-23	Shawano	Wisconsin	55115.0	6	0
+2020-04-13	Story	Iowa	19169.0	8	0
+2020-03-19	Adair	Iowa	19001.0	1	0
+2020-04-12	Dixie	Florida	12029.0	2	0
+2020-03-20	Cobb	Georgia	13067.0	51	2
+2020-04-17	Winston	Mississippi	28159.0	27	0
+2020-04-06	Hall	Georgia	13139.0	138	0
+2020-04-03	Catron	New Mexico	35003.0	1	0
+2020-04-22	Cherokee	Iowa	19035.0	1	0
+2020-04-10	Cuyahoga	Ohio	39035.0	1052	22
+2020-04-22	Pickens	South Carolina	45077.0	41	0
+2020-04-10	Clay	Tennessee	47027.0	2	0
+2020-03-29	Robertson	Texas	48395.0	2	0
+2020-03-31	Ottawa	Oklahoma	40115.0	7	0
+2020-03-26	Oceana	Michigan	26127.0	1	0
+2020-03-29	McLean	North Dakota	38055.0	2	0
+2020-04-01	Sumter	Georgia	13261.0	38	3
+2020-04-10	Fulton	Indiana	18049.0	3	0
+2020-03-30	Wilkes	Georgia	13317.0	2	0
+2020-03-23	Missoula	Montana	30063.0	6	0
+2020-03-27	Laurel	Kentucky	21125.0	1	0
+2020-04-07	Union	Louisiana	22111.0	33	0
+2020-04-20	Cook	Illinois	17031.0	22101	915
+2020-04-23	Northumberland	Pennsylvania	42097.0	82	0
+2020-03-30	Fayette	Indiana	18041.0	8	1
+2020-04-03	McLean	North Dakota	38055.0	2	0
+2020-04-07	McIntosh	Oklahoma	40091.0	2	0
+2020-03-19	Clayton	Georgia	13063.0	6	0
+2020-04-01	Nevada	California	6057.0	26	0
+2020-04-20	Jefferson	Oklahoma	40067.0	1	0
+2020-04-03	Rockingham	New Hampshire	33015.0	190	1
+2020-03-25	Dukes	Massachusetts	25007.0	1	0
+2020-04-12	Coffee	Alabama	1031.0	32	0
+2020-04-05	Clayton	Georgia	13063.0	238	9
+2020-04-20	Lyman	South Dakota	46085.0	2	0
+2020-04-20	Crittenden	Arkansas	5035.0	142	5
+2020-03-30	Deschutes	Oregon	41017.0	25	0
+2020-03-18	Kauai	Hawaii	15007.0	2	0
+2020-04-10	Osborne	Kansas	20141.0	2	0
+2020-04-08	Spotsylvania	Virginia	51177.0	31	0
+2020-03-27	Wilkin	Minnesota	27167.0	1	0
+2020-03-30	Natchitoches	Louisiana	22069.0	2	0
+2020-03-21	Hinds	Mississippi	28049.0	14	0
+2020-03-12	Lee	Florida	12071.0	4	1
+2020-04-18	Alfalfa	Oklahoma	40003.0	1	0
+2020-04-04	Appling	Georgia	13001.0	5	0
+2020-03-29	Virginia Beach city	Virginia	51810.0	49	0
+2020-03-22	Baldwin	Georgia	13009.0	2	0
+2020-04-10	Hempstead	Arkansas	5057.0	3	1
+2020-04-01	Walker	Alabama	1127.0	32	0
+2020-03-22	Klamath	Oregon	41035.0	1	0
+2020-04-19	Mineral	Nevada	32021.0	1	0
+2020-04-20	Morris	Texas	48343.0	5	0
+2020-03-30	Breckinridge	Kentucky	21027.0	2	0
+2020-04-12	Washington	North Carolina	37187.0	15	1
+2020-04-11	Rush	Indiana	18139.0	13	1
+2020-04-08	Erath	Texas	48143.0	8	1
+2020-04-13	Washington	Oklahoma	40147.0	114	2
+2020-03-15	Bristol	Massachusetts	25005.0	1	0
+2020-04-23	Le Flore	Oklahoma	40079.0	8	0
+2020-04-02	Limestone	Texas	48293.0	3	0
+2020-02-05	Orange	California	6059.0	1	0
+2020-03-29	Weld	Colorado	8123.0	180	9
+2020-03-24	Shasta	California	6089.0	3	0
+2020-04-05	Jay	Indiana	18075.0	3	0
+2020-03-16	Okaloosa	Florida	12091.0	1	0
+2020-04-19	Barbour	Alabama	1005.0	20	0
+2020-04-07	Sumter	Georgia	13261.0	162	6
+2020-03-30	Schoharie	New York	36095.0	6	0
+2020-04-03	Tarrant	Texas	48439.0	383	7
+2020-04-18	Pike	Missouri	29163.0	6	0
+2020-04-23	Grays Harbor	Washington	53027.0	12	0
+2020-04-23	Pennington	South Dakota	46103.0	11	0
+2020-04-22	Columbiana	Ohio	39029.0	195	16
+2020-04-19	Searcy	Arkansas	5129.0	6	0
+2020-04-17	Douglas	Georgia	13097.0	222	6
+2020-04-03	Baldwin	Georgia	13009.0	11	1
+2020-03-13	Noble	Indiana	18113.0	1	0
+2020-03-22	Amherst	Virginia	51009.0	1	0
+2020-04-14	Kansas City	Missouri	nan	346	12
+2020-03-27	Rutherford	Tennessee	47149.0	39	0
+2020-04-08	Fayette	West Virginia	54019.0	1	0
+2020-04-05	Dallas	Texas	48113.0	1112	18
+2020-03-21	Carroll	New Hampshire	33003.0	5	0
+2020-04-09	Harrison	West Virginia	54033.0	29	1
+2020-04-07	Winston	Alabama	1133.0	3	0
+2020-04-22	Washington	Indiana	18175.0	31	0
+2020-03-30	Henry	Georgia	13151.0	68	2
+2020-04-10	Stephens	Oklahoma	40137.0	13	1
+2020-04-10	Leake	Mississippi	28079.0	22	0
+2020-04-12	Delaware	Oklahoma	40041.0	50	0
+2020-04-09	Hot Spring	Arkansas	5059.0	8	0
+2020-04-10	Giles	Tennessee	47055.0	3	0
+2020-04-11	McLeod	Minnesota	27085.0	2	0
+2020-04-08	Platte	Missouri	29165.0	19	0
+2020-04-16	Swisher	Texas	48437.0	4	0
+2020-04-19	Washington	Alabama	1129.0	16	1
+2020-03-17	Grafton	New Hampshire	33009.0	7	0
+2020-04-15	Hood River	Oregon	41027.0	4	0
+2020-04-06	Val Verde	Texas	48465.0	11	0
+2020-04-20	Faulkner	Arkansas	5045.0	62	2
+2020-04-12	Wabaunsee	Kansas	20197.0	1	0
+2020-03-25	Kitsap	Washington	53035.0	27	0
+2020-04-03	Berkeley	West Virginia	54003.0	37	0
+2020-04-02	Monroe	Michigan	26115.0	79	0
+2020-04-15	Bartholomew	Indiana	18005.0	113	4
+2020-04-17	Putnam	Ohio	39137.0	13	0
+2020-04-17	Clay	Kansas	20027.0	2	0
+2020-04-23	Danville city	Virginia	51590.0	31	1
+2020-04-16	Sonoma	California	6097.0	172	2
+2020-04-13	Tama	Iowa	19171.0	101	2
+2020-04-07	Larue	Kentucky	21123.0	3	0
+2020-04-19	Nacogdoches	Texas	48347.0	89	6
+2020-03-21	Wicomico	Maryland	24045.0	2	0
+2020-04-01	Clarion	Pennsylvania	42031.0	4	0
+2020-03-19	Walton	Florida	12131.0	1	0
+2020-04-05	Dallas	Iowa	19049.0	35	0
+2020-04-20	DeKalb	Missouri	29063.0	3	0
+2020-03-28	Benton	Minnesota	27009.0	1	0
+2020-03-19	Denver	Colorado	8031.0	61	0
+2020-03-30	Chambers	Texas	48071.0	5	0
+2020-03-22	Durham	North Carolina	37063.0	40	0
+2020-04-12	Ashley	Arkansas	5003.0	10	0
+2020-04-15	Elmore	Alabama	1051.0	49	0
+2020-04-04	Tangipahoa	Louisiana	22105.0	131	2
+2020-04-02	Hopkins	Kentucky	21107.0	21	2
+2020-04-09	Washington	Missouri	29221.0	1	0
+2020-04-02	Vance	North Carolina	37181.0	6	0
+2020-04-19	Perry	Ohio	39127.0	9	0
+2020-03-29	Wilkinson	Mississippi	28157.0	12	2
+2020-04-07	Owyhee	Idaho	16073.0	2	0
+2020-03-29	Baca	Colorado	8009.0	1	0
+2020-04-21	Vanderburgh	Indiana	18163.0	88	1
+2020-03-26	Victoria	Texas	48469.0	3	0
+2020-04-22	Marshall	Indiana	18099.0	26	1
+2020-04-07	Chattahoochee	Georgia	13053.0	2	0
+2020-03-29	Meigs	Tennessee	47121.0	1	0
+2020-04-13	Geneva	Alabama	1061.0	1	0
+2020-04-07	Southampton	Virginia	51175.0	5	0
+2020-04-05	Randolph	West Virginia	54083.0	3	0
+2020-04-05	Karnes	Texas	48255.0	2	0
+2020-04-13	King William	Virginia	51101.0	2	0
+2020-04-12	Sweetwater	Wyoming	56037.0	7	0
+2020-03-27	Minnehaha	South Dakota	46099.0	18	0
+2020-04-07	Manitowoc	Wisconsin	55071.0	3	0
+2020-04-05	Cumberland	Maine	23005.0	238	7
+2020-04-17	Gilchrist	Florida	12041.0	4	0
+2020-04-17	Yellowstone	Montana	30111.0	67	0
+2020-04-22	Izard	Arkansas	5065.0	2	0
+2020-04-18	Fayette	Pennsylvania	42051.0	66	3
+2020-04-11	Clinton	Ohio	39027.0	15	0
+2020-03-27	Sedgwick	Kansas	20173.0	20	0
+2020-04-18	Pecos	Texas	48371.0	5	0
+2020-04-22	Claiborne	Tennessee	47025.0	5	0
+2020-04-03	Tangipahoa	Louisiana	22105.0	55	1
+2020-04-02	Butler	Pennsylvania	42019.0	69	2
+2020-03-24	Saluda	South Carolina	45081.0	1	0
+2020-04-03	Miami-Dade	Florida	12086.0	3363	25
+2020-04-03	Loudon	Tennessee	47105.0	12	0
+2020-04-02	Chesapeake city	Virginia	51550.0	39	0
+2020-04-13	Meigs	Tennessee	47121.0	3	0
+2020-04-12	Unknown	Rhode Island	nan	989	43
+2020-04-18	Scotts Bluff	Nebraska	31157.0	18	0
+2020-04-20	Mecklenburg	North Carolina	37119.0	1210	29
+2020-04-06	Montrose	Colorado	8085.0	34	2
+2020-03-31	Laurens	Georgia	13175.0	13	0
+2020-04-19	Aitkin	Minnesota	27001.0	1	0
+2020-03-29	Ware	Georgia	13299.0	5	0
+2020-04-12	Greenwood	South Carolina	45047.0	17	0
+2020-04-17	Lenawee	Michigan	26091.0	59	0
+2020-04-10	Cherokee	North Carolina	37039.0	10	1
+2020-04-13	Sullivan	Tennessee	47163.0	42	1
+2020-04-17	Mecklenburg	North Carolina	37119.0	1136	21
+2020-03-17	Anderson	South Carolina	45007.0	2	0
+2020-04-08	Southeast Fairbanks Census Area	Alaska	2240.0	1	0
+2020-04-23	Faulkner	Arkansas	5045.0	67	2
+2020-03-23	Brazoria	Texas	48039.0	16	0
+2020-03-28	Cherokee	Georgia	13057.0	54	1
+2020-04-12	Marlboro	South Carolina	45069.0	14	0
+2020-04-11	Latah	Idaho	16057.0	3	0
+2020-04-09	Tooele	Utah	49045.0	24	0
+2020-04-13	Columbia	Georgia	13073.0	71	0
+2020-04-20	Phelps	Nebraska	31137.0	1	0
+2020-04-12	Davie	North Carolina	37059.0	21	2
+2020-03-22	Middlesex	Connecticut	9007.0	6	0
+2020-04-15	Starr	Texas	48427.0	7	0
+2020-04-16	Palm Beach	Florida	12099.0	1865	112
+2020-04-19	Latah	Idaho	16057.0	3	0
+2020-04-04	Castro	Texas	48069.0	10	1
+2020-03-28	Taylor	Georgia	13269.0	1	0
+2020-03-29	Seminole	Georgia	13253.0	5	0
+2020-04-20	Caledonia	Vermont	50005.0	12	0
+2020-04-18	Bastrop	Texas	48021.0	44	2
+2020-03-28	Yalobusha	Mississippi	28161.0	3	0
+2020-03-24	Chester	South Carolina	45023.0	1	0
+2020-04-05	Davis	Utah	49011.0	142	2
+2020-03-31	Houston	Georgia	13153.0	30	3
+2020-04-15	Polk	Wisconsin	55095.0	3	0
+2020-03-30	Lamar	Georgia	13171.0	3	0
+2020-03-30	Fremont	Colorado	8043.0	2	0
+2020-03-29	Newport	Rhode Island	44005.0	17	0
+2020-04-09	Muhlenberg	Kentucky	21177.0	26	0
+2020-04-22	Stark	Illinois	17175.0	1	0
+2020-03-19	Hamilton	Indiana	18057.0	2	0
+2020-04-07	Houston	Tennessee	47083.0	2	0
+2020-03-27	Tallahatchie	Mississippi	28135.0	2	0
+2020-04-15	Escambia	Florida	12033.0	261	4
+2020-03-30	Tarrant	Texas	48439.0	139	1
+2020-04-15	Wyoming	West Virginia	54109.0	1	0
+2020-04-05	Erie	Ohio	39043.0	8	1
+2020-04-02	Jasper	Georgia	13159.0	2	0
+2020-03-28	Chesterfield	South Carolina	45025.0	4	0
+2020-04-20	Waynesboro city	Virginia	51820.0	8	0
+2020-03-31	Effingham	Georgia	13103.0	5	0
+2020-03-18	Howard	Maryland	24027.0	8	0
+2020-03-29	Walton	Georgia	13297.0	4	0
+2020-04-22	Suwannee	Florida	12121.0	104	9
+2020-03-25	Washington	Nebraska	31177.0	5	0
+2020-04-07	Wythe	Virginia	51197.0	3	0
+2020-04-09	Kleberg	Texas	48273.0	2	0
+2020-04-21	Wayne	North Carolina	37191.0	581	5
+2020-04-18	Angelina	Texas	48005.0	23	0
+2020-04-20	Middlesex	Virginia	51119.0	3	0
+2020-04-20	Clinton	Kentucky	21053.0	2	0
+2020-04-05	Lawrence	Arkansas	5075.0	3	1
+2020-04-09	Lynn	Texas	48305.0	3	0
+2020-04-15	Rutherford	North Carolina	37161.0	45	2
+2020-03-27	Fairfield	South Carolina	45039.0	4	0
+2020-03-07	Fairfax	Virginia	51059.0	1	0
+2020-04-09	Chickasaw	Mississippi	28017.0	20	2
+2020-04-08	Schoolcraft	Michigan	26153.0	1	0
+2020-04-06	Santa Cruz	California	6087.0	71	1
+2020-04-07	Wayne	Ohio	39169.0	29	0
+2020-03-26	Monongalia	West Virginia	54061.0	24	0
+2020-03-17	Walla Walla	Washington	53071.0	1	0
+2020-04-07	Wirt	West Virginia	54105.0	1	0
+2020-04-01	Dale	Alabama	1045.0	1	0
+2020-04-13	Terry	Texas	48445.0	10	0
+2020-03-27	Shasta	California	6089.0	3	1
+2020-04-03	Unknown	Arizona	nan	0	4
+2020-04-15	Placer	California	6061.0	129	7
+2020-04-17	Emmons	North Dakota	38029.0	1	1
+2020-03-24	Pueblo	Colorado	8101.0	3	0
+2020-04-19	Bullitt	Kentucky	21029.0	35	2
+2020-04-23	Creek	Oklahoma	40037.0	71	5
+2020-04-12	Johnson	Georgia	13167.0	19	1
+2020-04-17	Logan	West Virginia	54045.0	8	1
+2020-04-07	Iberia	Louisiana	22045.0	89	5
+2020-03-30	Potter	Texas	48375.0	5	0
+2020-03-31	Bristol	Massachusetts	25005.0	306	2
+2020-04-19	Henry	Missouri	29083.0	6	1
+2020-04-16	Knox	Illinois	17095.0	2	0
+2020-03-22	Monroe	Tennessee	47123.0	3	0
+2020-03-26	Logan	Oklahoma	40083.0	3	0
+2020-04-05	San Augustine	Texas	48405.0	4	1
+2020-04-01	Pointe Coupee	Louisiana	22077.0	7	0
+2020-04-19	Overton	Tennessee	47133.0	7	0
+2020-04-15	Jackson	Wisconsin	55053.0	10	1
+2020-04-17	Sublette	Wyoming	56035.0	1	0
+2020-03-26	Mahoning	Ohio	39099.0	51	1
+2020-04-13	Pratt	Kansas	20151.0	1	0
+2020-04-13	Clearwater	Minnesota	27029.0	2	0
+2020-03-28	Rapides	Louisiana	22079.0	37	1
+2020-04-17	Anderson	Kansas	20003.0	1	0
+2020-04-21	Kent	Michigan	26081.0	626	25
+2020-04-14	Archuleta	Colorado	8007.0	6	0
+2020-04-18	Williamsburg city	Virginia	51830.0	19	1
+2020-04-04	Calhoun	Georgia	13037.0	15	1
+2020-04-11	Doña Ana	New Mexico	35013.0	49	0
+2020-02-14	Orange	California	6059.0	1	0
+2020-04-23	Yuma	Colorado	8125.0	5	0
+2020-04-20	Humphreys	Tennessee	47085.0	7	0
+2020-04-01	Oconto	Wisconsin	55083.0	1	0
+2020-04-08	Fort Bend	Texas	48157.0	417	7
+2020-03-24	Miller	Georgia	13201.0	1	0
+2020-04-04	Guadalupe	Texas	48187.0	26	0
+2020-03-28	Sandusky	Ohio	39143.0	2	0
+2020-04-08	Telfair	Georgia	13271.0	6	0
+2020-04-01	Lynchburg city	Virginia	51680.0	7	0
+2020-04-06	Jones	Georgia	13169.0	6	0
+2020-03-17	Charlotte	Florida	12015.0	1	0
+2020-04-09	Bartholomew	Indiana	18005.0	83	4
+2020-04-16	Yalobusha	Mississippi	28161.0	14	0
+2020-04-02	Knox	Maine	23013.0	7	0
+2020-03-20	Stark	Ohio	39151.0	6	0
+2020-04-20	Bath	Kentucky	21011.0	3	0
+2020-04-11	Will	Illinois	17197.0	1126	56
+2020-03-22	Harrison	Indiana	18061.0	1	0
+2020-04-17	Holmes	Ohio	39075.0	3	0
+2020-04-14	Lawrence	South Dakota	46081.0	9	0
+2020-04-02	Galax city	Virginia	51640.0	1	0
+2020-04-07	Hampden	Massachusetts	25013.0	997	56
+2020-04-09	Gallatin	Montana	30031.0	128	0
+2020-03-28	Gosper	Nebraska	31073.0	1	0
+2020-03-24	Madison	Indiana	18095.0	3	0
+2020-03-19	Orange	Vermont	50017.0	2	0
+2020-03-11	Wake	North Carolina	37183.0	7	0
+2020-03-29	White	Tennessee	47185.0	1	0
+2020-03-24	Newton	Georgia	13217.0	6	0
+2020-04-06	St. Joseph	Michigan	26149.0	11	0
+2020-04-18	Johnson	Kansas	20091.0	369	25
+2020-04-17	Dodge	Georgia	13091.0	19	0
+2020-03-25	Lee	North Carolina	37105.0	1	0
+2020-04-11	Jefferson	Iowa	19101.0	4	0
+2020-04-08	Santa Cruz	California	6087.0	76	1
+2020-04-16	Montgomery	New York	36057.0	32	1
+2020-04-16	Plumas	California	6063.0	4	0
+2020-04-15	Dodge	Minnesota	27039.0	16	0
+2020-03-18	Stark	Ohio	39151.0	3	0
+2020-04-14	Morgan	Illinois	17137.0	11	1
+2020-04-12	St. Tammany	Louisiana	22103.0	864	39
+2020-04-14	Wapello	Iowa	19179.0	7	0
+2020-04-09	Athens	Ohio	39009.0	3	1
+2020-03-31	Williamsburg	South Carolina	45089.0	2	0
+2020-04-21	Sherman	Texas	48421.0	7	0
+2020-04-14	Broomfield	Colorado	8014.0	88	2
+2020-04-22	Otero	Colorado	8089.0	7	0
+2020-04-20	Woodward	Oklahoma	40153.0	1	0
+2020-03-31	Houghton	Michigan	26061.0	1	0
+2020-04-09	Prairie	Arkansas	5117.0	2	0
+2020-04-15	Nacogdoches	Texas	48347.0	64	6
+2020-04-17	Stephenson	Illinois	17177.0	10	0
+2020-03-29	Bowie	Texas	48037.0	3	0
+2020-04-21	Coffey	Kansas	20031.0	47	6
+2020-04-01	Marion	Illinois	17121.0	2	0
+2020-04-02	Laramie	Wyoming	56021.0	37	0
+2020-04-12	Grundy	Illinois	17063.0	21	0
+2020-03-28	Marion	Mississippi	28091.0	3	0
+2020-03-25	Winn	Louisiana	22127.0	1	0
+2020-04-08	New Kent	Virginia	51127.0	11	0
+2020-04-16	Bee	Texas	48025.0	3	0
+2020-04-08	Jefferson	Idaho	16051.0	4	0
+2020-04-15	Androscoggin	Maine	23001.0	31	1
+2020-04-20	Lyon	Nevada	32019.0	18	0
+2020-03-26	Albany	New York	36001.0	171	0
+2020-04-12	Crawford	Pennsylvania	42039.0	15	0
+2020-03-29	Montgomery	Kansas	20125.0	3	0
+2020-03-25	Frederick	Maryland	24021.0	7	0
+2020-04-16	Mohave	Arizona	4015.0	51	2
+2020-03-22	Williamson	Illinois	17199.0	1	0
+2020-04-17	Mobile	Alabama	1097.0	627	25
+2020-04-01	Chambers	Alabama	1017.0	45	4
+2020-03-31	Livingston	Illinois	17105.0	3	0
+2020-04-21	Toombs	Georgia	13279.0	21	3
+2020-04-15	Brown	Wisconsin	55009.0	114	1
+2020-04-17	Caswell	North Carolina	37033.0	7	0
+2020-04-09	Polk	Missouri	29167.0	1	0
+2020-04-23	Atlantic	New Jersey	34001.0	544	30
+2020-03-23	Yavapai	Arizona	4025.0	3	0
+2020-04-06	Benton	Arkansas	5007.0	42	0
+2020-04-05	Bracken	Kentucky	21023.0	1	0
+2020-03-31	Kent	Michigan	26081.0	108	1
+2020-03-14	Butler	Ohio	39017.0	4	0
+2020-04-03	Forsyth	Georgia	13117.0	61	1
+2020-03-18	McCook	South Dakota	46087.0	1	0
+2020-04-23	Woodruff	Arkansas	5147.0	1	0
+2020-04-14	New Kent	Virginia	51127.0	15	0
+2020-04-03	Manatee	Florida	12081.0	104	3
+2020-04-20	Midland	Michigan	26111.0	47	3
+2020-04-06	Campbell	Wyoming	56005.0	9	0
+2020-04-18	Williams	Ohio	39171.0	7	1
+2020-04-10	Person	North Carolina	37145.0	8	0
+2020-04-09	Tippah	Mississippi	28139.0	41	6
+2020-04-08	Unknown	Louisiana	nan	49	2
+2020-04-17	Island	Washington	53029.0	165	8
+2020-04-05	Sumter	Alabama	1119.0	7	0
+2020-04-11	Routt	Colorado	8107.0	35	1
+2020-04-17	Putnam	New York	36079.0	578	29
+2020-04-10	Iron	Utah	49021.0	13	0
+2020-04-08	Nicollet	Minnesota	27103.0	5	0
+2020-03-30	Greene	Tennessee	47059.0	12	0
+2020-03-26	Norfolk city	Virginia	51710.0	6	0
+2020-04-11	Bell	Texas	48027.0	91	3
+2020-04-02	Buchanan	Missouri	29021.0	5	0
+2020-04-17	Shawnee	Kansas	20177.0	90	5
+2020-03-30	Harford	Maryland	24025.0	24	0
+2020-03-29	Adair	Missouri	29001.0	2	0
+2020-04-23	Rockwall	Texas	48397.0	48	0
+2020-04-09	Caldwell	Texas	48055.0	5	0
+2020-04-14	Hyde	South Dakota	46069.0	1	0
+2020-04-09	Jackson	Texas	48239.0	4	0
+2020-04-21	Douglas	Minnesota	27041.0	2	0
+2020-04-10	Haywood	Tennessee	47075.0	13	1
+2020-04-11	Lanier	Georgia	13173.0	5	0
+2020-03-22	St. Charles	Missouri	29183.0	3	0
+2020-04-09	Bibb	Alabama	1007.0	11	0
+2020-04-07	Clay	Indiana	18021.0	7	0
+2020-03-19	San Benito	California	6069.0	5	1
+2020-03-25	Juniata	Pennsylvania	42067.0	1	0
+2020-03-20	Weber	Utah	49057.0	6	0
+2020-04-03	Pendleton	Kentucky	21191.0	1	0
+2020-04-22	Tulsa	Oklahoma	40143.0	437	25
+2020-04-15	Crawford	Wisconsin	55023.0	3	0
+2020-04-12	Angelina	Texas	48005.0	16	0
+2020-04-19	Todd	South Dakota	46121.0	1	0
+2020-04-04	Jewell	Kansas	20089.0	1	0
+2020-04-18	Roosevelt	Montana	30085.0	6	0
+2020-03-30	Orange	Indiana	18117.0	2	0
+2020-03-22	Wicomico	Maryland	24045.0	2	0
+2020-03-29	Washington	Louisiana	22117.0	12	1
+2020-04-03	Poinsett	Arkansas	5111.0	5	0
+2020-04-08	Lexington city	Virginia	51678.0	3	0
+2020-03-29	Fulton	Ohio	39051.0	2	0
+2020-03-25	Clay	Mississippi	28025.0	1	0
+2020-03-24	Wilkinson	Mississippi	28157.0	4	0
+2020-04-21	Dimmit	Texas	48127.0	1	0
+2020-03-22	Westchester	New York	36119.0	1873	0
+2020-04-17	Abbeville	South Carolina	45001.0	10	0
+2020-04-13	Washington	Florida	12133.0	4	0
+2020-03-28	Marion	Florida	12083.0	18	0
+2020-03-28	Daviess	Kentucky	21059.0	20	0
+2020-04-04	Clark	Kentucky	21049.0	11	0
+2020-04-18	Ellis	Texas	48139.0	94	3
+2020-04-12	Centre	Pennsylvania	42027.0	70	0
+2020-04-07	Marion	South Carolina	45067.0	5	1
+2020-03-30	Greene	Georgia	13133.0	3	0
+2020-03-19	Miami-Dade	Florida	12086.0	101	0
+2020-04-08	Pipestone	Minnesota	27117.0	1	0
+2020-03-30	Livingston	Missouri	29117.0	1	0
+2020-03-31	Ravalli	Montana	30081.0	1	0
+2020-04-22	Martin	Texas	48317.0	2	0
+2020-04-08	San Joaquin	California	6077.0	237	14
+2020-03-24	Sampson	North Carolina	37163.0	1	0
+2020-03-25	Roanoke	Virginia	51161.0	1	0
+2020-04-23	Hardin	Kentucky	21093.0	32	0
+2020-03-29	Kent	Maryland	24029.0	3	0
+2020-04-07	Knox	Illinois	17095.0	1	0
+2020-04-20	Warren	Pennsylvania	42123.0	1	0
+2020-04-06	Bureau	Illinois	17011.0	3	0
+2020-03-29	El Paso	Colorado	8041.0	214	11
+2020-03-17	Fulton	Georgia	13121.0	33	0
+2020-04-16	Chelan	Washington	53007.0	63	6
+2020-04-11	Columbia	Florida	12023.0	25	0
+2020-04-13	Pemiscot	Missouri	29155.0	8	0
+2020-04-14	Anderson	South Carolina	45007.0	111	5
+2020-04-06	Mathews	Virginia	51115.0	2	0
+2020-03-27	Geauga	Ohio	39055.0	10	0
+2020-04-17	Surry	North Carolina	37171.0	16	0
+2020-04-14	Custer	Oklahoma	40039.0	7	0
+2020-03-24	Gallia	Ohio	39053.0	1	1
+2020-03-21	Franklin	Vermont	50011.0	2	0
+2020-04-03	Rockbridge	Virginia	51163.0	2	0
+2020-03-11	Polk	Georgia	13233.0	1	0
+2020-03-19	McLennan	Texas	48309.0	7	0
+2020-03-17	Jefferson	Louisiana	22051.0	35	0
+2020-04-17	Marquette	Wisconsin	55077.0	3	0
+2020-03-27	Taylor	Texas	48441.0	1	0
+2020-03-28	Blue Earth	Minnesota	27013.0	7	0
+2020-04-12	Pratt	Kansas	20151.0	1	0
+2020-04-08	Henderson	Kentucky	21101.0	20	0
+2020-03-25	Fairfax	Virginia	51059.0	76	1
+2020-03-18	Franklin	Ohio	39049.0	7	0
+2020-04-06	Cass	Missouri	29037.0	26	1
+2020-02-09	Maricopa	Arizona	4013.0	1	0
+2020-03-23	Schoharie	New York	36095.0	1	0
+2020-04-11	Poinsett	Arkansas	5111.0	7	0
+2020-04-18	Buchanan	Iowa	19019.0	8	0
+2020-04-11	Salem	New Jersey	34033.0	56	3
+2020-04-20	Lake	South Dakota	46079.0	3	0
+2020-04-09	Lexington city	Virginia	51678.0	3	0
+2020-04-05	Park	Wyoming	56029.0	1	0
+2020-03-18	Jefferson	West Virginia	54037.0	1	0
+2020-04-13	Florence	South Carolina	45041.0	79	7
+2020-03-25	Codington	South Dakota	46029.0	1	0
+2020-04-14	Madison	Iowa	19121.0	3	1
+2020-03-31	Ottawa	Ohio	39123.0	2	0
+2020-04-02	Orange	Virginia	51137.0	4	0
+2020-04-08	Bristol	Rhode Island	44001.0	31	0
+2020-04-15	McHenry	Illinois	17111.0	264	11
+2020-04-22	Niagara	New York	36063.0	268	10
+2020-04-21	Washington	Oklahoma	40147.0	192	10
+2020-03-27	Unknown	Tennessee	nan	172	4
+2020-04-15	Lincoln	Mississippi	28085.0	81	4
+2020-03-26	Union	New Jersey	34039.0	432	3
+2020-04-22	Columbia	Wisconsin	55021.0	27	1
+2020-04-19	White Pine	Nevada	32033.0	3	0
+2020-03-21	McLean	Illinois	17113.0	6	0
+2020-04-16	Snohomish	Washington	53061.0	2031	85
+2020-04-06	Winona	Minnesota	27169.0	14	2
+2020-04-13	Suffolk city	Virginia	51800.0	51	0
+2020-04-23	Napa	California	6055.0	58	2
+2020-03-28	Dyer	Tennessee	47045.0	3	0
+2020-04-21	Robertson	Texas	48395.0	2	0
+2020-03-28	Peoria	Illinois	17143.0	7	0
+2020-04-02	Genesee	Michigan	26049.0	349	10
+2020-04-17	Greene	Iowa	19073.0	1	0
+2020-04-20	Suwannee	Florida	12121.0	98	8
+2020-04-21	Coles	Illinois	17029.0	17	0
+2020-04-19	Rutland	Vermont	50021.0	43	1
+2020-04-08	Kendall	Illinois	17093.0	79	2
+2020-04-18	Montgomery	Kentucky	21173.0	9	0
+2020-04-09	Pennington	South Dakota	46103.0	7	0
+2020-04-11	Perry	Missouri	29157.0	34	0
+2020-04-16	Comanche	Texas	48093.0	3	0
+2020-04-09	Webster	Kentucky	21233.0	7	0
+2020-04-21	Montour	Pennsylvania	42093.0	48	0
+2020-03-15	James City	Virginia	51095.0	9	1
+2020-04-23	Bon Homme	South Dakota	46009.0	4	0
+2020-03-27	Lincoln	Missouri	29113.0	2	0
+2020-04-08	San Juan	Washington	53055.0	12	0
+2020-04-08	Calaveras	California	6009.0	5	0
+2020-04-10	Towns	Georgia	13281.0	3	0
+2020-04-03	Nowata	Oklahoma	40105.0	7	0
+2020-04-02	Pitkin	Colorado	8097.0	36	2
+2020-04-12	St. Joseph	Indiana	18141.0	192	3
+2020-03-20	Stanly	North Carolina	37167.0	1	0
+2020-04-05	Chenango	New York	36017.0	43	0
+2020-04-02	Gloucester	Virginia	51073.0	8	0
+2020-04-21	Giles	Virginia	51071.0	4	0
+2020-04-01	Grady	Georgia	13131.0	2	0
+2020-04-08	Gordon	Georgia	13129.0	26	3
+2020-04-15	Garland	Arkansas	5051.0	105	0
+2020-03-13	Terrebonne	Louisiana	22109.0	1	0
+2020-04-03	Grant	North Dakota	38037.0	1	0
+2020-03-23	Hudson	New Jersey	34017.0	190	0
+2020-03-28	Osage	Kansas	20139.0	1	0
+2020-03-30	Silver Bow	Montana	30093.0	9	0
+2020-04-08	Claiborne	Louisiana	22027.0	33	2
+2020-03-12	Adams	Colorado	8001.0	2	0
+2020-04-17	Baltimore	Maryland	24005.0	1569	37
+2020-02-11	Maricopa	Arizona	4013.0	1	0
+2020-04-04	Carroll	New Hampshire	33003.0	17	0
+2020-04-20	Oxford	Maine	23017.0	14	0
+2020-03-21	Berrien	Michigan	26021.0	2	0
+2020-04-06	Unknown	Puerto Rico	nan	513	21
+2020-04-19	Crawford	Kansas	20037.0	6	1
+2020-04-11	Bamberg	South Carolina	45009.0	7	0
+2020-04-18	Stewart	Georgia	13259.0	15	0
+2020-04-11	Pima	Arizona	4019.0	591	29
+2020-04-05	Bradford	Florida	12007.0	7	0
+2020-04-02	Cape May	New Jersey	34009.0	34	0
+2020-04-10	James City	Virginia	51095.0	125	3
+2020-03-30	Carroll	Illinois	17015.0	1	1
+2020-04-16	Douglas	Nebraska	31055.0	280	8
+2020-04-11	Sweetwater	Wyoming	56037.0	7	0
+2020-03-29	Transylvania	North Carolina	37175.0	3	0
+2020-04-08	Iowa	Wisconsin	55049.0	4	0
+2020-03-18	Coconino	Arizona	4005.0	1	0
+2020-04-08	Appling	Georgia	13001.0	7	0
+2020-03-16	Washtenaw	Michigan	26161.0	7	0
+2020-03-21	Placer	California	6061.0	12	1
+2020-04-15	Worth	Iowa	19195.0	1	0
+2020-03-27	Clark	Wisconsin	55019.0	3	0
+2020-03-14	Baldwin	Alabama	1003.0	1	0
+2020-03-29	Cumberland	North Carolina	37051.0	13	0
+2020-04-16	Charlottesville city	Virginia	51540.0	38	1
+2020-04-15	Livingston	Michigan	26093.0	254	7
+2020-04-14	Somerset	New Jersey	34035.0	1911	91
+2020-04-14	Morgan	Colorado	8087.0	89	0
+2020-04-09	Dickens	Texas	48125.0	1	0
+2020-03-25	Denver	Colorado	8031.0	214	3
+2020-04-21	Patrick	Virginia	51141.0	1	0
+2020-04-22	New Haven	Connecticut	9009.0	5811	345
+2020-04-09	Ada	Idaho	16001.0	494	6
+2020-04-12	Fayette	Georgia	13113.0	100	4
+2020-04-23	Wicomico	Maryland	24045.0	203	3
+2020-04-13	Buncombe	North Carolina	37021.0	36	3
+2020-04-21	Glacier	Montana	30035.0	4	0
+2020-04-01	Gogebic	Michigan	26053.0	2	1
+2020-03-21	Franklin	Washington	53021.0	1	0
+2020-03-26	Cleveland	Oklahoma	40027.0	39	3
+2020-04-04	Warren	New York	36113.0	20	1
+2020-04-07	Baltimore	Maryland	24005.0	652	11
+2020-04-10	Mason	Illinois	17125.0	3	0
+2020-04-03	Washington	Florida	12133.0	1	0
+2020-04-05	Clinton	New York	36019.0	33	0
+2020-03-23	Lincoln	Nebraska	31111.0	3	0
+2020-04-05	East Carroll	Louisiana	22035.0	1	0
+2020-03-25	Waseca	Minnesota	27161.0	2	0
+2020-04-08	Barbour	West Virginia	54001.0	4	0
+2020-03-16	Hunterdon	New Jersey	34019.0	1	0
+2020-03-17	McCook	South Dakota	46087.0	1	0
+2020-04-17	Sevier	Arkansas	5133.0	8	0
+2020-03-15	Pottawattamie	Iowa	19155.0	1	0
+2020-04-21	Kittitas	Washington	53037.0	14	0
+2020-03-31	Limestone	Texas	48293.0	2	0
+2020-03-26	Big Stone	Minnesota	27011.0	1	0
+2020-04-12	Upshur	West Virginia	54097.0	3	0
+2020-04-11	Harrison	Texas	48203.0	12	1
+2020-04-12	Carter	Kentucky	21043.0	3	0
+2020-02-29	Humboldt	California	6023.0	1	0
+2020-03-30	Marion	Ohio	39101.0	7	0
+2020-04-14	Dodge	Nebraska	31053.0	12	0
+2020-03-26	Franklin	Illinois	17055.0	1	0
+2020-04-16	Andrews	Texas	48003.0	19	0
+2020-04-14	Linn	Kansas	20107.0	6	0
+2020-04-17	Jefferson	Kansas	20087.0	6	0
+2020-03-11	Charlton	Georgia	13049.0	1	0
+2020-03-24	Livingston	Illinois	17105.0	1	0
+2020-03-18	Washington	Minnesota	27163.0	3	0
+2020-04-03	Marion	Georgia	13197.0	1	0
+2020-03-28	Carroll	Iowa	19027.0	1	0
+2020-04-07	Whitman	Washington	53075.0	13	0
+2020-04-23	Colquitt	Georgia	13071.0	163	6
+2020-03-21	Mecklenburg	North Carolina	37119.0	41	0
+2020-04-06	Kit Carson	Colorado	8063.0	5	0
+2020-04-21	Turner	Georgia	13287.0	58	4
+2020-04-23	Benton	Washington	53005.0	365	38
+2020-04-05	Desha	Arkansas	5041.0	5	0
+2020-03-27	Garvin	Oklahoma	40049.0	2	0
+2020-04-21	Macon	North Carolina	37113.0	2	1
+2020-04-05	Richland	Wisconsin	55103.0	3	0
+2020-04-15	Baltimore city	Maryland	24510.0	1060	26
+2020-03-30	Johnson	Arkansas	5071.0	3	0
+2020-04-16	Roanoke city	Virginia	51770.0	24	0
+2020-04-16	Noble	Oklahoma	40103.0	6	0
+2020-03-17	Washtenaw	Michigan	26161.0	7	0
+2020-04-20	Tillman	Oklahoma	40141.0	2	0
+2020-04-03	Kittitas	Washington	53037.0	10	0
+2020-04-23	Henrico	Virginia	51087.0	718	83
+2020-04-01	Burke	Georgia	13033.0	8	0
+2020-04-10	Santa Fe	New Mexico	35049.0	72	0
+2020-04-04	Madera	California	6039.0	30	2
+2020-04-18	Henry	Virginia	51089.0	10	0
+2020-04-04	Midland	Michigan	26111.0	17	0
+2020-04-18	Paulding	Ohio	39125.0	5	0
+2020-04-18	Lowndes	Mississippi	28087.0	32	1
+2020-04-22	Glynn	Georgia	13127.0	51	0
+2020-04-08	Frederick	Virginia	51069.0	46	0
+2020-03-31	Williamson	Texas	48491.0	42	1
+2020-04-21	Motley	Texas	48345.0	1	0
+2020-04-11	Mills	Iowa	19129.0	1	0
+2020-03-19	Travis	Texas	48453.0	7	0
+2020-03-29	Tattnall	Georgia	13267.0	2	0
+2020-04-06	Manistee	Michigan	26101.0	6	0
+2020-04-11	Grant	Kentucky	21081.0	13	1
+2020-04-15	Greene	Mississippi	28041.0	3	0
+2020-03-30	Phillips	Colorado	8095.0	1	0
+2020-04-21	Abbeville	South Carolina	45001.0	18	0
+2020-04-20	Washington	Mississippi	28151.0	71	3
+2020-03-30	LaSalle	Illinois	17099.0	5	2
+2020-03-23	Davis	Utah	49011.0	29	1
+2020-03-28	Santa Fe	New Mexico	35049.0	30	0
+2020-04-02	El Paso	Texas	48141.0	68	0
+2020-04-02	Rio Grande	Colorado	8105.0	5	0
+2020-04-20	Washington	Arkansas	5143.0	54	0
+2020-04-06	Unknown	Washington	nan	653	0
+2020-03-28	Genesee	Michigan	26049.0	110	5
+2020-04-04	Lexington	South Carolina	45063.0	95	3
+2020-03-12	Knox	Tennessee	47093.0	1	0
+2020-04-02	San Diego	California	6073.0	966	16
+2020-03-31	Williamson	Illinois	17199.0	1	0
+2020-04-01	Morton	North Dakota	38059.0	14	1
+2020-03-29	Terrebonne	Louisiana	22109.0	29	1
+2020-03-16	Bowie	Texas	48037.0	1	0
+2020-04-14	Baldwin	Georgia	13009.0	69	2
+2020-03-26	Salt Lake	Utah	49035.0	181	0
+2020-04-19	Calcasieu	Louisiana	22019.0	323	19
+2020-03-22	Josephine	Oregon	41033.0	1	0
+2020-03-21	Richmond city	Virginia	51760.0	6	0
+2020-04-08	Guadalupe	Texas	48187.0	45	0
+2020-03-13	Hillsborough	Florida	12057.0	3	0
+2020-03-20	Snohomish	Washington	53061.0	384	7
+2020-04-21	Presque Isle	Michigan	26141.0	6	0
+2020-04-14	Plaquemines	Louisiana	22075.0	142	11
+2020-04-20	Greene	Ohio	39057.0	39	2
+2020-04-09	Powell	Kentucky	21197.0	1	0
+2020-04-07	Massac	Illinois	17127.0	2	0
+2020-03-25	Montgomery	Pennsylvania	42091.0	172	2
+2020-04-09	Cass	Nebraska	31025.0	3	0
+2020-03-22	Kay	Oklahoma	40071.0	4	0
+2020-03-27	Wagoner	Oklahoma	40145.0	8	0
+2020-04-15	Ascension	Louisiana	22005.0	440	27
+2020-04-18	Unknown	Missouri	nan	2	0
+2020-04-19	Leon	Florida	12073.0	175	1
+2020-03-28	Camden	Georgia	13039.0	2	0
+2020-04-21	Fayette	Alabama	1057.0	4	0
+2020-03-18	Yamhill	Oregon	41071.0	2	0
+2020-04-11	Slope	North Dakota	38087.0	3	0
+2020-03-28	Limestone	Texas	48293.0	1	0
+2020-04-21	Adair	Iowa	19001.0	1	0
+2020-03-24	Delaware	Pennsylvania	42045.0	84	0
+2020-04-08	Lee	Georgia	13177.0	210	14
+2020-04-04	Lake	Illinois	17097.0	689	14
+2020-04-11	Mathews	Virginia	51115.0	2	0
+2020-03-16	Lafourche	Louisiana	22057.0	2	0
+2020-04-22	Powhatan	Virginia	51145.0	9	0
+2020-04-22	Fairbanks North Star Borough	Alaska	2090.0	79	2
+2020-04-11	Eaton	Michigan	26045.0	71	4
+2020-04-06	Ravalli	Montana	30081.0	2	0
+2020-03-26	Middlesex	Connecticut	9007.0	18	1
+2020-04-19	Tuscarawas	Ohio	39157.0	31	0
+2020-04-11	Allen	Ohio	39003.0	27	1
+2020-03-16	Kay	Oklahoma	40071.0	1	0
+2020-03-28	Van Wert	Ohio	39161.0	1	0
+2020-04-11	Somerset	Maryland	24039.0	4	0
+2020-03-29	Pike	Mississippi	28113.0	14	0
+2020-03-18	James City	Virginia	51095.0	13	2
+2020-03-15	Garland	Arkansas	5051.0	2	0
+2020-03-22	Miami	Indiana	18103.0	1	0
+2020-04-11	Trinity	Texas	48455.0	3	0
+2020-03-18	Greene	Missouri	29077.0	4	0
+2020-04-05	Jefferson	Ohio	39081.0	14	0
+2020-04-20	Fayette	Texas	48149.0	15	0
+2020-03-28	Union	New Jersey	34039.0	742	10
+2020-04-11	Seminole	Georgia	13253.0	14	0
+2020-04-17	Hancock	Kentucky	21091.0	6	0
+2020-04-12	Reno	Kansas	20155.0	11	0
+2020-04-05	Anne Arundel	Maryland	24003.0	319	6
+2020-04-19	Walker	Alabama	1127.0	85	0
+2020-04-01	Roane	Tennessee	47145.0	2	0
+2020-04-23	Yukon-Koyukuk Census Area	Alaska	2290.0	1	0
+2020-03-29	Hardin	Tennessee	47071.0	1	0
+2020-04-08	Clark	Missouri	29045.0	1	0
+2020-03-30	San Jacinto	Texas	48407.0	1	0
+2020-03-16	Carroll	Iowa	19027.0	1	0
+2020-04-06	Bartholomew	Indiana	18005.0	54	1
+2020-04-19	Chickasaw	Mississippi	28017.0	43	2
+2020-04-06	Stanton	Nebraska	31167.0	1	0
+2020-04-04	St. Lucie	Florida	12111.0	76	3
+2020-04-07	Choctaw	Oklahoma	40023.0	2	0
+2020-04-17	Sullivan	New York	36105.0	505	7
+2020-04-12	Otero	Colorado	8089.0	5	0
+2020-03-15	Bon Homme	South Dakota	46009.0	1	0
+2020-03-29	King George	Virginia	51099.0	2	0
